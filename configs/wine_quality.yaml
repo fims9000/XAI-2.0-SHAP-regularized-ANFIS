@@ -1,0 +1,46 @@
+# Конфигурация для Red Wine Quality Dataset
+dataset:
+  name: "Red Wine Quality"
+  source_type: "local"
+  file_path: "./src/datasets/winequality-red.csv"
+  description: "1599 образцов красного вина с 11 физико-химическими признаками для предсказания качества"
+  task_type: "regression"
+
+  # Простая обработка для стандартного датасета
+  special_preprocessing:
+    type: "wine_quality"
+    has_header: true
+    column_names: null
+    target_column: "quality"
+    target_mapping: null
+
+preprocessing:
+  test_size: 0.25
+  random_state: 42
+  scaling: true
+  stratify: true
+
+model:
+  num_rules: 33
+  mf_class: "Sigmoid"
+  optim: "BaseGA"
+  optim_params:
+    epoch: 100
+    pop_size: 30
+    verbose: true
+  reg_lambda: 0.1
+  seed: 42
+
+shap:
+  gamma: 0.5
+  training_epochs: 25
+  batch_size: 32
+  learning_rate: 0.005
+  sample_size: 100  # Для SHAP (как в скрипте с [:100])
+
+visualization:
+  figure_size: [20, 16]
+  style: "seaborn-v0_8"
+  save_plots: true
+  plot_format: "png"
+  dpi: 300

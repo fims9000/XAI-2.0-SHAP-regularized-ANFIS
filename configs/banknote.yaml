@@ -1,0 +1,46 @@
+# Конфигурация для Banknote Authentication Dataset
+dataset:
+  name: "Banknote Authentication"
+  source_type: "local"
+  file_path: "./src/datasets/data_banknote_authentication.csv"
+  description: "1372 экземпляра банкнот с 4 признаками, задача бинарной классификации"
+  task_type: "classification"
+
+  # Простая обработка для стандартного датасета
+  special_preprocessing:
+    type: "banknote_authentication"        # Тип для удобства логики
+    has_header: true                      # CSV содержит заголовки
+    column_names: null                    # Используем заголовки из файла
+    target_column: "target"               # Имя целевой колонки (0 — поддельная, 1 — настоящая)
+    target_mapping: null                  # Target уже в формате 0/1
+
+preprocessing:
+  test_size: 0.25
+  random_state: 42
+  scaling: true
+  stratify: true
+
+model:
+  num_rules: 10
+  mf_class: "Gaussian"
+  optim: "BaseGA"
+  optim_params:
+    epoch: 160
+    pop_size: 30
+    verbose: true
+  reg_lambda: 0.1
+  seed: 42
+
+shap:
+  gamma: 0.5
+  training_epochs: 25
+  batch_size: 32
+  learning_rate: 0.005
+  sample_size: 80
+
+visualization:
+  figure_size: [20, 16]
+  style: "seaborn-v0_8"
+  save_plots: true
+  plot_format: "png"
+  dpi: 300

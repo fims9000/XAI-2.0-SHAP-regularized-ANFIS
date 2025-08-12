@@ -1,0 +1,46 @@
+# Конфигурация для Heart Disease Dataset
+dataset:
+  name: "Heart Disease Kaggle Dataset"
+  source_type: "local"
+  file_path: "./src/datasets/heart.csv"
+  description: "303 пациента, 13 признаков для предсказания болезни сердца"
+  task_type: "classification"
+
+  # Простая обработка для стандартного датасета
+  special_preprocessing:
+    type: "heart_disease"        # Можно также использовать "standard"
+    has_header: true             # В файле есть заголовки колонок
+    column_names: null           # Используем заголовки из файла
+    target_column: "target"      # Имя целевой колонки
+    target_mapping: null         # Target уже в формате 0/1
+
+preprocessing:
+  test_size: 0.25
+  random_state: 42
+  scaling: true
+  stratify: true
+
+model:
+  num_rules: 5
+  mf_class: "GBell"
+  optim: "OriginalPSO"
+  optim_params:
+    epoch: 20
+    pop_size: 30
+    verbose: true
+  reg_lambda: 0.1
+  seed: 42
+
+shap:
+  gamma: 0.5
+  training_epochs: 25
+  batch_size: 32
+  learning_rate: 0.005
+  sample_size: 80
+
+visualization:
+  figure_size: [20, 16]
+  style: "seaborn-v0_8"
+  save_plots: true
+  plot_format: "png"
+  dpi: 300

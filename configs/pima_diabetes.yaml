@@ -1,0 +1,46 @@
+# Конфигурация для Pima Indians Diabetes Dataset
+dataset:
+  name: "Pima Indians Diabetes"
+  source_type: "local"
+  file_path: "./src/datasets/diabetes.csv"
+  description: "768 пациентов, 8 признаков для предсказания наличия диабета"
+  task_type: "classification"
+
+  # Простая обработка для стандартного табличного датасета
+  special_preprocessing:
+    type: "diabetes"
+    has_header: true
+    column_names: null                # Есть заголовки в файле
+    target_column: "Outcome"          # Целевая переменная
+    target_mapping: null              # Целевая уже 0/1
+
+preprocessing:
+  test_size: 0.25
+  random_state: 42
+  scaling: true
+  stratify: true
+
+model:
+  num_rules: 10
+  mf_class: "Gaussian"
+  optim: "OriginalPSO"
+  optim_params:
+    epoch: 30
+    pop_size: 30
+    verbose: true
+  reg_lambda: 0.1
+  seed: 42
+
+shap:
+  gamma: 0.3            # см. скрипт (в экспериментах — можно пробовать 0.3–0.5)
+  training_epochs: 15   # см. скрипт (эксперименты: 10–30)
+  batch_size: 32
+  learning_rate: 0.005
+  sample_size: 80
+
+visualization:
+  figure_size: [20, 16]
+  style: "seaborn-v0_8"
+  save_plots: true
+  plot_format: "png"
+  dpi: 300
