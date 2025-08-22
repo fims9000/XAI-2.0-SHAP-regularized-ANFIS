@@ -262,7 +262,7 @@ The software is provided "as is", without any warranties, express or implied. Th
 
 ## 🏛️ Institutional Affiliation
 
-This work was performed as part of research in explainable artificial intelligence (XAI 2.0) and fuzzy neural systems.
+The work was performed within the framework of the state assignment of the Ministry of Science and Higher Education of the Russian Federation (topic No. 124112200072-2).
 
 ## 📖 Related Publications
 
