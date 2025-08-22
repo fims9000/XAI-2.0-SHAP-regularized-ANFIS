@@ -243,7 +243,7 @@ Zenodo. https://doi.org/10.5281/zenodo.16790521
 Y. Trofimov, A. Shevchenko, A. Ilin, A. Lebedev, and A. Averkin, 
 "XAI 2.0: Embedded SHAP Regularization as a Principle for Building 
 Globally and Locally Interpretable Models," Zenodo, v1.0.0, 2025. 
-[Online]. Available: https://doi.org/10.5281/zenodo.16790521
+[Online]. Available: https://doi.org/10.5281/zenodo.16790520
 ```
 
 ## 📄 License
