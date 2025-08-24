@@ -1,0 +1,52 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+title: "XAI 2.0: Embedded SHAP Regularization as a Principle for Building Globally and Locally Interpretable Models"
+version: "v1.0.1"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.16816218"
+  - type: url
+    value: "https://doi.org/10.5281/zenodo.16816218"
+authors:
+  - family-names: "Trofimov"
+    given-names: "Yuri"
+    orcid: "https://orcid.org/0009-0005-6943-7432"
+  - family-names: "Ilin"
+    given-names: "Andrei Sergeevich"
+    orcid: "https://orcid.org/0009-0007-9599-4958"
+  - family-names: "Lebedev"
+    given-names: "Alexander Dmitrievich"
+    orcid: "https://orcid.org/0009-0001-1046-5982"
+  - family-names: "Shevchenko"
+    given-names: "Aleksey Valerievich"
+    orcid: "https://orcid.org/0009-0002-0955-6980"
+  - family-names: "Averkin"
+    given-names: "Aleksey Nikolaevich"
+    orcid: "https://orcid.org/0000-0003-1571-3583"
+release-date: "2025-08-12"
+repository-code: "https://doi.org/10.5281/zenodo.16816218"
+abstract: >
+  This release (XAI_SHAP__ANFIS v1.0.1) introduces SHAP-based embedded regularization 
+  as a principle for constructing globally and locally interpretable models.
+preferred-citation:
+  type: article
+  title: "XAI 2.0: Embedded SHAP Regularization as a Principle for Building Globally and Locally Interpretable Models v1.0.1 (XAI_SHAP__ANFIS)"
+  authors:
+    - family-names: "Trofimov"
+      given-names: "Yuri"
+      orcid: "https://orcid.org/0009-0005-6943-7432"
+    - family-names: "Ilin"
+      given-names: "Andrei Sergeevich"
+      orcid: "https://orcid.org/0009-0007-9599-4958"
+    - family-names: "Lebedev"
+      given-names: "Alexander Dmitrievich"
+      orcid: "https://orcid.org/0009-0001-1046-5982"
+    - family-names: "Shevchenko"
+      given-names: "Aleksey Valerievich"
+      orcid: "https://orcid.org/0009-0002-0955-6980"
+    - family-names: "Averkin"
+      given-names: "Aleksey Nikolaevich"
+      orcid: "https://orcid.org/0000-0003-1571-3583"
+  year: 2025
+  doi: "10.5281/zenodo.16816218"
+  url: "https://doi.org/10.5281/zenodo.16816218"
