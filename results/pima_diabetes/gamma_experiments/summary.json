@@ -1,0 +1,119 @@
+{
+  "dataset": "pima_diabetes",
+  "experiments": [
+    {
+      "dataset": "pima_diabetes",
+      "gamma": 0.1,
+      "vanilla": {
+        "metrics": {
+          "accuracy": 0.4479166666666667,
+          "precision": 0.38323353293413176,
+          "recall": 0.9552238805970149,
+          "f1_score": 0.5470085470085471,
+          "roc_auc": 0.7714626865671642
+        },
+        "training_time": 1.17720627784729
+      },
+      "regularized": {
+        "metrics": {
+          "accuracy": 0.7083333333333334,
+          "precision": 0.5932203389830508,
+          "recall": 0.5223880597014925,
+          "f1_score": 0.5555555555555556,
+          "roc_auc": 0.7121194029850747
+        },
+        "training_time": 4.987404823303223
+      },
+      "posthoc": {
+        "analysis_time": 0
+      },
+      "experiment_time": 98.54129791259766
+    },
+    {
+      "dataset": "pima_diabetes",
+      "gamma": 0.3,
+      "vanilla": {
+        "metrics": {
+          "accuracy": 0.4479166666666667,
+          "precision": 0.38323353293413176,
+          "recall": 0.9552238805970149,
+          "f1_score": 0.5470085470085471,
+          "roc_auc": 0.7714626865671642
+        },
+        "training_time": 1.5372204780578613
+      },
+      "regularized": {
+        "metrics": {
+          "accuracy": 0.4947916666666667,
+          "precision": 0.3828125,
+          "recall": 0.7313432835820896,
+          "f1_score": 0.5025641025641026,
+          "roc_auc": 0.6296119402985074
+        },
+        "training_time": 2.2305448055267334
+      },
+      "posthoc": {
+        "analysis_time": 0
+      },
+      "experiment_time": 103.35469675064087
+    },
+    {
+      "dataset": "pima_diabetes",
+      "gamma": 0.5,
+      "vanilla": {
+        "metrics": {
+          "accuracy": 0.4479166666666667,
+          "precision": 0.38323353293413176,
+          "recall": 0.9552238805970149,
+          "f1_score": 0.5470085470085471,
+          "roc_auc": 0.7714626865671642
+        },
+        "training_time": 1.3831889629364014
+      },
+      "regularized": {
+        "metrics": {
+          "accuracy": 0.4895833333333333,
+          "precision": 0.3798449612403101,
+          "recall": 0.7313432835820896,
+          "f1_score": 0.5,
+          "roc_auc": 0.6260298507462687
+        },
+        "training_time": 2.2063698768615723
+      },
+      "posthoc": {
+        "analysis_time": 0
+      },
+      "experiment_time": 107.88229370117188
+    },
+    {
+      "dataset": "pima_diabetes",
+      "gamma": 0.7,
+      "vanilla": {
+        "metrics": {
+          "accuracy": 0.4479166666666667,
+          "precision": 0.38323353293413176,
+          "recall": 0.9552238805970149,
+          "f1_score": 0.5470085470085471,
+          "roc_auc": 0.7714626865671642
+        },
+        "training_time": 1.1744818687438965
+      },
+      "regularized": {
+        "metrics": {
+          "accuracy": 0.4895833333333333,
+          "precision": 0.3798449612403101,
+          "recall": 0.7313432835820896,
+          "f1_score": 0.5,
+          "roc_auc": 0.6232835820895523
+        },
+        "training_time": 1.9683494567871094
+      },
+      "posthoc": {
+        "analysis_time": 0
+      },
+      "experiment_time": 111.85324358940125
+    }
+  ],
+  "total_experiments": 4,
+  "timestamp": "2025-11-15T14:50:38.963127"
+}

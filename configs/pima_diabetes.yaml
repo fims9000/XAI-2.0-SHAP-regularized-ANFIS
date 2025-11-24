@@ -21,22 +21,24 @@ preprocessing:
   stratify: true
 
 model:
-  num_rules: 10
-  mf_class: "Gaussian"
+  num_rules: 5          # Уменьшено для лучшей сходимости
+  mf_class: "GBell"     # Изменено на GBell для лучшей работы
   optim: "OriginalPSO"
   optim_params:
-    epoch: 30
+    epoch: 20           # Уменьшено для ускорения
     pop_size: 30
     verbose: true
   reg_lambda: 0.1
   seed: 42
 
 shap:
-  gamma: 0.3            # см. скрипт (в экспериментах — можно пробовать 0.3–0.5)
-  training_epochs: 15   # см. скрипт (эксперименты: 10–30)
+  gamma: 0.1            # Уменьшено для менее агрессивной регуляризации
+  training_epochs: 25   # Увеличено для лучшего обучения
   batch_size: 32
   learning_rate: 0.005
   sample_size: 80
+  early_stopping_patience: 10
+  early_stopping_min_delta: 0.001
 
 visualization:
   figure_size: [20, 16]

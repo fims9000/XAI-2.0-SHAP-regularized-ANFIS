@@ -1,0 +1,14 @@
+{
+  "vanilla": {
+    "sample_size": 100,
+    "explainer_type": "KernelExplainer",
+    "background_size": 100,
+    "analysis_time": 33.0930392742157
+  },
+  "regularized": {
+    "sample_size": 100,
+    "explainer_type": "KernelExplainer",
+    "background_size": 100,
+    "analysis_time": 33.13792943954468
+  }
+}

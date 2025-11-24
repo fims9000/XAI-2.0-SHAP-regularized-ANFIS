@@ -1,0 +1,440 @@
+2025/11/15 05:23:43 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: OriginalPSO(epoch=20, pop_size=30, c1=2.05, c2=2.05, w=0.4)
+2025/11/15 05:23:43 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 1, Current best: 0.8614556465178872, Global best: 0.8614556465178872, Runtime: 0.11797 seconds
+2025/11/15 05:23:43 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 2, Current best: 0.8614556465178872, Global best: 0.8614556465178872, Runtime: 0.08939 seconds
+2025/11/15 05:23:43 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 3, Current best: 0.8614556465178872, Global best: 0.8614556465178872, Runtime: 0.06980 seconds
+2025/11/15 05:23:44 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 4, Current best: 0.9125615763546797, Global best: 0.9125615763546797, Runtime: 0.07213 seconds
+2025/11/15 05:23:44 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 5, Current best: 0.9352553310886644, Global best: 0.9352553310886644, Runtime: 0.07216 seconds
+2025/11/15 05:23:44 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 6, Current best: 0.9352553310886644, Global best: 0.9352553310886644, Runtime: 0.06389 seconds
+2025/11/15 05:23:44 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 7, Current best: 0.9352553310886644, Global best: 0.9352553310886644, Runtime: 0.07950 seconds
+2025/11/15 05:23:44 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 8, Current best: 0.9352553310886644, Global best: 0.9352553310886644, Runtime: 0.09243 seconds
+2025/11/15 05:23:44 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 9, Current best: 0.9352553310886644, Global best: 0.9352553310886644, Runtime: 0.11071 seconds
+2025/11/15 05:23:44 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 10, Current best: 0.9431838609228129, Global best: 0.9431838609228129, Runtime: 0.10418 seconds
+2025/11/15 05:23:44 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 11, Current best: 0.9431838609228129, Global best: 0.9431838609228129, Runtime: 0.09671 seconds
+2025/11/15 05:23:44 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 12, Current best: 0.9431838609228129, Global best: 0.9431838609228129, Runtime: 0.09702 seconds
+2025/11/15 05:23:44 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 13, Current best: 0.9431838609228129, Global best: 0.9431838609228129, Runtime: 0.08670 seconds
+2025/11/15 05:23:44 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 14, Current best: 0.9431838609228129, Global best: 0.9431838609228129, Runtime: 0.07642 seconds
+2025/11/15 05:23:44 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 15, Current best: 0.9431838609228129, Global best: 0.9431838609228129, Runtime: 0.09950 seconds
+2025/11/15 05:23:45 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 16, Current best: 0.9431838609228129, Global best: 0.9431838609228129, Runtime: 0.08070 seconds
+2025/11/15 05:23:45 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 17, Current best: 0.9431838609228129, Global best: 0.9431838609228129, Runtime: 0.05706 seconds
+2025/11/15 05:23:45 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 18, Current best: 0.9431838609228129, Global best: 0.9431838609228129, Runtime: 0.06254 seconds
+2025/11/15 05:23:45 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 19, Current best: 0.9431838609228129, Global best: 0.9431838609228129, Runtime: 0.06996 seconds
+2025/11/15 05:23:45 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 20, Current best: 0.9431838609228129, Global best: 0.9431838609228129, Runtime: 0.05992 seconds
+Запуск экспериментов для: breast_cancer
+============================================================
+
+========================================
+АУДИТ СИСТЕМЫ
+========================================
+[INFO] Запуск аудита системы...
+
+============================================================
+ОТЧЕТ ОБ АУДИТЕ СИСТЕМЫ
+============================================================
+
+📅 Время аудита: 2025-11-15T17:23:38.364359
+
+[INFO] СИСТЕМА:
+   Платформа: Linux-6.17.4-76061704-generic-x86_64-with-glibc2.39
+   Система: Linux 6.17.4-76061704-generic
+   Процессор: x86_64
+
+[ЖЕЛЕЗО]
+   CPU (физических/логических): 8/16
+   Частота CPU: 2863.58 MHz
+   Память: 14.81 GB (доступно: 4.48 GB)
+   Диск: 459.52 GB (свободно: 98.16 GB)
+
+[PYTHON]
+   Версия: 3.12.3
+   Исполняемый файл: /home/lebedeffson/venv/bin/python
+
+[БИБЛИОТЕКИ]
+   numpy: 1.26.0
+   pandas: 2.1.3
+   scikit-learn: not installed
+   matplotlib: 3.10.5
+   seaborn: 0.13.2
+   torch: 2.8.0+cu128
+   shap: 0.48.0
+   PyYAML: not installed
+
+[GPU]
+   Доступен: Да
+   Количество устройств: 1
+   Устройство 0: NVIDIA GeForce RTX 4060 Laptop GPU
+      Память: 7.62 GB
+      Compute Capability: 8.9
+
+[ПАМЯТЬ] Текущее состояние:
+   Использовано: 10.36 GB (69.9%)
+   Свободно: 0.88 GB
+
+[INFO] CPU (текущее состояние):
+   Использование: 13.1%
+============================================================
+
+[OK] Отчет сохранен в: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/system_audit.json
+[INFO] Загрузка датасета: Breast Cancer Wisconsin (Diagnostic)
+[OK] Загружено: 569 образцов, 32 колонок
+[INFO] Колонки: ['ID', 'Diagnosis', 'radius_mean', 'texture_mean', 'perimeter_mean', 'area_mean', 'smoothness_mean', 'compactness_mean', 'concavity_mean', 'concave_points_mean', 'symmetry_mean', 'fractal_dimension_mean', 'radius_se', 'texture_se', 'perimeter_se', 'area_se', 'smoothness_se', 'compactness_se', 'concavity_se', 'concave_points_se', 'symmetry_se', 'fractal_dimension_se', 'radius_worst', 'texture_worst', 'perimeter_worst', 'area_worst', 'smoothness_worst', 'compactness_worst', 'concavity_worst', 'concave_points_worst', 'symmetry_worst', 'fractal_dimension_worst']
+
+[INFO] Распределение классов для 'Diagnosis':
+   Класс 0: 357 образцов (62.7%)
+   Класс 1: 212 образцов (37.3%)
+[INFO] Подготовлено:
+   Целевая переменная: 'Diagnosis' (2 уникальных значений)
+   Признаков: 30
+   Названия признаков: ['radius_mean', 'texture_mean', 'perimeter_mean', 'area_mean', 'smoothness_mean']...
+[OK] Предобработка завершена:
+   Train: 426 объектов
+   Test: (143, 30) объектов
+   Признаков: 30
+
+========================================
+ЭКСПЕРИМЕНТ 1: Vanilla ANFIS
+========================================
+[INFO] Обучение Vanilla ANFIS (Классификация)...
+
+[OK] Vanilla ANFIS (Классификация) обучен успешно!
+   Accuracy: 0.9790
+   Precision: 0.9630
+   Recall: 0.9811
+   F1-Score: 0.9720
+   ROC AUC: 0.9943
+   Время: 1.78 сек
+
+========================================
+ЭКСПЕРИМЕНТ 2: Post-hoc SHAP (Vanilla ANFIS)
+========================================
+[INFO] Post-hoc SHAP анализ (классификации)...
+  0%|          | 0/80 [00:00<?, ?it/s]  1%|▏         | 1/80 [00:00<00:12,  6.54it/s]  2%|▎         | 2/80 [00:00<00:13,  5.80it/s]  4%|▍         | 3/80 [00:00<00:14,  5.22it/s]  5%|▌         | 4/80 [00:00<00:15,  4.98it/s]  6%|▋         | 5/80 [00:00<00:14,  5.08it/s]  8%|▊         | 6/80 [00:01<00:14,  5.08it/s]  9%|▉         | 7/80 [00:01<00:13,  5.25it/s] 10%|█         | 8/80 [00:01<00:13,  5.17it/s] 11%|█▏        | 9/80 [00:01<00:14,  5.02it/s] 12%|█▎        | 10/80 [00:01<00:14,  4.88it/s] 14%|█▍        | 11/80 [00:02<00:14,  4.88it/s] 15%|█▌        | 12/80 [00:02<00:14,  4.85it/s] 16%|█▋        | 13/80 [00:02<00:14,  4.78it/s] 18%|█▊        | 14/80 [00:02<00:13,  4.85it/s] 19%|█▉        | 15/80 [00:02<00:13,  4.85it/s] 20%|██        | 16/80 [00:03<00:13,  4.79it/s] 21%|██▏       | 17/80 [00:03<00:13,  4.79it/s] 22%|██▎       | 18/80 [00:03<00:12,  4.82it/s] 24%|██▍       | 19/80 [00:03<00:12,  4.82it/s] 25%|██▌       | 20/80 [00:04<00:12,  4.92it/s] 26%|██▋       | 21/80 [00:04<00:11,  5.01it/s] 28%|██▊       | 22/80 [00:04<00:11,  5.10it/s] 29%|██▉       | 23/80 [00:04<00:11,  4.96it/s] 30%|███       | 24/80 [00:04<00:10,  5.09it/s] 31%|███▏      | 25/80 [00:04<00:10,  5.23it/s] 32%|███▎      | 26/80 [00:05<00:10,  5.34it/s] 34%|███▍      | 27/80 [00:05<00:09,  5.31it/s] 35%|███▌      | 28/80 [00:05<00:09,  5.22it/s] 36%|███▋      | 29/80 [00:05<00:09,  5.20it/s] 38%|███▊      | 30/80 [00:05<00:09,  5.16it/s] 39%|███▉      | 31/80 [00:06<00:09,  5.26it/s] 40%|████      | 32/80 [00:06<00:09,  5.26it/s] 41%|████▏     | 33/80 [00:06<00:08,  5.24it/s] 42%|████▎     | 34/80 [00:06<00:08,  5.13it/s] 44%|████▍     | 35/80 [00:06<00:08,  5.04it/s] 45%|████▌     | 36/80 [00:07<00:08,  5.01it/s] 46%|████▋     | 37/80 [00:07<00:08,  4.91it/s] 48%|████▊     | 38/80 [00:07<00:08,  4.90it/s] 49%|████▉     | 39/80 [00:07<00:08,  4.91it/s] 50%|█████     | 40/80 [00:07<00:08,  4.94it/s] 51%|█████▏    | 41/80 [00:08<00:09,  4.08it/s] 52%|█████▎    | 42/80 [00:08<00:08,  4.42it/s] 54%|█████▍    | 43/80 [00:08<00:08,  4.57it/s] 55%|█████▌    | 44/80 [00:08<00:07,  4.51it/s] 56%|█████▋    | 45/80 [00:09<00:08,  4.29it/s] 57%|█████▊    | 46/80 [00:09<00:07,  4.38it/s] 59%|█████▉    | 47/80 [00:09<00:07,  4.52it/s] 60%|██████    | 48/80 [00:09<00:07,  4.53it/s] 61%|██████▏   | 49/80 [00:10<00:06,  4.61it/s] 62%|██████▎   | 50/80 [00:10<00:06,  4.58it/s] 64%|██████▍   | 51/80 [00:10<00:06,  4.61it/s] 65%|██████▌   | 52/80 [00:10<00:05,  4.70it/s] 66%|██████▋   | 53/80 [00:10<00:05,  4.72it/s] 68%|██████▊   | 54/80 [00:11<00:05,  4.91it/s] 69%|██████▉   | 55/80 [00:11<00:05,  4.96it/s] 70%|███████   | 56/80 [00:11<00:04,  5.04it/s] 71%|███████▏  | 57/80 [00:11<00:04,  5.27it/s] 72%|███████▎  | 58/80 [00:11<00:04,  5.28it/s] 74%|███████▍  | 59/80 [00:11<00:03,  5.33it/s] 75%|███████▌  | 60/80 [00:12<00:03,  5.22it/s] 76%|███████▋  | 61/80 [00:12<00:03,  5.04it/s] 78%|███████▊  | 62/80 [00:12<00:03,  5.30it/s] 79%|███████▉  | 63/80 [00:12<00:03,  5.25it/s] 80%|████████  | 64/80 [00:12<00:03,  5.32it/s] 81%|████████▏ | 65/80 [00:13<00:02,  5.19it/s] 82%|████████▎ | 66/80 [00:13<00:02,  5.07it/s] 84%|████████▍ | 67/80 [00:13<00:02,  5.00it/s] 85%|████████▌ | 68/80 [00:13<00:02,  5.04it/s] 86%|████████▋ | 69/80 [00:13<00:02,  5.05it/s] 88%|████████▊ | 70/80 [00:14<00:01,  5.11it/s] 89%|████████▉ | 71/80 [00:14<00:01,  5.09it/s] 90%|█████████ | 72/80 [00:14<00:01,  5.14it/s] 91%|█████████▏| 73/80 [00:14<00:01,  4.63it/s] 92%|█████████▎| 74/80 [00:15<00:01,  4.46it/s] 94%|█████████▍| 75/80 [00:15<00:01,  4.58it/s] 95%|█████████▌| 76/80 [00:15<00:00,  4.70it/s] 96%|█████████▋| 77/80 [00:15<00:00,  4.81it/s] 98%|█████████▊| 78/80 [00:15<00:00,  4.43it/s] 99%|█████████▉| 79/80 [00:16<00:00,  4.35it/s]100%|██████████| 80/80 [00:16<00:00,  4.65it/s]100%|██████████| 80/80 [00:16<00:00,  4.90it/s]
+2025/11/15 05:24:01 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: OriginalPSO(epoch=20, pop_size=30, c1=2.05, c2=2.05, w=0.4)
+2025/11/15 05:24:01 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 1, Current best: 0.938423645320197, Global best: 0.938423645320197, Runtime: 0.03959 seconds
+2025/11/15 05:24:01 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 2, Current best: 0.9485119967047677, Global best: 0.9485119967047677, Runtime: 0.04333 seconds
+2025/11/15 05:24:01 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 3, Current best: 0.9485119967047677, Global best: 0.9485119967047677, Runtime: 0.04307 seconds
+2025/11/15 05:24:01 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 4, Current best: 0.9586606035551881, Global best: 0.9586606035551881, Runtime: 0.04192 seconds
+2025/11/15 05:24:01 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 5, Current best: 0.9586606035551881, Global best: 0.9586606035551881, Runtime: 0.03714 seconds
+2025/11/15 05:24:01 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 6, Current best: 0.9586606035551881, Global best: 0.9586606035551881, Runtime: 0.03592 seconds
+2025/11/15 05:24:02 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 7, Current best: 0.9791666666666666, Global best: 0.9791666666666666, Runtime: 0.04613 seconds
+2025/11/15 05:24:02 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 8, Current best: 0.9791666666666666, Global best: 0.9791666666666666, Runtime: 0.04517 seconds
+2025/11/15 05:24:02 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 9, Current best: 0.9791666666666666, Global best: 0.9791666666666666, Runtime: 0.04095 seconds
+2025/11/15 05:24:02 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 10, Current best: 0.9791666666666666, Global best: 0.9791666666666666, Runtime: 0.04202 seconds
+2025/11/15 05:24:02 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 11, Current best: 0.9791666666666666, Global best: 0.9791666666666666, Runtime: 0.04323 seconds
+2025/11/15 05:24:02 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 12, Current best: 0.9791666666666666, Global best: 0.9791666666666666, Runtime: 0.04291 seconds
+2025/11/15 05:24:02 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 13, Current best: 0.9791666666666666, Global best: 0.9791666666666666, Runtime: 0.03944 seconds
+2025/11/15 05:24:02 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 14, Current best: 0.9791666666666666, Global best: 0.9791666666666666, Runtime: 0.04435 seconds
+2025/11/15 05:24:02 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 15, Current best: 0.9791666666666666, Global best: 0.9791666666666666, Runtime: 0.04260 seconds
+2025/11/15 05:24:02 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 16, Current best: 0.9791666666666666, Global best: 0.9791666666666666, Runtime: 0.03823 seconds
+2025/11/15 05:24:02 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 17, Current best: 0.9791666666666666, Global best: 0.9791666666666666, Runtime: 0.03840 seconds
+2025/11/15 05:24:02 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 18, Current best: 0.9791666666666666, Global best: 0.9791666666666666, Runtime: 0.04109 seconds
+2025/11/15 05:24:02 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 19, Current best: 0.9791666666666666, Global best: 0.9791666666666666, Runtime: 0.03683 seconds
+2025/11/15 05:24:02 PM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 20, Current best: 0.9791666666666666, Global best: 0.9791666666666666, Runtime: 0.04218 seconds
+[OK] SHAP анализ завершен за 16.31 сек
+
+========================================
+ЭКСПЕРИМЕНТ 3: SHAP Regularization
+========================================
+[INFO] Начинаю обучение ANFIS с SHAP-регуляризацией (классификации)...
+   Эпоха 5/25: Total: 1.0884, Main: 0.7256, SHAP: 0.0001, Train Acc: 0.8294, F1: 0.8067, ROC: 0.9414 | Val Acc: 0.7558, F1: 0.7273 [WARNING](gap=0.074), Время: 0.28с
+   Эпоха 10/25: Total: 1.0321, Main: 0.6881, SHAP: 0.0000, Train Acc: 0.8500, F1: 0.8223, ROC: 0.9583 | Val Acc: 0.7907, F1: 0.7500 [WARNING](gap=0.059), Время: 0.29с
+   Эпоха 15/25: Total: 1.0207, Main: 0.6805, SHAP: 0.0000, Train Acc: 0.9029, F1: 0.8773, ROC: 0.9746 | Val Acc: 0.8372, F1: 0.8000 [WARNING](gap=0.066), Время: 0.27с
+   [WARNING] Ранняя остановка на эпохе 19 (лучшая эпоха: 9)
+[OK] Обучение завершено за 6.06 сек
+[OK] SHAP-регуляризация завершена:
+   accuracy: 0.8881
+   precision: 0.8033
+   recall: 0.9245
+   f1_score: 0.8596
+   roc_auc: 0.9721
+   Время: 6.06 сек
+
+========================================
+ЭКСПЕРИМЕНТ 4: Post-hoc SHAP (SHAP-регуляризованная модель)
+========================================
+[INFO] Post-hoc SHAP анализ (классификации)...
+  0%|          | 0/80 [00:00<?, ?it/s]  1%|▏         | 1/80 [00:00<00:10,  7.40it/s]  2%|▎         | 2/80 [00:00<00:12,  6.09it/s]  4%|▍         | 3/80 [00:00<00:13,  5.73it/s]  5%|▌         | 4/80 [00:00<00:14,  5.38it/s]  6%|▋         | 5/80 [00:00<00:13,  5.39it/s]  8%|▊         | 6/80 [00:01<00:13,  5.45it/s]  9%|▉         | 7/80 [00:01<00:13,  5.46it/s] 10%|█         | 8/80 [00:01<00:12,  5.64it/s] 11%|█▏        | 9/80 [00:01<00:11,  5.94it/s] 12%|█▎        | 10/80 [00:01<00:11,  6.13it/s] 14%|█▍        | 11/80 [00:01<00:11,  6.20it/s] 15%|█▌        | 12/80 [00:02<00:10,  6.42it/s] 16%|█▋        | 13/80 [00:02<00:10,  6.41it/s] 18%|█▊        | 14/80 [00:02<00:10,  6.46it/s] 19%|█▉        | 15/80 [00:02<00:10,  6.45it/s] 20%|██        | 16/80 [00:02<00:09,  6.51it/s] 21%|██▏       | 17/80 [00:02<00:09,  6.54it/s] 22%|██▎       | 18/80 [00:02<00:09,  6.75it/s] 24%|██▍       | 19/80 [00:03<00:09,  6.65it/s] 25%|██▌       | 20/80 [00:03<00:09,  6.62it/s] 26%|██▋       | 21/80 [00:03<00:09,  6.53it/s] 28%|██▊       | 22/80 [00:03<00:08,  6.59it/s] 29%|██▉       | 23/80 [00:03<00:08,  6.63it/s] 30%|███       | 24/80 [00:03<00:08,  6.63it/s] 31%|███▏      | 25/80 [00:03<00:08,  6.66it/s] 32%|███▎      | 26/80 [00:04<00:08,  6.50it/s] 34%|███▍      | 27/80 [00:04<00:08,  6.56it/s] 35%|███▌      | 28/80 [00:04<00:07,  6.51it/s] 36%|███▋      | 29/80 [00:04<00:07,  6.52it/s] 38%|███▊      | 30/80 [00:04<00:07,  6.55it/s] 39%|███▉      | 31/80 [00:04<00:07,  6.50it/s] 40%|████      | 32/80 [00:05<00:07,  6.55it/s] 41%|████▏     | 33/80 [00:05<00:07,  6.67it/s] 42%|████▎     | 34/80 [00:05<00:07,  6.42it/s] 44%|████▍     | 35/80 [00:05<00:07,  6.40it/s] 45%|████▌     | 36/80 [00:05<00:06,  6.34it/s] 46%|████▋     | 37/80 [00:05<00:07,  6.00it/s] 48%|████▊     | 38/80 [00:06<00:07,  5.89it/s] 49%|████▉     | 39/80 [00:06<00:07,  5.69it/s] 50%|█████     | 40/80 [00:06<00:07,  5.67it/s] 51%|█████▏    | 41/80 [00:06<00:06,  5.67it/s] 52%|█████▎    | 42/80 [00:06<00:06,  5.79it/s] 54%|█████▍    | 43/80 [00:06<00:06,  5.84it/s] 55%|█████▌    | 44/80 [00:07<00:06,  5.72it/s] 56%|█████▋    | 45/80 [00:07<00:06,  5.66it/s] 57%|█████▊    | 46/80 [00:07<00:06,  5.55it/s] 59%|█████▉    | 47/80 [00:07<00:06,  5.03it/s] 60%|██████    | 48/80 [00:07<00:06,  5.08it/s] 61%|██████▏   | 49/80 [00:08<00:05,  5.32it/s] 62%|██████▎   | 50/80 [00:08<00:05,  5.33it/s] 64%|██████▍   | 51/80 [00:08<00:05,  5.55it/s] 65%|██████▌   | 52/80 [00:08<00:04,  5.61it/s] 66%|██████▋   | 53/80 [00:08<00:04,  5.64it/s] 68%|██████▊   | 54/80 [00:08<00:04,  5.70it/s] 69%|██████▉   | 55/80 [00:09<00:04,  5.80it/s] 70%|███████   | 56/80 [00:09<00:04,  5.78it/s] 71%|███████▏  | 57/80 [00:09<00:03,  5.76it/s] 72%|███████▎  | 58/80 [00:09<00:03,  5.69it/s] 74%|███████▍  | 59/80 [00:09<00:03,  5.74it/s] 75%|███████▌  | 60/80 [00:10<00:03,  5.72it/s] 76%|███████▋  | 61/80 [00:10<00:03,  5.28it/s] 78%|███████▊  | 62/80 [00:10<00:03,  5.32it/s] 79%|███████▉  | 63/80 [00:10<00:03,  5.48it/s] 80%|████████  | 64/80 [00:10<00:02,  5.49it/s] 81%|████████▏ | 65/80 [00:10<00:02,  5.61it/s] 82%|████████▎ | 66/80 [00:11<00:02,  5.61it/s] 84%|████████▍ | 67/80 [00:11<00:02,  5.61it/s] 85%|████████▌ | 68/80 [00:11<00:02,  5.70it/s] 86%|████████▋ | 69/80 [00:11<00:01,  5.76it/s] 88%|████████▊ | 70/80 [00:11<00:01,  5.76it/s] 89%|████████▉ | 71/80 [00:11<00:01,  6.00it/s] 90%|█████████ | 72/80 [00:12<00:01,  6.13it/s] 91%|█████████▏| 73/80 [00:12<00:01,  6.21it/s] 92%|█████████▎| 74/80 [00:12<00:00,  6.08it/s] 94%|█████████▍| 75/80 [00:12<00:00,  6.14it/s] 95%|█████████▌| 76/80 [00:12<00:00,  6.30it/s] 96%|█████████▋| 77/80 [00:12<00:00,  6.31it/s] 98%|█████████▊| 78/80 [00:13<00:00,  6.47it/s] 99%|█████████▉| 79/80 [00:13<00:00,  6.54it/s]100%|██████████| 80/80 [00:13<00:00,  6.44it/s]100%|██████████| 80/80 [00:13<00:00,  5.99it/s]
+/home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/src/visualization/presentation_plots.py:226: UserWarning: set_ticklabels() should only be used with a fixed number of ticks, i.e. after set_ticks() or using a FixedLocator.
+  ax.set_xticklabels(methods, fontsize=13, color='#212121')
+[OK] SHAP анализ завершен за 13.36 сек
+[OK] Параметры post-hoc сохранены: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/posthoc_parameters.json
+
+========================================
+СРАВНЕНИЕ ПРАВИЛ ANFIS
+========================================
+[WARNING] Несоответствие размерностей: ожидалось 30 признаков, найдено 15
+[WARNING] Несоответствие размерностей: ожидалось 30 признаков, найдено 15
+[OK] Правила извлечены и сравнены:
+   Среднее сходство: 0.5299
+   Среднее различие коэффициентов: 0.4177
+   Среднее различие ФП: 0.5178
+
+========================================
+СРАВНИТЕЛЬНЫЙ АНАЛИЗ
+========================================
+
+VANILLA:
+  accuracy: 0.9790
+  precision: 0.9630
+  recall: 0.9811
+  f1_score: 0.9720
+  roc_auc: 0.9943
+  Время обучения: 1.78 сек
+
+REGULARIZED:
+  accuracy: 0.8881
+  precision: 0.8033
+  recall: 0.9245
+  f1_score: 0.8596
+  roc_auc: 0.9721
+  Время обучения: 6.06 сек
+
+[OK] Все эксперименты завершены успешно!
+
+========================================
+СОЗДАНИЕ ВИЗУАЛИЗАЦИИ
+========================================
+Создание комплексной визуализации...
+Сравнительная таблица сохранена: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/comparison_results.csv
+Визуализация создана и сохранена!
+
+Создание графиков обучения...
+[INFO] Графики обучения сохранены: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/training_plots.png
+
+Создание графиков сравнения правил...
+[INFO] График сравнения правил сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/rules_comparison.png
+
+Создание графиков сравнения SHAP методов...
+[INFO] График сравнения SHAP методов сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/shap_methods_comparison.png
+
+Создание графиков сравнения post-hoc SHAP...
+[INFO] График сравнения SHAP методов сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/shap_methods_comparison.png
+
+========================================
+СОЗДАНИЕ ОТДЕЛЬНЫХ ГРАФИКОВ ДЛЯ ПРЕЗЕНТАЦИИ
+========================================
+
+[INFO] Создание графика сравнения метрик обучения...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/01_training_metrics_comparison.png
+[INFO] Создание графика сравнения потерь...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/02_loss_comparison.png
+[INFO] Создание графика сравнения предсказаний и важности признаков...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/03_predictions_comparison.png
+[INFO] Создание графика сравнения ROC кривых...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/04_roc_comparison.png
+[INFO] Создание графика сравнения метрик...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/05_metrics_bar_comparison.png
+[INFO] Создание графика сравнения важности признаков...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/06_feature_importance_comparison.png
+[INFO] Создание детального графика сравнения правил...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/07_rules_comparison_detailed.png
+
+========================================
+АНАЛИЗ ВРЕМЕНИ ОБУЧЕНИЯ
+========================================
+Vanilla ANFIS: 1.78 сек
+SHAP-регуляризация: 6.06 сек
+Ускорение: 0.29x
+
+Vanilla + Post-hoc SHAP: 18.09 сек
+Ускорение относительно post-hoc: 2.98x
+[OK] Анализ времени сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/time_analysis.json
+
+[INFO] Результаты сохранены в: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer
+
+============================================================
+АВТОМАТИЧЕСКАЯ ПРОВЕРКА МЕТРИК
+============================================================
+============================================================
+ПРОВЕРКА МЕТРИК ПОСЛЕ ОБУЧЕНИЯ
+============================================================
+
+📊 МЕТРИКИ ИЗ CSV:
+------------------------------------------------------------
+     Method  accuracy  precision   recall  f1_score  roc_auc  Training_Time
+    Vanilla  0.979021   0.962963 0.981132  0.971963 0.994340       1.778475
+Regularized  0.888112   0.803279 0.924528  0.859649 0.972117       6.063113
+
+
+📄 TIME ANALYSIS:
+------------------------------------------------------------
+{
+  "vanilla_time": 1.7784748077392578,
+  "regularized_time": 6.063113451004028,
+  "speedup": 0.29332698820681796,
+  "posthoc_time": 16.312527418136597,
+  "total_posthoc_time": 18.091002225875854,
+  "speedup_vs_posthoc": 2.9837809191711653
+}
+
+📄 SYSTEM AUDIT:
+------------------------------------------------------------
+{
+  "timestamp": "2025-11-15T17:23:38.364359",
+  "system": {
+    "platform": "Linux-6.17.4-76061704-generic-x86_64-with-glibc2.39",
+    "system": "Linux",
+    "release": "6.17.4-76061704-generic",
+    "version": "#202510191616~1761932270~24.04~b3a306c SMP PREEMPT_DYNAMIC Fri O",
+    "machine": "x86_64",
+    "processor": "x86_64"
+  },
+  "hardware": {
+    "cpu_count_physical": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+      "current": 2863.578625,
+      "min": 1100.9799999999998,
+      "max": 5137.904
+    },
+    "memory_total_gb": 14.808773040771484,
+    "memory_available_gb": 4.484367370605469,
+    "disk_usage": {
+      "total_gb": 459.5223274230957,
+      "used_gb": 337.94957733154297,
+      "free_gb": 98.16023635864258
+    }
+  },
+  "python": {
+    "version": "3.12.3 (main, Aug 14 2025, 17:47:21) [GCC 13.3.0]",
+    "version_info": {
+      "major": 3,
+      "minor": 12,
+      "micro": 3
+    },
+    "executable": "/home/lebedeffson/venv/bin/python"
+  },
+  "libraries": {
+    "numpy": "1.26.0",
+    "pandas": "2.1.3",
+    "scikit-learn": "not installed",
+    "matplotlib": "3.10.5",
+    "seaborn": "0.13.2",
+    "torch": "2.8.0+cu128",
+    "shap": "0.48.0",
+    "PyYAML": "not installed"
+  },
+  "gpu": {
+    "available": true,
+    "count": 1,
+    "devices": [
+      {
+        "device_id": 0,
+        "name": "NVIDIA GeForce RTX 4060 Laptop GPU",
+        "memory_total_gb": 7.62261962890625,
+        "compute_capability": "8.9"
+      }
+    ]
+  },
+  "memory": {
+    "total_gb": 14.808773040771484,
+    "available_gb": 4.453460693359375,
+    "used_gb": 10.35531234741211,
+    "percent": 69.9,
+    "free_gb": 0.8842048645019531
+  },
+  "cpu": {
+    "usage_percent": 13.1,
+    "per_cpu_usage": [
+      9.1,
+      0.0,
+      8.1,
+      0.0,
+      9.3,
+      1.0,
+      33.3,
+      23.2,
+      15.2,
+      4.0,
+      23.8,
+      40.4,
+      11.1,
+      1.0,
+      8.2,
+      2.0
+    ],
+    "load_average": [
+      1.2919921875,
+      1.19189453125,
+      2.01611328125
+    ]
+  }
+}
+
+📄 POSTHOC PARAMETERS:
+------------------------------------------------------------
+{
+  "vanilla": {
+    "sample_size": 80,
+    "explainer_type": "KernelExplainer",
+    "background_size": 80,
+    "analysis_time": 16.312527418136597
+  },
+  "regularized": {
+    "sample_size": 80,
+    "explainer_type": "KernelExplainer",
+    "background_size": 80,
+    "analysis_time": 13.358038902282715
+  }
+}
+
+📈 ГРАФИКИ:
+------------------------------------------------------------
+Найдено графиков: 12
+  ✅ 01_training_metrics_comparison.png (641.0 KB)
+  ✅ 02_loss_comparison.png (253.6 KB)
+  ✅ 03_predictions_comparison.png (1323.0 KB)
+  ✅ 04_roc_comparison.png (259.8 KB)
+  ✅ 05_metrics_bar_comparison.png (202.1 KB)
+  ✅ 06_feature_importance_comparison.png (766.7 KB)
+  ✅ 07_rules_comparison_detailed.png (864.2 KB)
+  ✅ rules_comparison.png (470.1 KB)
+  ✅ shap_methods_comparison.png (1023.0 KB)
+  ✅ shap_regularization_analysis.png (1176.3 KB)
+  ✅ training_plots.png (986.4 KB)
+  ✅ vanilla_anfis_analysis.png (895.3 KB)
+
+============================================================
+ДЕТАЛЬНЫЙ АНАЛИЗ МЕТРИК
+============================================================
+
+🔵 VANILLA ANFIS:
+  accuracy: 0.979021
+  precision: 0.962963
+  recall: 0.981132
+  f1_score: 0.971963
+  roc_auc: 0.994340
+  Training_Time: 1.778475
+
+🟢 SHAP-РЕГУЛЯРИЗОВАННАЯ ANFIS:
+  accuracy: 0.888112
+  precision: 0.803279
+  recall: 0.924528
+  f1_score: 0.859649
+  roc_auc: 0.972117
+  Training_Time: 6.063113
+
+📊 УЛУЧШЕНИЯ:
+------------------------------------------------------------
+  accuracy: -0.090909 (-9.29%) ⬇️
+  precision: -0.159684 (-16.58%) ⬇️
+  recall: -0.056604 (-5.77%) ⬇️
+  f1_score: -0.112313 (-11.56%) ⬇️
+  roc_auc: -0.022222 (-2.23%) ⬇️
+
+⏱️ ВРЕМЯ ОБУЧЕНИЯ:
+------------------------------------------------------------
+  Vanilla: 1.78 сек
+  Regularized: 6.06 сек
+  Отношение: 0.29x
+
+✅ ПРОВЕРКА КАЧЕСТВА:
+------------------------------------------------------------
+  ⚠️ Accuracy снизилась: 0.9790 → 0.8881
+  ⚠️ ROC-AUC снизился: 0.9943 → 0.9721
+  ⚠️ F1-Score снизился: 0.9720 → 0.8596
+  ⚠️ Precision снизился: 0.9630 → 0.8033
+  ⚠️ Recall снизился: 0.9811 → 0.9245
+
+============================================================
+ПРОВЕРКА ЗАВЕРШЕНА
+============================================================

@@ -1,0 +1,27 @@
+{
+  "dataset": "breast_cancer",
+  "gamma": 0.5,
+  "vanilla": {
+    "metrics": {
+      "accuracy": 0.9790209790209791,
+      "precision": 0.9629629629629629,
+      "recall": 0.9811320754716981,
+      "f1_score": 0.9719626168224299,
+      "roc_auc": 0.9943396226415094
+    },
+    "training_time": 1.7506742477416992
+  },
+  "regularized": {
+    "metrics": {
+      "accuracy": 0.9440559440559441,
+      "precision": 0.9090909090909091,
+      "recall": 0.9433962264150944,
+      "f1_score": 0.9259259259259259,
+      "roc_auc": 0.9884696016771488
+    },
+    "training_time": 7.24381422996521
+  },
+  "posthoc": {
+    "analysis_time": 0
+  }
+}

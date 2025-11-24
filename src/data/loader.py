@@ -16,7 +16,7 @@ class DataLoader:
 
     def load_and_prepare_data(self):
         """Полный цикл загрузки и подготовки данных"""
-        print(f"📊 Загрузка датасета: {self.config['dataset']['name']}")
+        print(f"[INFO] Загрузка датасета: {self.config['dataset']['name']}")
 
         # Загрузка сырых данных
         raw_data = self._load_raw_data()
@@ -86,8 +86,8 @@ class DataLoader:
         else:
             raise ValueError(f"Неизвестный source_type: {dataset_config['source_type']}")
 
-        print(f"✅ Загружено: {data.shape[0]} образцов, {data.shape[1]} колонок")
-        print(f"📋 Колонки: {list(data.columns)}")
+        print(f"[OK] Загружено: {data.shape[0]} образцов, {data.shape[1]} колонок")
+        print(f"[INFO] Колонки: {list(data.columns)}")
         return data
 
     def _prepare_features_and_target(self, data):
@@ -117,7 +117,7 @@ class DataLoader:
             if target_col not in data.columns:
                 # Если target колонка не найдена, берем последнюю колонку
                 target_col = data.columns[-1]
-                print(f"⚠️ Колонка '{special.get('target_column', 'target')}' не найдена. Используется '{target_col}'")
+                print(f"[WARNING] Колонка '{special.get('target_column', 'target')}' не найдена. Используется '{target_col}'")
 
             # Целевая переменная
             if target_mapping:
@@ -142,7 +142,7 @@ class DataLoader:
 
             if target_col is None:
                 target_col = data.columns[-1]
-                print(f"⚠️ Target колонка не определена автоматически. Используется последняя колонка: '{target_col}'")
+                print(f"[WARNING] Target колонка не определена автоматически. Используется последняя колонка: '{target_col}'")
 
             y = data[target_col]
             X = data.drop(columns=[target_col])
@@ -151,7 +151,7 @@ class DataLoader:
         # Статистика классов
         self._print_class_distribution(y, target_col)
 
-        print(f"📊 Подготовлено:")
+        print(f"[INFO] Подготовлено:")
         print(f"   Целевая переменная: '{target_col}' ({len(y.unique())} уникальных значений)")
         print(f"   Признаков: {len(feature_names)}")
         print(f"   Названия признаков: {feature_names[:5]}{'...' if len(feature_names) > 5 else ''}")
@@ -180,7 +180,7 @@ class DataLoader:
             stratify=stratify
         )
 
-        print(f"✅ Предобработка завершена:")
+        print(f"[OK] Предобработка завершена:")
         print(f"   Train: {X_train.shape[0]} объектов")
         print(f"   Test: {X_test.shape} объектов")
         print(f"   Признаков: {X_train.shape[1]}")
@@ -189,7 +189,7 @@ class DataLoader:
 
     def _print_class_distribution(self, y, target_col):
         """Вывод статистики классов"""
-        print(f"\n📊 Распределение классов для '{target_col}':")
+        print(f"\n[INFO] Распределение классов для '{target_col}':")
         for class_val in sorted(y.unique()):
             count = (y == class_val).sum()
             percentage = count / len(y) * 100

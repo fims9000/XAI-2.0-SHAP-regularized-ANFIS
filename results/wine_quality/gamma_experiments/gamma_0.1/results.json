@@ -1,0 +1,23 @@
+{
+  "dataset": "wine_quality",
+  "gamma": 0.1,
+  "vanilla": {
+    "metrics": {
+      "rmse": 0.6571297425463034,
+      "mae": 0.4982505440711975,
+      "r2": 0.3346131443977356
+    },
+    "training_time": 22.6391282081604
+  },
+  "regularized": {
+    "metrics": {
+      "rmse": 0.8040506750335147,
+      "mae": 0.6071970462799072,
+      "r2": 0.0038176774978637695
+    },
+    "training_time": 15.279356479644775
+  },
+  "posthoc": {
+    "analysis_time": 0
+  }
+}

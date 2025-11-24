@@ -35,7 +35,7 @@ class ANFISManager:
     def train_vanilla_model(self, X_train, y_train, X_test, y_test):
         """Обучение стандартной ANFIS модели"""
         task_name = "Регрессия" if self.task_type == 'regression' else "Классификация"
-        print(f"🔵 Обучение Vanilla ANFIS ({task_name})...")
+        print(f"[INFO] Обучение Vanilla ANFIS ({task_name})...")
         start_time = time.time()
 
         # Создание и обучение модели
@@ -104,23 +104,23 @@ class ANFISManager:
             coefficients = model.network.state_dict()['coeffs'].detach().cpu().numpy()
             return np.sum(np.abs(coefficients[:, :-1, 0]), axis=0)
         except Exception as e:
-            print(f"⚠️ Не удалось извлечь важность признаков: {e}")
+            print(f"[WARNING] Не удалось извлечь важность признаков: {e}")
             return np.ones(n_features) / n_features
 
     def _print_results(self, results, model_name):
         """Вывод результатов"""
         metrics = results['metrics']
-        print(f"\n✅ {model_name} обучен успешно!")
+        print(f"\n[OK] {model_name} обучен успешно!")
 
         if self.task_type == 'regression':
-            print(f"   📊 RMSE: {metrics['rmse']:.4f}")
-            print(f"   🎯 MAE: {metrics['mae']:.4f}")
-            print(f"   📈 R²: {metrics['r2']:.4f}")
+            print(f"   RMSE: {metrics['rmse']:.4f}")
+            print(f"   MAE: {metrics['mae']:.4f}")
+            print(f"   R²: {metrics['r2']:.4f}")
         else:
-            print(f"   📊 Accuracy: {metrics['accuracy']:.4f}")
-            print(f"   🎯 Precision: {metrics['precision']:.4f}")
-            print(f"   🎯 Recall: {metrics['recall']:.4f}")
-            print(f"   🎯 F1-Score: {metrics['f1_score']:.4f}")
-            print(f"   📈 ROC AUC: {metrics['roc_auc']:.4f}")
+            print(f"   Accuracy: {metrics['accuracy']:.4f}")
+            print(f"   Precision: {metrics['precision']:.4f}")
+            print(f"   Recall: {metrics['recall']:.4f}")
+            print(f"   F1-Score: {metrics['f1_score']:.4f}")
+            print(f"   ROC AUC: {metrics['roc_auc']:.4f}")
 
-        print(f"   ⏱️ Время: {results['training_time']:.2f} сек")
+        print(f"   Время: {results['training_time']:.2f} сек")

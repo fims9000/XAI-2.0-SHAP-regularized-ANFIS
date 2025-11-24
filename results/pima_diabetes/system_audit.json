@@ -1,0 +1,91 @@
+{
+  "timestamp": "2025-11-25T02:38:42.585525",
+  "system": {
+    "platform": "Linux-6.17.4-76061704-generic-x86_64-with-glibc2.39",
+    "system": "Linux",
+    "release": "6.17.4-76061704-generic",
+    "version": "#202510191616~1761932270~24.04~b3a306c SMP PREEMPT_DYNAMIC Fri O",
+    "machine": "x86_64",
+    "processor": "x86_64"
+  },
+  "hardware": {
+    "cpu_count_physical": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+      "current": 3428.936625,
+      "min": 1100.9799999999998,
+      "max": 5137.904
+    },
+    "memory_total_gb": 14.808773040771484,
+    "memory_available_gb": 7.100799560546875,
+    "disk_usage": {
+      "total_gb": 459.5223274230957,
+      "used_gb": 332.84301376342773,
+      "free_gb": 103.26679992675781
+    }
+  },
+  "python": {
+    "version": "3.12.3 (main, Aug 14 2025, 17:47:21) [GCC 13.3.0]",
+    "version_info": {
+      "major": 3,
+      "minor": 12,
+      "micro": 3
+    },
+    "executable": "/home/lebedeffson/venv/bin/python"
+  },
+  "libraries": {
+    "numpy": "1.26.0",
+    "pandas": "2.1.3",
+    "scikit-learn": "not installed",
+    "matplotlib": "3.10.5",
+    "seaborn": "0.13.2",
+    "torch": "2.8.0+cu128",
+    "shap": "0.48.0",
+    "PyYAML": "not installed"
+  },
+  "gpu": {
+    "available": true,
+    "count": 1,
+    "devices": [
+      {
+        "device_id": 0,
+        "name": "NVIDIA GeForce RTX 4060 Laptop GPU",
+        "memory_total_gb": 7.62261962890625,
+        "compute_capability": "8.9"
+      }
+    ]
+  },
+  "memory": {
+    "total_gb": 14.808773040771484,
+    "available_gb": 7.046142578125,
+    "used_gb": 7.762630462646484,
+    "percent": 52.4,
+    "free_gb": 4.526912689208984
+  },
+  "cpu": {
+    "usage_percent": 9.3,
+    "per_cpu_usage": [
+      6.1,
+      0.0,
+      3.1,
+      0.0,
+      4.0,
+      0.0,
+      5.2,
+      2.0,
+      7.1,
+      3.0,
+      54.5,
+      47.0,
+      7.1,
+      0.0,
+      5.1,
+      1.0
+    ],
+    "load_average": [
+      8.8349609375,
+      5.00634765625,
+      3.5498046875
+    ]
+  }
+}

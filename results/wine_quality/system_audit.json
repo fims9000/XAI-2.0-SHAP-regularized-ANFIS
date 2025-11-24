@@ -1,0 +1,91 @@
+{
+  "timestamp": "2025-11-25T02:39:09.561045",
+  "system": {
+    "platform": "Linux-6.17.4-76061704-generic-x86_64-with-glibc2.39",
+    "system": "Linux",
+    "release": "6.17.4-76061704-generic",
+    "version": "#202510191616~1761932270~24.04~b3a306c SMP PREEMPT_DYNAMIC Fri O",
+    "machine": "x86_64",
+    "processor": "x86_64"
+  },
+  "hardware": {
+    "cpu_count_physical": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+      "current": 2573.9882500000003,
+      "min": 1100.9799999999998,
+      "max": 5137.904
+    },
+    "memory_total_gb": 14.808773040771484,
+    "memory_available_gb": 7.066951751708984,
+    "disk_usage": {
+      "total_gb": 459.5223274230957,
+      "used_gb": 332.84253311157227,
+      "free_gb": 103.26728057861328
+    }
+  },
+  "python": {
+    "version": "3.12.3 (main, Aug 14 2025, 17:47:21) [GCC 13.3.0]",
+    "version_info": {
+      "major": 3,
+      "minor": 12,
+      "micro": 3
+    },
+    "executable": "/home/lebedeffson/venv/bin/python"
+  },
+  "libraries": {
+    "numpy": "1.26.0",
+    "pandas": "2.1.3",
+    "scikit-learn": "not installed",
+    "matplotlib": "3.10.5",
+    "seaborn": "0.13.2",
+    "torch": "2.8.0+cu128",
+    "shap": "0.48.0",
+    "PyYAML": "not installed"
+  },
+  "gpu": {
+    "available": true,
+    "count": 1,
+    "devices": [
+      {
+        "device_id": 0,
+        "name": "NVIDIA GeForce RTX 4060 Laptop GPU",
+        "memory_total_gb": 7.62261962890625,
+        "compute_capability": "8.9"
+      }
+    ]
+  },
+  "memory": {
+    "total_gb": 14.808773040771484,
+    "available_gb": 7.032737731933594,
+    "used_gb": 7.776035308837891,
+    "percent": 52.5,
+    "free_gb": 4.513477325439453
+  },
+  "cpu": {
+    "usage_percent": 9.3,
+    "per_cpu_usage": [
+      5.2,
+      0.0,
+      5.1,
+      0.0,
+      5.1,
+      0.0,
+      100.0,
+      0.0,
+      6.1,
+      6.9,
+      6.3,
+      0.0,
+      5.2,
+      1.0,
+      6.1,
+      0.0
+    ],
+    "load_average": [
+      7.89306640625,
+      5.17333984375,
+      3.65380859375
+    ]
+  }
+}

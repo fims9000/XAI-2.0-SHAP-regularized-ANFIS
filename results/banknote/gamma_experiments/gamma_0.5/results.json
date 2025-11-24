@@ -1,0 +1,27 @@
+{
+  "dataset": "banknote",
+  "gamma": 0.5,
+  "vanilla": {
+    "metrics": {
+      "accuracy": 0.8775510204081632,
+      "precision": 0.8767123287671232,
+      "recall": 0.8421052631578947,
+      "f1_score": 0.8590604026845637,
+      "roc_auc": 0.9077569578396253
+    },
+    "training_time": 9.166091442108154
+  },
+  "regularized": {
+    "metrics": {
+      "accuracy": 0.8571428571428571,
+      "precision": 0.8121212121212121,
+      "recall": 0.881578947368421,
+      "f1_score": 0.8454258675078864,
+      "roc_auc": 0.9167642601267566
+    },
+    "training_time": 1.1645917892456055
+  },
+  "posthoc": {
+    "analysis_time": 0
+  }
+}

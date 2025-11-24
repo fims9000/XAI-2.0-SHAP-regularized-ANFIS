@@ -16,18 +16,28 @@ class PostHocSHAPAnalyzer:
     def analyze(self, X_test, feature_names):
         """Полный post-hoc SHAP анализ"""
         task_name = "регрессии" if self.task_type == 'regression' else "классификации"
-        print(f"🟢 Post-hoc SHAP анализ ({task_name})...")
+        print(f"[INFO] Post-hoc SHAP анализ ({task_name})...")
         start_time = time.time()
 
         # Функция предсказания для SHAP
         if self.task_type == 'regression':
             def predict_fn(data):
-                self.model.network.eval()
+                if hasattr(self.model, 'network'):
+                    self.model.network.eval()
                 return np.asarray(self.model.predict(data)).ravel()
         else:
             def predict_fn(data):
-                preds = self.model.predict_proba(data)
-                return np.array(preds).reshape(-1)
+                if hasattr(self.model, 'predict_proba'):
+                    preds = self.model.predict_proba(data)
+                    # Для бинарной классификации берем вероятности класса 1
+                    if len(preds.shape) > 1 and preds.shape[1] > 1:
+                        return np.array(preds[:, 1]).ravel()
+                    else:
+                        return np.array(preds).ravel()
+                else:
+                    # Fallback: используем predict и преобразуем в вероятности
+                    pred = self.model.predict(data)
+                    return np.array(pred).ravel()
 
         # Создание explainer
         sample_size = self.config['shap']['sample_size']
@@ -41,7 +51,7 @@ class PostHocSHAPAnalyzer:
         # Глобальная важность
         global_importance = np.abs(shap_values).mean(axis=0)
 
-        print(f"✅ SHAP анализ завершен за {analysis_time:.2f} сек")
+        print(f"[OK] SHAP анализ завершен за {analysis_time:.2f} сек")
 
         results = {
             'explainer': explainer,

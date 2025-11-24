@@ -47,6 +47,8 @@ shap:
   batch_size: 32
   learning_rate: 0.005
   sample_size: 80  # для post-hoc SHAP
+  early_stopping_patience: 10  # Ранняя остановка после 5 эпох без улучшения
+  early_stopping_min_delta: 0.001  # Минимальное улучшение для сохранения модели
 
 visualization:
   figure_size: [20, 16]

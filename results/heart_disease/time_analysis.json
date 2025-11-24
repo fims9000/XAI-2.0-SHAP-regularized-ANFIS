@@ -1,0 +1,8 @@
+{
+  "vanilla_time": 1.5556471347808838,
+  "regularized_time": 3.9229750633239746,
+  "speedup": 0.39654780101068726,
+  "posthoc_time": 9.537562608718872,
+  "total_posthoc_time": 11.093209743499756,
+  "speedup_vs_posthoc": 2.827754335532373
+}

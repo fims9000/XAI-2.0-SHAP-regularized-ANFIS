@@ -37,6 +37,8 @@ shap:
   batch_size: 32
   learning_rate: 0.005
   sample_size: 80
+  early_stopping_patience: 5
+  early_stopping_min_delta: 0.001
 
 visualization:
   figure_size: [20, 16]

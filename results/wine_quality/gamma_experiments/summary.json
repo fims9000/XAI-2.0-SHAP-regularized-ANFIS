@@ -1,0 +1,103 @@
+{
+  "dataset": "wine_quality",
+  "experiments": [
+    {
+      "dataset": "wine_quality",
+      "gamma": 0.1,
+      "vanilla": {
+        "metrics": {
+          "rmse": 0.6571297425463034,
+          "mae": 0.4982505440711975,
+          "r2": 0.3346131443977356
+        },
+        "training_time": 22.6391282081604
+      },
+      "regularized": {
+        "metrics": {
+          "rmse": 0.8040506750335147,
+          "mae": 0.6071970462799072,
+          "r2": 0.0038176774978637695
+        },
+        "training_time": 15.279356479644775
+      },
+      "posthoc": {
+        "analysis_time": 0
+      },
+      "experiment_time": 159.68261241912842
+    },
+    {
+      "dataset": "wine_quality",
+      "gamma": 0.3,
+      "vanilla": {
+        "metrics": {
+          "rmse": 0.6571297425463034,
+          "mae": 0.4982505440711975,
+          "r2": 0.3346131443977356
+        },
+        "training_time": 22.860395908355713
+      },
+      "regularized": {
+        "metrics": {
+          "rmse": 0.8388125098708595,
+          "mae": 0.6311376094818115,
+          "r2": -0.08418095111846924
+        },
+        "training_time": 15.505281209945679
+      },
+      "posthoc": {
+        "analysis_time": 0
+      },
+      "experiment_time": 208.87337517738342
+    },
+    {
+      "dataset": "wine_quality",
+      "gamma": 0.5,
+      "vanilla": {
+        "metrics": {
+          "rmse": 0.6571297425463034,
+          "mae": 0.4982505440711975,
+          "r2": 0.3346131443977356
+        },
+        "training_time": 23.490989208221436
+      },
+      "regularized": {
+        "metrics": {
+          "rmse": 0.869316066222583,
+          "mae": 0.6527215838432312,
+          "r2": -0.16446757316589355
+        },
+        "training_time": 16.099090576171875
+      },
+      "posthoc": {
+        "analysis_time": 0
+      },
+      "experiment_time": 259.0710265636444
+    },
+    {
+      "dataset": "wine_quality",
+      "gamma": 0.7,
+      "vanilla": {
+        "metrics": {
+          "rmse": 0.6571297425463034,
+          "mae": 0.4982505440711975,
+          "r2": 0.3346131443977356
+        },
+        "training_time": 22.489182949066162
+      },
+      "regularized": {
+        "metrics": {
+          "rmse": 0.9038095499999163,
+          "mae": 0.6771673560142517,
+          "r2": -0.25871050357818604
+        },
+        "training_time": 15.72234559059143
+      },
+      "posthoc": {
+        "analysis_time": 0
+      },
+      "experiment_time": 307.3252680301666
+    }
+  ],
+  "total_experiments": 4,
+  "timestamp": "2025-11-15T14:50:38.963127"
+}

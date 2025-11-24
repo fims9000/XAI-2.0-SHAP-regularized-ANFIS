@@ -1,0 +1,5 @@
+gamma,vanilla_accuracy,regularized_accuracy,vanilla_roc_auc,regularized_roc_auc,vanilla_time,regularized_time,improvement_roc_auc,improvement_accuracy
+0.1,0,0,0,0,22.6391282081604,15.279356479644775,0,0
+0.3,0,0,0,0,22.860395908355713,15.505281209945679,0,0
+0.5,0,0,0,0,23.490989208221436,16.099090576171875,0,0
+0.7,0,0,0,0,22.489182949066162,15.72234559059143,0,0

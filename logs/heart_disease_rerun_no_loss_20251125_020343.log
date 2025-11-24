@@ -1,0 +1,459 @@
+2025/11/25 02:03:47 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: OriginalPSO(epoch=20, pop_size=30, c1=2.05, c2=2.05, w=0.4)
+2025/11/25 02:03:48 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 1, Current best: 0.6076286597385209, Global best: 0.6076286597385209, Runtime: 0.07098 seconds
+2025/11/25 02:03:48 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 2, Current best: 0.6229266730707652, Global best: 0.6229266730707652, Runtime: 0.07690 seconds
+2025/11/25 02:03:48 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 3, Current best: 0.6229266730707652, Global best: 0.6229266730707652, Runtime: 0.07598 seconds
+2025/11/25 02:03:48 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 4, Current best: 0.6229266730707652, Global best: 0.6229266730707652, Runtime: 0.07540 seconds
+2025/11/25 02:03:48 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 5, Current best: 0.6304431427947506, Global best: 0.6304431427947506, Runtime: 0.07580 seconds
+2025/11/25 02:03:48 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 6, Current best: 0.6304431427947506, Global best: 0.6304431427947506, Runtime: 0.07400 seconds
+2025/11/25 02:03:48 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 7, Current best: 0.6304431427947506, Global best: 0.6304431427947506, Runtime: 0.07642 seconds
+2025/11/25 02:03:48 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 8, Current best: 0.6304431427947506, Global best: 0.6304431427947506, Runtime: 0.09158 seconds
+2025/11/25 02:03:48 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 9, Current best: 0.6304431427947506, Global best: 0.6304431427947506, Runtime: 0.08130 seconds
+2025/11/25 02:03:48 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 10, Current best: 0.6304431427947506, Global best: 0.6304431427947506, Runtime: 0.07803 seconds
+2025/11/25 02:03:48 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 11, Current best: 0.6304431427947506, Global best: 0.6304431427947506, Runtime: 0.07288 seconds
+2025/11/25 02:03:48 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 12, Current best: 0.6304431427947506, Global best: 0.6304431427947506, Runtime: 0.07332 seconds
+2025/11/25 02:03:48 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 13, Current best: 0.6304431427947506, Global best: 0.6304431427947506, Runtime: 0.07438 seconds
+2025/11/25 02:03:49 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 14, Current best: 0.6304431427947506, Global best: 0.6304431427947506, Runtime: 0.07356 seconds
+2025/11/25 02:03:49 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 15, Current best: 0.6304431427947506, Global best: 0.6304431427947506, Runtime: 0.07386 seconds
+2025/11/25 02:03:49 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 16, Current best: 0.6304431427947506, Global best: 0.6304431427947506, Runtime: 0.07722 seconds
+2025/11/25 02:03:49 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 17, Current best: 0.6304431427947506, Global best: 0.6304431427947506, Runtime: 0.07419 seconds
+2025/11/25 02:03:49 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 18, Current best: 0.6304431427947506, Global best: 0.6304431427947506, Runtime: 0.07375 seconds
+2025/11/25 02:03:49 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 19, Current best: 0.6304431427947506, Global best: 0.6304431427947506, Runtime: 0.07349 seconds
+2025/11/25 02:03:49 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 20, Current best: 0.6304431427947506, Global best: 0.6304431427947506, Runtime: 0.07219 seconds
+Запуск экспериментов для: heart_disease
+============================================================
+
+========================================
+АУДИТ СИСТЕМЫ
+========================================
+[INFO] Запуск аудита системы...
+
+============================================================
+ОТЧЕТ ОБ АУДИТЕ СИСТЕМЫ
+============================================================
+
+📅 Время аудита: 2025-11-25T02:03:45.740583
+
+[INFO] СИСТЕМА:
+   Платформа: Linux-6.17.4-76061704-generic-x86_64-with-glibc2.39
+   Система: Linux 6.17.4-76061704-generic
+   Процессор: x86_64
+
+[ЖЕЛЕЗО]
+   CPU (физических/логических): 8/16
+   Частота CPU: 3002.72 MHz
+   Память: 14.81 GB (доступно: 4.94 GB)
+   Диск: 459.52 GB (свободно: 103.26 GB)
+
+[PYTHON]
+   Версия: 3.12.3
+   Исполняемый файл: /home/lebedeffson/venv/bin/python
+
+[БИБЛИОТЕКИ]
+   numpy: 1.26.0
+   pandas: 2.1.3
+   scikit-learn: not installed
+   matplotlib: 3.10.5
+   seaborn: 0.13.2
+   torch: 2.8.0+cu128
+   shap: 0.48.0
+   PyYAML: not installed
+
+[GPU]
+   Доступен: Да
+   Количество устройств: 1
+   Устройство 0: NVIDIA GeForce RTX 4060 Laptop GPU
+      Память: 7.62 GB
+      Compute Capability: 8.9
+
+[ПАМЯТЬ] Текущее состояние:
+   Использовано: 9.92 GB (67.0%)
+   Свободно: 2.69 GB
+
+[INFO] CPU (текущее состояние):
+   Использование: 10.2%
+============================================================
+
+[OK] Отчет сохранен в: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/heart_disease/system_audit.json
+[INFO] Загрузка датасета: Heart Disease Kaggle Dataset
+[OK] Загружено: 1025 образцов, 14 колонок
+[INFO] Колонки: ['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca', 'thal', 'target']
+
+[INFO] Распределение классов для 'target':
+   Класс 0: 499 образцов (48.7%)
+   Класс 1: 526 образцов (51.3%)
+[INFO] Подготовлено:
+   Целевая переменная: 'target' (2 уникальных значений)
+   Признаков: 13
+   Названия признаков: ['age', 'sex', 'cp', 'trestbps', 'chol']...
+[OK] Предобработка завершена:
+   Train: 768 объектов
+   Test: (257, 13) объектов
+   Признаков: 13
+
+========================================
+ЭКСПЕРИМЕНТ 1: Vanilla ANFIS
+========================================
+[INFO] Обучение Vanilla ANFIS (Классификация)...
+
+[OK] Vanilla ANFIS (Классификация) обучен успешно!
+   Accuracy: 0.6459
+   Precision: 0.5919
+   Recall: 1.0000
+   F1-Score: 0.7437
+   ROC AUC: 0.9234
+   Время: 1.60 сек
+
+========================================
+ЭКСПЕРИМЕНТ 2: Post-hoc SHAP (Vanilla ANFIS)
+========================================
+[INFO] Post-hoc SHAP анализ (классификации)...
+  0%|          | 0/80 [00:00<?, ?it/s]  2%|▎         | 2/80 [00:00<00:08,  9.22it/s]  4%|▍         | 3/80 [00:00<00:08,  8.60it/s]  5%|▌         | 4/80 [00:00<00:09,  8.24it/s]  6%|▋         | 5/80 [00:00<00:09,  8.22it/s]  8%|▊         | 6/80 [00:00<00:09,  8.07it/s]  9%|▉         | 7/80 [00:00<00:08,  8.11it/s] 10%|█         | 8/80 [00:00<00:08,  8.07it/s] 11%|█▏        | 9/80 [00:01<00:08,  8.07it/s] 12%|█▎        | 10/80 [00:01<00:08,  7.88it/s] 14%|█▍        | 11/80 [00:01<00:09,  7.31it/s] 15%|█▌        | 12/80 [00:01<00:09,  7.02it/s] 16%|█▋        | 13/80 [00:01<00:09,  7.21it/s] 18%|█▊        | 14/80 [00:01<00:09,  7.27it/s] 19%|█▉        | 15/80 [00:01<00:08,  7.43it/s] 20%|██        | 16/80 [00:02<00:08,  7.55it/s] 21%|██▏       | 17/80 [00:02<00:08,  7.85it/s] 22%|██▎       | 18/80 [00:02<00:07,  7.88it/s] 24%|██▍       | 19/80 [00:02<00:07,  7.87it/s] 25%|██▌       | 20/80 [00:02<00:07,  8.03it/s] 26%|██▋       | 21/80 [00:02<00:07,  8.25it/s] 28%|██▊       | 22/80 [00:02<00:07,  8.03it/s] 29%|██▉       | 23/80 [00:02<00:07,  8.06it/s] 30%|███       | 24/80 [00:03<00:07,  7.96it/s] 31%|███▏      | 25/80 [00:03<00:06,  8.06it/s] 32%|███▎      | 26/80 [00:03<00:06,  8.06it/s] 34%|███▍      | 27/80 [00:03<00:06,  8.16it/s] 35%|███▌      | 28/80 [00:03<00:06,  7.93it/s] 36%|███▋      | 29/80 [00:03<00:06,  8.03it/s] 38%|███▊      | 30/80 [00:03<00:06,  7.92it/s] 39%|███▉      | 31/80 [00:03<00:06,  8.00it/s] 40%|████      | 32/80 [00:04<00:06,  7.90it/s] 41%|████▏     | 33/80 [00:04<00:05,  8.01it/s] 42%|████▎     | 34/80 [00:04<00:05,  8.15it/s] 44%|████▍     | 35/80 [00:04<00:05,  8.25it/s] 45%|████▌     | 36/80 [00:04<00:05,  8.16it/s] 46%|████▋     | 37/80 [00:04<00:05,  8.19it/s] 48%|████▊     | 38/80 [00:04<00:05,  8.06it/s] 49%|████▉     | 39/80 [00:04<00:04,  8.24it/s] 50%|█████     | 40/80 [00:05<00:04,  8.21it/s] 51%|█████▏    | 41/80 [00:05<00:04,  8.02it/s] 52%|█████▎    | 42/80 [00:05<00:04,  7.97it/s] 54%|█████▍    | 43/80 [00:05<00:04,  8.01it/s] 55%|█████▌    | 44/80 [00:05<00:04,  8.04it/s] 56%|█████▋    | 45/80 [00:05<00:04,  8.30it/s] 57%|█████▊    | 46/80 [00:05<00:04,  6.93it/s] 60%|██████    | 48/80 [00:06<00:04,  7.83it/s] 61%|██████▏   | 49/80 [00:06<00:03,  7.90it/s] 62%|██████▎   | 50/80 [00:06<00:03,  7.86it/s] 64%|██████▍   | 51/80 [00:06<00:03,  7.96it/s] 65%|██████▌   | 52/80 [00:06<00:03,  7.86it/s] 66%|██████▋   | 53/80 [00:06<00:03,  7.91it/s] 68%|██████▊   | 54/80 [00:06<00:03,  7.70it/s] 69%|██████▉   | 55/80 [00:06<00:03,  7.82it/s] 70%|███████   | 56/80 [00:07<00:03,  7.75it/s] 71%|███████▏  | 57/80 [00:07<00:02,  8.06it/s] 72%|███████▎  | 58/80 [00:07<00:02,  8.10it/s] 74%|███████▍  | 59/80 [00:07<00:02,  8.11it/s] 75%|███████▌  | 60/80 [00:07<00:02,  8.07it/s] 76%|███████▋  | 61/80 [00:07<00:02,  8.23it/s] 78%|███████▊  | 62/80 [00:07<00:02,  8.00it/s] 79%|███████▉  | 63/80 [00:07<00:02,  8.07it/s] 80%|████████  | 64/80 [00:08<00:02,  7.93it/s] 81%|████████▏ | 65/80 [00:08<00:01,  7.96it/s] 82%|████████▎ | 66/80 [00:08<00:01,  7.80it/s] 84%|████████▍ | 67/80 [00:08<00:01,  8.15it/s] 85%|████████▌ | 68/80 [00:08<00:01,  7.97it/s] 86%|████████▋ | 69/80 [00:08<00:01,  8.05it/s] 88%|████████▊ | 70/80 [00:08<00:01,  8.00it/s] 89%|████████▉ | 71/80 [00:08<00:01,  8.02it/s] 90%|█████████ | 72/80 [00:09<00:00,  8.05it/s] 91%|█████████▏| 73/80 [00:09<00:00,  8.14it/s] 92%|█████████▎| 74/80 [00:09<00:00,  7.96it/s] 94%|█████████▍| 75/80 [00:09<00:00,  8.01it/s] 95%|█████████▌| 76/80 [00:09<00:00,  8.05it/s] 96%|█████████▋| 77/80 [00:09<00:00,  8.19it/s] 98%|█████████▊| 78/80 [00:09<00:00,  8.23it/s] 99%|█████████▉| 79/80 [00:09<00:00,  7.37it/s]100%|██████████| 80/80 [00:10<00:00,  7.53it/s]100%|██████████| 80/80 [00:10<00:00,  7.93it/s]
+2025/11/25 02:03:59 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: OriginalPSO(epoch=20, pop_size=30, c1=2.05, c2=2.05, w=0.4)
+2025/11/25 02:03:59 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 1, Current best: 0.7395833333333334, Global best: 0.7395833333333334, Runtime: 0.04481 seconds
+2025/11/25 02:03:59 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 2, Current best: 0.7395833333333334, Global best: 0.7395833333333334, Runtime: 0.04362 seconds
+2025/11/25 02:03:59 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 3, Current best: 0.7395833333333334, Global best: 0.7395833333333334, Runtime: 0.04389 seconds
+2025/11/25 02:03:59 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 4, Current best: 0.7395833333333334, Global best: 0.7395833333333334, Runtime: 0.04341 seconds
+2025/11/25 02:03:59 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 5, Current best: 0.7395833333333334, Global best: 0.7395833333333334, Runtime: 0.04392 seconds
+2025/11/25 02:03:59 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 6, Current best: 0.7395833333333334, Global best: 0.7395833333333334, Runtime: 0.04382 seconds
+2025/11/25 02:04:00 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 7, Current best: 0.7395833333333334, Global best: 0.7395833333333334, Runtime: 0.04490 seconds
+2025/11/25 02:04:00 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 8, Current best: 0.7395833333333334, Global best: 0.7395833333333334, Runtime: 0.04362 seconds
+2025/11/25 02:04:00 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 9, Current best: 0.7395833333333334, Global best: 0.7395833333333334, Runtime: 0.04380 seconds
+2025/11/25 02:04:00 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 10, Current best: 0.7395833333333334, Global best: 0.7395833333333334, Runtime: 0.04384 seconds
+2025/11/25 02:04:00 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 11, Current best: 0.7395833333333334, Global best: 0.7395833333333334, Runtime: 0.04568 seconds
+2025/11/25 02:04:00 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 12, Current best: 0.7519145723222953, Global best: 0.7519145723222953, Runtime: 0.04375 seconds
+2025/11/25 02:04:00 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 13, Current best: 0.7519145723222953, Global best: 0.7519145723222953, Runtime: 0.04803 seconds
+2025/11/25 02:04:00 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 14, Current best: 0.7519145723222953, Global best: 0.7519145723222953, Runtime: 0.04511 seconds
+2025/11/25 02:04:00 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 15, Current best: 0.7519145723222953, Global best: 0.7519145723222953, Runtime: 0.04538 seconds
+2025/11/25 02:04:00 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 16, Current best: 0.7519145723222953, Global best: 0.7519145723222953, Runtime: 0.04420 seconds
+2025/11/25 02:04:00 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 17, Current best: 0.7519145723222953, Global best: 0.7519145723222953, Runtime: 0.04432 seconds
+2025/11/25 02:04:00 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 18, Current best: 0.7519145723222953, Global best: 0.7519145723222953, Runtime: 0.04444 seconds
+2025/11/25 02:04:00 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 19, Current best: 0.7519145723222953, Global best: 0.7519145723222953, Runtime: 0.04304 seconds
+2025/11/25 02:04:00 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 20, Current best: 0.7519145723222953, Global best: 0.7519145723222953, Runtime: 0.04408 seconds
+[OK] SHAP анализ завершен за 10.09 сек
+
+========================================
+ЭКСПЕРИМЕНТ 3: Baseline-Masked Feature Sensitivity Regularization
+========================================
+[INFO] Начинаю обучение ANFIS с Baseline-Masked Feature Sensitivity Regularization (оценка чувствительности признаков) (классификации)...
+   Эпоха 5/25: Total: 1.0258, Main: 0.6839, SHAP: 0.0002, Train Acc: 0.7068, F1: 0.7541, ROC: 0.8344 | Val Acc: 0.7013, F1: 0.7444, Время: 0.27с
+   Эпоха 10/25: Total: 1.0229, Main: 0.6819, SHAP: 0.0001, Train Acc: 0.7508, F1: 0.7884, ROC: 0.8404 | Val Acc: 0.7208, F1: 0.7571, Время: 0.27с
+   [WARNING] Ранняя остановка на эпохе 12 (лучшая эпоха: 2)
+[OK] Обучение завершено за 3.87 сек
+[OK] Baseline-Masked Feature Sensitivity Regularization (оценка чувствительности признаков) завершена:
+   accuracy: 0.6770
+   precision: 0.6256
+   recall: 0.9242
+   f1_score: 0.7462
+   roc_auc: 0.8125
+   Время: 3.87 сек
+
+========================================
+ЭКСПЕРИМЕНТ 4: Post-hoc SHAP (Baseline-Masked Feature Sensitivity Regularization (оценка чувствительности признаков))
+========================================
+[INFO] Post-hoc SHAP анализ (классификации)...
+  0%|          | 0/80 [00:00<?, ?it/s]  2%|▎         | 2/80 [00:00<00:08,  9.25it/s]  4%|▍         | 3/80 [00:00<00:09,  8.48it/s]  5%|▌         | 4/80 [00:00<00:08,  8.52it/s]  6%|▋         | 5/80 [00:00<00:09,  8.12it/s]  8%|▊         | 6/80 [00:00<00:09,  8.05it/s]  9%|▉         | 7/80 [00:00<00:09,  7.92it/s] 10%|█         | 8/80 [00:00<00:08,  8.03it/s] 11%|█▏        | 9/80 [00:01<00:09,  7.88it/s] 12%|█▎        | 10/80 [00:01<00:08,  7.94it/s] 14%|█▍        | 11/80 [00:01<00:08,  7.86it/s] 15%|█▌        | 12/80 [00:01<00:08,  7.92it/s] 16%|█▋        | 13/80 [00:01<00:08,  7.95it/s] 18%|█▊        | 14/80 [00:01<00:07,  8.30it/s] 19%|█▉        | 15/80 [00:01<00:07,  8.24it/s] 20%|██        | 16/80 [00:01<00:07,  8.36it/s] 21%|██▏       | 17/80 [00:02<00:07,  8.13it/s] 22%|██▎       | 18/80 [00:02<00:07,  8.12it/s] 24%|██▍       | 19/80 [00:02<00:07,  7.90it/s] 25%|██▌       | 20/80 [00:02<00:07,  8.03it/s] 26%|██▋       | 21/80 [00:02<00:07,  7.76it/s] 28%|██▊       | 22/80 [00:02<00:08,  7.06it/s] 29%|██▉       | 23/80 [00:02<00:07,  7.21it/s] 30%|███       | 24/80 [00:03<00:07,  7.43it/s] 31%|███▏      | 25/80 [00:03<00:07,  7.40it/s] 32%|███▎      | 26/80 [00:03<00:06,  7.73it/s] 34%|███▍      | 27/80 [00:03<00:06,  7.73it/s] 35%|███▌      | 28/80 [00:03<00:06,  7.79it/s] 36%|███▋      | 29/80 [00:03<00:06,  7.74it/s] 38%|███▊      | 30/80 [00:03<00:06,  7.73it/s] 39%|███▉      | 31/80 [00:03<00:06,  7.99it/s] 40%|████      | 32/80 [00:04<00:06,  7.82it/s] 41%|████▏     | 33/80 [00:04<00:06,  7.77it/s] 42%|████▎     | 34/80 [00:04<00:05,  7.96it/s] 44%|████▍     | 35/80 [00:04<00:05,  7.88it/s] 45%|████▌     | 36/80 [00:04<00:05,  7.79it/s] 46%|████▋     | 37/80 [00:04<00:05,  7.72it/s] 48%|████▊     | 38/80 [00:04<00:05,  7.85it/s] 49%|████▉     | 39/80 [00:04<00:05,  7.74it/s] 50%|█████     | 40/80 [00:05<00:05,  7.74it/s] 51%|█████▏    | 41/80 [00:05<00:04,  7.82it/s] 52%|█████▎    | 42/80 [00:05<00:04,  7.78it/s] 54%|█████▍    | 43/80 [00:05<00:04,  7.72it/s] 55%|█████▌    | 44/80 [00:05<00:04,  7.74it/s] 56%|█████▋    | 45/80 [00:05<00:04,  7.83it/s] 57%|█████▊    | 46/80 [00:05<00:04,  8.09it/s] 59%|█████▉    | 47/80 [00:05<00:04,  7.89it/s] 60%|██████    | 48/80 [00:06<00:03,  8.14it/s] 61%|██████▏   | 49/80 [00:06<00:03,  7.94it/s] 62%|██████▎   | 50/80 [00:06<00:03,  8.01it/s] 64%|██████▍   | 51/80 [00:06<00:03,  7.84it/s] 65%|██████▌   | 52/80 [00:06<00:03,  7.72it/s] 66%|██████▋   | 53/80 [00:06<00:03,  7.56it/s] 68%|██████▊   | 54/80 [00:06<00:03,  7.78it/s] 69%|██████▉   | 55/80 [00:06<00:03,  7.97it/s] 70%|███████   | 56/80 [00:07<00:03,  7.96it/s] 71%|███████▏  | 57/80 [00:07<00:02,  7.88it/s] 72%|███████▎  | 58/80 [00:07<00:02,  7.82it/s] 74%|███████▍  | 59/80 [00:07<00:02,  7.71it/s] 75%|███████▌  | 60/80 [00:07<00:02,  7.87it/s] 76%|███████▋  | 61/80 [00:07<00:02,  7.80it/s] 78%|███████▊  | 62/80 [00:07<00:02,  7.18it/s] 79%|███████▉  | 63/80 [00:08<00:02,  7.31it/s] 80%|████████  | 64/80 [00:08<00:02,  7.54it/s] 81%|████████▏ | 65/80 [00:08<00:01,  7.53it/s] 82%|████████▎ | 66/80 [00:08<00:01,  7.66it/s] 84%|████████▍ | 67/80 [00:08<00:01,  7.64it/s] 85%|████████▌ | 68/80 [00:08<00:01,  7.91it/s] 86%|████████▋ | 69/80 [00:08<00:01,  7.76it/s] 88%|████████▊ | 70/80 [00:08<00:01,  7.71it/s] 89%|████████▉ | 71/80 [00:09<00:01,  7.77it/s] 90%|█████████ | 72/80 [00:09<00:01,  7.66it/s] 91%|█████████▏| 73/80 [00:09<00:00,  7.65it/s] 92%|█████████▎| 74/80 [00:09<00:00,  7.79it/s] 94%|█████████▍| 75/80 [00:09<00:00,  7.97it/s] 95%|█████████▌| 76/80 [00:09<00:00,  8.03it/s] 96%|█████████▋| 77/80 [00:09<00:00,  7.92it/s] 98%|█████████▊| 78/80 [00:09<00:00,  7.90it/s] 99%|█████████▉| 79/80 [00:10<00:00,  8.01it/s]100%|██████████| 80/80 [00:10<00:00,  8.07it/s]100%|██████████| 80/80 [00:10<00:00,  7.84it/s]
+/home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/src/visualization/presentation_plots.py:253: UserWarning: set_ticklabels() should only be used with a fixed number of ticks, i.e. after set_ticks() or using a FixedLocator.
+  ax.set_xticklabels(methods, fontsize=13, color='#212121')
+[OK] SHAP анализ завершен за 10.20 сек
+[OK] Параметры post-hoc сохранены: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/heart_disease/posthoc_parameters.json
+
+========================================
+СРАВНЕНИЕ ПРАВИЛ ANFIS
+========================================
+[WARNING] Несоответствие размерностей: ожидалось 13 признаков, найдено 15
+[WARNING] Несоответствие размерностей: ожидалось 13 признаков, найдено 15
+[OK] Правила извлечены и сравнены:
+   Среднее сходство: 0.5465
+   Среднее различие коэффициентов: 0.2339
+   Среднее различие ФП: 0.5983
+
+========================================
+СРАВНИТЕЛЬНЫЙ АНАЛИЗ
+========================================
+
+VANILLA:
+  accuracy: 0.6459
+  precision: 0.5919
+  recall: 1.0000
+  f1_score: 0.7437
+  roc_auc: 0.9234
+  Время обучения: 1.60 сек
+
+REGULARIZED:
+  accuracy: 0.6770
+  precision: 0.6256
+  recall: 0.9242
+  f1_score: 0.7462
+  roc_auc: 0.8125
+  Время обучения: 3.87 сек
+
+[OK] Все эксперименты завершены успешно!
+
+========================================
+СОЗДАНИЕ ВИЗУАЛИЗАЦИИ
+========================================
+
+========================================
+СОЗДАНИЕ ОТДЕЛЬНЫХ ГРАФИКОВ ВЫСОКОГО КАЧЕСТВА
+========================================
+Создание отдельных графиков для Vanilla ANFIS...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/heart_disease/vanilla_confusion_matrix.png
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/heart_disease/vanilla_roc_curve.png
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/heart_disease/vanilla_feature_importance.png
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/heart_disease/vanilla_prediction_distribution.png
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/heart_disease/vanilla_pr_curve.png
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/heart_disease/vanilla_calibration_curve.png
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/heart_disease/vanilla_error_distribution.png
+[OK] Все отдельные графики Vanilla созданы
+Создание комплексной визуализации...
+Сравнительная таблица сохранена: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/heart_disease/comparison_results.csv
+Визуализация создана и сохранена!
+
+Создание графиков обучения...
+[INFO] Графики обучения сохранены: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/heart_disease/training_plots.png
+
+Создание графиков сравнения правил...
+[INFO] График сравнения правил сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/heart_disease/rules_comparison.png
+
+Создание графиков сравнения SHAP методов...
+[INFO] График сравнения SHAP методов сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/heart_disease/shap_methods_comparison.png
+
+Создание графиков сравнения post-hoc SHAP...
+[INFO] График сравнения SHAP методов сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/heart_disease/shap_methods_comparison.png
+
+========================================
+СОЗДАНИЕ ОТДЕЛЬНЫХ ГРАФИКОВ ДЛЯ ПРЕЗЕНТАЦИИ
+========================================
+
+[INFO] Создание графика сравнения метрик обучения...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/heart_disease/01_training_metrics_comparison.png
+[INFO] Создание графика сравнения предсказаний и важности признаков...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/heart_disease/03_predictions_comparison.png
+[INFO] Создание графика сравнения ROC кривых...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/heart_disease/04_roc_comparison.png
+[INFO] Создание графика сравнения метрик...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/heart_disease/05_metrics_bar_comparison.png
+[INFO] Создание графика сравнения важности признаков...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/heart_disease/06_feature_importance_comparison.png
+[INFO] Создание детального графика сравнения правил...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/heart_disease/07_rules_comparison_detailed.png
+[INFO] Создание графика сравнения времени обучения...
+[INFO] График времени обучения сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/heart_disease/08_training_time_comparison.png
+
+========================================
+АНАЛИЗ ВРЕМЕНИ ОБУЧЕНИЯ
+========================================
+Vanilla ANFIS: 1.60 сек
+Baseline-Masked Feature Sensitivity Regularization (оценка чувствительности признаков): 3.87 сек
+Ускорение: 0.41x
+
+Vanilla + Post-hoc SHAP: 11.69 сек
+Ускорение относительно post-hoc: 3.02x
+[OK] Анализ времени сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/heart_disease/time_analysis.json
+
+[INFO] Результаты сохранены в: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/heart_disease
+
+============================================================
+АВТОМАТИЧЕСКАЯ ПРОВЕРКА МЕТРИК
+============================================================
+============================================================
+ПРОВЕРКА МЕТРИК ПОСЛЕ ОБУЧЕНИЯ
+============================================================
+
+📊 МЕТРИКИ ИЗ CSV:
+------------------------------------------------------------
+     Method  accuracy  precision   recall  f1_score  roc_auc  Training_Time
+    Vanilla  0.645914   0.591928 1.000000  0.743662 0.923394       1.601229
+Regularized  0.677043   0.625641 0.924242  0.746177 0.812545       3.865817
+
+
+📄 TIME ANALYSIS:
+------------------------------------------------------------
+{
+  "vanilla_time": 1.601228952407837,
+  "regularized_time": 3.865816593170166,
+  "speedup": 0.4142019968657509,
+  "posthoc_time": 10.088521242141724,
+  "total_posthoc_time": 11.68975019454956,
+  "speedup_vs_posthoc": 3.0238760460602636
+}
+
+📄 SYSTEM AUDIT:
+------------------------------------------------------------
+{
+  "timestamp": "2025-11-25T02:03:45.740583",
+  "system": {
+    "platform": "Linux-6.17.4-76061704-generic-x86_64-with-glibc2.39",
+    "system": "Linux",
+    "release": "6.17.4-76061704-generic",
+    "version": "#202510191616~1761932270~24.04~b3a306c SMP PREEMPT_DYNAMIC Fri O",
+    "machine": "x86_64",
+    "processor": "x86_64"
+  },
+  "hardware": {
+    "cpu_count_physical": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+      "current": 3002.7226875,
+      "min": 1100.9799999999998,
+      "max": 5137.904
+    },
+    "memory_total_gb": 14.808773040771484,
+    "memory_available_gb": 4.936328887939453,
+    "disk_usage": {
+      "total_gb": 459.5223274230957,
+      "used_gb": 332.85257720947266,
+      "free_gb": 103.25723648071289
+    }
+  },
+  "python": {
+    "version": "3.12.3 (main, Aug 14 2025, 17:47:21) [GCC 13.3.0]",
+    "version_info": {
+      "major": 3,
+      "minor": 12,
+      "micro": 3
+    },
+    "executable": "/home/lebedeffson/venv/bin/python"
+  },
+  "libraries": {
+    "numpy": "1.26.0",
+    "pandas": "2.1.3",
+    "scikit-learn": "not installed",
+    "matplotlib": "3.10.5",
+    "seaborn": "0.13.2",
+    "torch": "2.8.0+cu128",
+    "shap": "0.48.0",
+    "PyYAML": "not installed"
+  },
+  "gpu": {
+    "available": true,
+    "count": 1,
+    "devices": [
+      {
+        "device_id": 0,
+        "name": "NVIDIA GeForce RTX 4060 Laptop GPU",
+        "memory_total_gb": 7.62261962890625,
+        "compute_capability": "8.9"
+      }
+    ]
+  },
+  "memory": {
+    "total_gb": 14.808773040771484,
+    "available_gb": 4.887218475341797,
+    "used_gb": 9.921554565429688,
+    "percent": 67.0,
+    "free_gb": 2.6872711181640625
+  },
+  "cpu": {
+    "usage_percent": 10.2,
+    "per_cpu_usage": [
+      5.1,
+      1.0,
+      4.0,
+      0.0,
+      5.2,
+      1.0,
+      8.2,
+      0.0,
+      6.2,
+      7.1,
+      2.0,
+      100.0,
+      9.1,
+      6.0,
+      6.1,
+      0.0
+    ],
+    "load_average": [
+      6.50634765625,
+      5.91552734375,
+      4.53759765625
+    ]
+  }
+}
+
+📄 POSTHOC PARAMETERS:
+------------------------------------------------------------
+{
+  "vanilla": {
+    "sample_size": 80,
+    "explainer_type": "KernelExplainer",
+    "background_size": 80,
+    "analysis_time": 10.088521242141724
+  },
+  "regularized": {
+    "sample_size": 80,
+    "explainer_type": "KernelExplainer",
+    "background_size": 80,
+    "analysis_time": 10.203346967697144
+  }
+}
+
+📈 ГРАФИКИ:
+------------------------------------------------------------
+Найдено графиков: 19
+  ✅ 01_training_metrics_comparison.png (748.4 KB)
+  ✅ 03_predictions_comparison.png (1077.2 KB)
+  ✅ 04_roc_comparison.png (297.5 KB)
+  ✅ 05_metrics_bar_comparison.png (205.4 KB)
+  ✅ 06_feature_importance_comparison.png (531.8 KB)
+  ✅ 07_rules_comparison_detailed.png (958.4 KB)
+  ✅ 08_training_time_comparison.png (203.2 KB)
+  ✅ rules_comparison.png (533.6 KB)
+  ✅ shap_methods_comparison.png (832.9 KB)
+  ✅ shap_regularization_analysis.png (1400.5 KB)
+  ✅ training_plots.png (851.2 KB)
+  ✅ vanilla_anfis_analysis.png (866.4 KB)
+  ✅ vanilla_calibration_curve.png (171.0 KB)
+  ✅ vanilla_confusion_matrix.png (96.4 KB)
+  ✅ vanilla_error_distribution.png (97.3 KB)
+  ✅ vanilla_feature_importance.png (157.9 KB)
+  ✅ vanilla_pr_curve.png (112.8 KB)
+  ✅ vanilla_prediction_distribution.png (119.7 KB)
+  ✅ vanilla_roc_curve.png (160.2 KB)
+
+============================================================
+ДЕТАЛЬНЫЙ АНАЛИЗ МЕТРИК
+============================================================
+
+🔵 VANILLA ANFIS:
+  accuracy: 0.645914
+  precision: 0.591928
+  recall: 1.000000
+  f1_score: 0.743662
+  roc_auc: 0.923394
+  Training_Time: 1.601229
+
+🟢 SHAP-РЕГУЛЯРИЗОВАННАЯ ANFIS:
+  accuracy: 0.677043
+  precision: 0.625641
+  recall: 0.924242
+  f1_score: 0.746177
+  roc_auc: 0.812545
+  Training_Time: 3.865817
+
+📊 УЛУЧШЕНИЯ:
+------------------------------------------------------------
+  accuracy: +0.031128 (+4.82%) ⬆️
+  precision: +0.033713 (+5.70%) ⬆️
+  recall: -0.075758 (-7.58%) ⬇️
+  f1_score: +0.002515 (+0.34%) ⬆️
+  roc_auc: -0.110848 (-12.00%) ⬇️
+
+⏱️ ВРЕМЯ ОБУЧЕНИЯ:
+------------------------------------------------------------
+  Vanilla: 1.60 сек
+  Regularized: 3.87 сек
+  Отношение: 0.41x
+
+✅ ПРОВЕРКА КАЧЕСТВА:
+------------------------------------------------------------
+  ✅ Accuracy улучшена: 0.6459 → 0.6770
+  ⚠️ ROC-AUC снизился: 0.9234 → 0.8125
+  ✅ F1-Score улучшен: 0.7437 → 0.7462
+  ✅ Precision улучшен: 0.5919 → 0.6256
+  ⚠️ Recall снизился: 1.0000 → 0.9242
+
+============================================================
+ПРОВЕРКА ЗАВЕРШЕНА
+============================================================

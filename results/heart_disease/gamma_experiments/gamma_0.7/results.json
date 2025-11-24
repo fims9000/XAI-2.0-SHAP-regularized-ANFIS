@@ -1,0 +1,27 @@
+{
+  "dataset": "heart_disease",
+  "gamma": 0.7,
+  "vanilla": {
+    "metrics": {
+      "accuracy": 0.6459143968871596,
+      "precision": 0.5919282511210763,
+      "recall": 1.0,
+      "f1_score": 0.7436619718309859,
+      "roc_auc": 0.9233939393939394
+    },
+    "training_time": 1.4345273971557617
+  },
+  "regularized": {
+    "metrics": {
+      "accuracy": 0.7509727626459144,
+      "precision": 0.7098765432098766,
+      "recall": 0.8712121212121212,
+      "f1_score": 0.782312925170068,
+      "roc_auc": 0.7990909090909091
+    },
+    "training_time": 9.500380039215088
+  },
+  "posthoc": {
+    "analysis_time": 0
+  }
+}

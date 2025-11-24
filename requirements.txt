@@ -9,3 +9,4 @@ mealpy>=2.5.0
 permetrics>=1.3.0
 shap>=0.41.0
 PyYAML>=6.0
+psutil>=5.8.0

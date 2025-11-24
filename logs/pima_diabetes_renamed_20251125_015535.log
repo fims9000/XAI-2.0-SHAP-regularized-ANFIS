@@ -1,0 +1,465 @@
+2025/11/25 01:55:39 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: OriginalPSO(epoch=20, pop_size=30, c1=2.05, c2=2.05, w=0.4)
+2025/11/25 01:55:39 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 1, Current best: 0.42401288150105276, Global best: 0.42401288150105276, Runtime: 0.05647 seconds
+2025/11/25 01:55:39 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 2, Current best: 0.42501219897241604, Global best: 0.42501219897241604, Runtime: 0.07604 seconds
+2025/11/25 01:55:39 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 3, Current best: 0.42501219897241604, Global best: 0.42501219897241604, Runtime: 0.07686 seconds
+2025/11/25 01:55:39 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 4, Current best: 0.4263534218590398, Global best: 0.4263534218590398, Runtime: 0.06558 seconds
+2025/11/25 01:55:40 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 5, Current best: 0.4263534218590398, Global best: 0.4263534218590398, Runtime: 0.05720 seconds
+2025/11/25 01:55:40 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 6, Current best: 0.4402367916259099, Global best: 0.4402367916259099, Runtime: 0.05673 seconds
+2025/11/25 01:55:40 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 7, Current best: 0.4402367916259099, Global best: 0.4402367916259099, Runtime: 0.05741 seconds
+2025/11/25 01:55:40 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 8, Current best: 0.4402367916259099, Global best: 0.4402367916259099, Runtime: 0.05704 seconds
+2025/11/25 01:55:40 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 9, Current best: 0.4402367916259099, Global best: 0.4402367916259099, Runtime: 0.06961 seconds
+2025/11/25 01:55:40 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 10, Current best: 0.4402367916259099, Global best: 0.4402367916259099, Runtime: 0.05699 seconds
+2025/11/25 01:55:40 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 11, Current best: 0.4402367916259099, Global best: 0.4402367916259099, Runtime: 0.05207 seconds
+2025/11/25 01:55:40 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 12, Current best: 0.4402367916259099, Global best: 0.4402367916259099, Runtime: 0.05762 seconds
+2025/11/25 01:55:40 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 13, Current best: 0.4402367916259099, Global best: 0.4402367916259099, Runtime: 0.05651 seconds
+2025/11/25 01:55:40 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 14, Current best: 0.4402367916259099, Global best: 0.4402367916259099, Runtime: 0.06592 seconds
+2025/11/25 01:55:40 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 15, Current best: 0.4402367916259099, Global best: 0.4402367916259099, Runtime: 0.05311 seconds
+2025/11/25 01:55:40 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 16, Current best: 0.4402367916259099, Global best: 0.4402367916259099, Runtime: 0.05217 seconds
+2025/11/25 01:55:40 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 17, Current best: 0.4420512820512821, Global best: 0.4420512820512821, Runtime: 0.05421 seconds
+2025/11/25 01:55:40 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 18, Current best: 0.4420512820512821, Global best: 0.4420512820512821, Runtime: 0.05626 seconds
+2025/11/25 01:55:40 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 19, Current best: 0.4420512820512821, Global best: 0.4420512820512821, Runtime: 0.06088 seconds
+2025/11/25 01:55:40 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 20, Current best: 0.4420512820512821, Global best: 0.4420512820512821, Runtime: 0.05892 seconds
+Запуск экспериментов для: pima_diabetes
+============================================================
+
+========================================
+АУДИТ СИСТЕМЫ
+========================================
+[INFO] Запуск аудита системы...
+
+============================================================
+ОТЧЕТ ОБ АУДИТЕ СИСТЕМЫ
+============================================================
+
+📅 Время аудита: 2025-11-25T01:55:37.418726
+
+[INFO] СИСТЕМА:
+   Платформа: Linux-6.17.4-76061704-generic-x86_64-with-glibc2.39
+   Система: Linux 6.17.4-76061704-generic
+   Процессор: x86_64
+
+[ЖЕЛЕЗО]
+   CPU (физических/логических): 8/16
+   Частота CPU: 3722.69 MHz
+   Память: 14.81 GB (доступно: 4.76 GB)
+   Диск: 459.52 GB (свободно: 103.26 GB)
+
+[PYTHON]
+   Версия: 3.12.3
+   Исполняемый файл: /home/lebedeffson/venv/bin/python
+
+[БИБЛИОТЕКИ]
+   numpy: 1.26.0
+   pandas: 2.1.3
+   scikit-learn: not installed
+   matplotlib: 3.10.5
+   seaborn: 0.13.2
+   torch: 2.8.0+cu128
+   shap: 0.48.0
+   PyYAML: not installed
+
+[GPU]
+   Доступен: Да
+   Количество устройств: 1
+   Устройство 0: NVIDIA GeForce RTX 4060 Laptop GPU
+      Память: 7.62 GB
+      Compute Capability: 8.9
+
+[ПАМЯТЬ] Текущее состояние:
+   Использовано: 10.10 GB (68.2%)
+   Свободно: 2.57 GB
+
+[INFO] CPU (текущее состояние):
+   Использование: 12.0%
+============================================================
+
+[OK] Отчет сохранен в: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/pima_diabetes/system_audit.json
+[INFO] Загрузка датасета: Pima Indians Diabetes
+[OK] Загружено: 768 образцов, 9 колонок
+[INFO] Колонки: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+[WARNING] Target колонка не определена автоматически. Используется последняя колонка: 'Outcome'
+
+[INFO] Распределение классов для 'Outcome':
+   Класс 0: 500 образцов (65.1%)
+   Класс 1: 268 образцов (34.9%)
+[INFO] Подготовлено:
+   Целевая переменная: 'Outcome' (2 уникальных значений)
+   Признаков: 8
+   Названия признаков: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin']...
+[OK] Предобработка завершена:
+   Train: 576 объектов
+   Test: (192, 8) объектов
+   Признаков: 8
+
+========================================
+ЭКСПЕРИМЕНТ 1: Vanilla ANFIS
+========================================
+[INFO] Обучение Vanilla ANFIS (Классификация)...
+
+[OK] Vanilla ANFIS (Классификация) обучен успешно!
+   Accuracy: 0.4479
+   Precision: 0.3832
+   Recall: 0.9552
+   F1-Score: 0.5470
+   ROC AUC: 0.7715
+   Время: 1.28 сек
+
+========================================
+ЭКСПЕРИМЕНТ 2: Post-hoc SHAP (Vanilla ANFIS)
+========================================
+[INFO] Post-hoc SHAP анализ (классификации)...
+  0%|          | 0/80 [00:00<?, ?it/s] 12%|█▎        | 10/80 [00:00<00:00, 95.54it/s] 28%|██▊       | 22/80 [00:00<00:00, 108.60it/s] 42%|████▎     | 34/80 [00:00<00:00, 113.14it/s] 57%|█████▊    | 46/80 [00:00<00:00, 114.66it/s] 72%|███████▎  | 58/80 [00:00<00:00, 115.72it/s] 88%|████████▊ | 70/80 [00:00<00:00, 113.01it/s]100%|██████████| 80/80 [00:00<00:00, 112.57it/s]
+2025/11/25 01:55:41 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: OriginalPSO(epoch=20, pop_size=30, c1=2.05, c2=2.05, w=0.4)
+2025/11/25 01:55:41 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 1, Current best: 0.562608076492727, Global best: 0.562608076492727, Runtime: 0.04167 seconds
+2025/11/25 01:55:41 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 2, Current best: 0.562608076492727, Global best: 0.562608076492727, Runtime: 0.04133 seconds
+2025/11/25 01:55:41 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 3, Current best: 0.562608076492727, Global best: 0.562608076492727, Runtime: 0.04087 seconds
+2025/11/25 01:55:41 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 4, Current best: 0.562608076492727, Global best: 0.562608076492727, Runtime: 0.03762 seconds
+2025/11/25 01:55:41 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 5, Current best: 0.562608076492727, Global best: 0.562608076492727, Runtime: 0.03636 seconds
+2025/11/25 01:55:41 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 6, Current best: 0.562608076492727, Global best: 0.562608076492727, Runtime: 0.03933 seconds
+2025/11/25 01:55:41 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 7, Current best: 0.562608076492727, Global best: 0.562608076492727, Runtime: 0.03848 seconds
+2025/11/25 01:55:41 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 8, Current best: 0.562608076492727, Global best: 0.562608076492727, Runtime: 0.03745 seconds
+2025/11/25 01:55:42 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 9, Current best: 0.562608076492727, Global best: 0.562608076492727, Runtime: 0.04108 seconds
+2025/11/25 01:55:42 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 10, Current best: 0.562608076492727, Global best: 0.562608076492727, Runtime: 0.04360 seconds
+2025/11/25 01:55:42 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 11, Current best: 0.562608076492727, Global best: 0.562608076492727, Runtime: 0.04101 seconds
+2025/11/25 01:55:42 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 12, Current best: 0.562608076492727, Global best: 0.562608076492727, Runtime: 0.04019 seconds
+2025/11/25 01:55:42 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 13, Current best: 0.562608076492727, Global best: 0.562608076492727, Runtime: 0.03651 seconds
+2025/11/25 01:55:42 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 14, Current best: 0.562608076492727, Global best: 0.562608076492727, Runtime: 0.03680 seconds
+2025/11/25 01:55:42 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 15, Current best: 0.562608076492727, Global best: 0.562608076492727, Runtime: 0.03723 seconds
+2025/11/25 01:55:42 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 16, Current best: 0.562608076492727, Global best: 0.562608076492727, Runtime: 0.03940 seconds
+2025/11/25 01:55:42 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 17, Current best: 0.5738636363636364, Global best: 0.5738636363636364, Runtime: 0.03768 seconds
+2025/11/25 01:55:42 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 18, Current best: 0.5738636363636364, Global best: 0.5738636363636364, Runtime: 0.03813 seconds
+2025/11/25 01:55:42 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 19, Current best: 0.5738636363636364, Global best: 0.5738636363636364, Runtime: 0.03907 seconds
+2025/11/25 01:55:42 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 20, Current best: 0.5738636363636364, Global best: 0.5738636363636364, Runtime: 0.03898 seconds
+[OK] SHAP анализ завершен за 0.71 сек
+
+========================================
+ЭКСПЕРИМЕНТ 3: Baseline-Masked Feature Sensitivity Regularization
+========================================
+[INFO] Начинаю обучение ANFIS с Baseline-Masked Feature Sensitivity Regularization (оценка чувствительности признаков) (классификации)...
+   Эпоха 5/25: Total: 0.8707, Main: 0.7915, SHAP: 0.0007, Train Acc: 0.6674, F1: 0.6383, ROC: 0.7761 | Val Acc: 0.5948, F1: 0.5524 [WARNING](gap=0.073), Время: 0.16с
+   Эпоха 10/25: Total: 0.8559, Main: 0.7781, SHAP: 0.0005, Train Acc: 0.7196, F1: 0.6596, ROC: 0.7757 | Val Acc: 0.6810, F1: 0.5934, Время: 0.13с
+   Эпоха 15/25: Total: 0.8396, Main: 0.7633, SHAP: 0.0004, Train Acc: 0.7370, F1: 0.6431, ROC: 0.7883 | Val Acc: 0.7328, F1: 0.6265, Время: 0.13с
+   Эпоха 20/25: Total: 0.8317, Main: 0.7561, SHAP: 0.0003, Train Acc: 0.7435, F1: 0.6289, ROC: 0.7925 | Val Acc: 0.7586, F1: 0.6316, Время: 0.13с
+   Эпоха 25/25: Total: 0.8281, Main: 0.7528, SHAP: 0.0005, Train Acc: 0.7522, F1: 0.6200, ROC: 0.7810 | Val Acc: 0.7672, F1: 0.5970, Время: 0.17с
+[OK] Обучение завершено за 4.24 сек
+[OK] Baseline-Masked Feature Sensitivity Regularization (оценка чувствительности признаков) завершена:
+   accuracy: 0.6719
+   precision: 0.5417
+   recall: 0.3881
+   f1_score: 0.4522
+   roc_auc: 0.7149
+   Время: 4.24 сек
+
+========================================
+ЭКСПЕРИМЕНТ 4: Post-hoc SHAP (Baseline-Masked Feature Sensitivity Regularization (оценка чувствительности признаков))
+========================================
+[INFO] Post-hoc SHAP анализ (классификации)...
+  0%|          | 0/80 [00:00<?, ?it/s] 14%|█▍        | 11/80 [00:00<00:00, 109.67it/s] 28%|██▊       | 22/80 [00:00<00:00, 106.57it/s] 41%|████▏     | 33/80 [00:00<00:00, 104.10it/s] 55%|█████▌    | 44/80 [00:00<00:00, 102.87it/s] 69%|██████▉   | 55/80 [00:00<00:00, 104.80it/s] 82%|████████▎ | 66/80 [00:00<00:00, 103.07it/s] 96%|█████████▋| 77/80 [00:00<00:00, 103.30it/s]100%|██████████| 80/80 [00:00<00:00, 104.00it/s]
+/home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/src/visualization/presentation_plots.py:253: UserWarning: set_ticklabels() should only be used with a fixed number of ticks, i.e. after set_ticks() or using a FixedLocator.
+  ax.set_xticklabels(methods, fontsize=13, color='#212121')
+[OK] SHAP анализ завершен за 0.77 сек
+[OK] Параметры post-hoc сохранены: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/pima_diabetes/posthoc_parameters.json
+
+========================================
+СРАВНЕНИЕ ПРАВИЛ ANFIS
+========================================
+[WARNING] Несоответствие размерностей: ожидалось 8 признаков, найдено 15
+[WARNING] Несоответствие размерностей: ожидалось 8 признаков, найдено 15
+[OK] Правила извлечены и сравнены:
+   Среднее сходство: 0.4887
+   Среднее различие коэффициентов: 0.4289
+   Среднее различие ФП: 0.6239
+
+========================================
+СРАВНИТЕЛЬНЫЙ АНАЛИЗ
+========================================
+
+VANILLA:
+  accuracy: 0.4479
+  precision: 0.3832
+  recall: 0.9552
+  f1_score: 0.5470
+  roc_auc: 0.7715
+  Время обучения: 1.28 сек
+
+REGULARIZED:
+  accuracy: 0.6719
+  precision: 0.5417
+  recall: 0.3881
+  f1_score: 0.4522
+  roc_auc: 0.7149
+  Время обучения: 4.24 сек
+
+[OK] Все эксперименты завершены успешно!
+
+========================================
+СОЗДАНИЕ ВИЗУАЛИЗАЦИИ
+========================================
+
+========================================
+СОЗДАНИЕ ОТДЕЛЬНЫХ ГРАФИКОВ ВЫСОКОГО КАЧЕСТВА
+========================================
+Создание отдельных графиков для Vanilla ANFIS...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/pima_diabetes/vanilla_confusion_matrix.png
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/pima_diabetes/vanilla_roc_curve.png
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/pima_diabetes/vanilla_feature_importance.png
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/pima_diabetes/vanilla_prediction_distribution.png
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/pima_diabetes/vanilla_pr_curve.png
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/pima_diabetes/vanilla_calibration_curve.png
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/pima_diabetes/vanilla_error_distribution.png
+[OK] Все отдельные графики Vanilla созданы
+Создание комплексной визуализации...
+Сравнительная таблица сохранена: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/pima_diabetes/comparison_results.csv
+Визуализация создана и сохранена!
+
+Создание графиков обучения...
+[INFO] Графики обучения сохранены: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/pima_diabetes/training_plots.png
+
+Создание графиков сравнения правил...
+[INFO] График сравнения правил сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/pima_diabetes/rules_comparison.png
+
+Создание графиков сравнения SHAP методов...
+[INFO] График сравнения SHAP методов сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/pima_diabetes/shap_methods_comparison.png
+
+Создание графиков сравнения post-hoc SHAP...
+[INFO] График сравнения SHAP методов сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/pima_diabetes/shap_methods_comparison.png
+
+========================================
+СОЗДАНИЕ ОТДЕЛЬНЫХ ГРАФИКОВ ДЛЯ ПРЕЗЕНТАЦИИ
+========================================
+
+[INFO] Создание графика сравнения метрик обучения...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/pima_diabetes/01_training_metrics_comparison.png
+[INFO] Создание графика сравнения потерь...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/pima_diabetes/02_loss_comparison.png
+[INFO] Создание графика сравнения предсказаний и важности признаков...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/pima_diabetes/03_predictions_comparison.png
+[INFO] Создание графика сравнения ROC кривых...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/pima_diabetes/04_roc_comparison.png
+[INFO] Создание графика сравнения метрик...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/pima_diabetes/05_metrics_bar_comparison.png
+[INFO] Создание графика сравнения важности признаков...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/pima_diabetes/06_feature_importance_comparison.png
+[INFO] Создание детального графика сравнения правил...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/pima_diabetes/07_rules_comparison_detailed.png
+[INFO] Создание графика сравнения времени обучения...
+[INFO] График времени обучения сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/pima_diabetes/08_training_time_comparison.png
+
+========================================
+АНАЛИЗ ВРЕМЕНИ ОБУЧЕНИЯ
+========================================
+Vanilla ANFIS: 1.28 сек
+Baseline-Masked Feature Sensitivity Regularization (оценка чувствительности признаков): 4.24 сек
+Ускорение: 0.30x
+
+Vanilla + Post-hoc SHAP: 1.99 сек
+Ускорение относительно post-hoc: 0.47x
+[OK] Анализ времени сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/pima_diabetes/time_analysis.json
+
+[INFO] Результаты сохранены в: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/pima_diabetes
+
+============================================================
+АВТОМАТИЧЕСКАЯ ПРОВЕРКА МЕТРИК
+============================================================
+============================================================
+ПРОВЕРКА МЕТРИК ПОСЛЕ ОБУЧЕНИЯ
+============================================================
+
+📊 МЕТРИКИ ИЗ CSV:
+------------------------------------------------------------
+     Method  accuracy  precision   recall  f1_score  roc_auc  Training_Time
+    Vanilla  0.447917   0.383234 0.955224  0.547009 0.771463       1.281702
+Regularized  0.671875   0.541667 0.388060  0.452174 0.714866       4.240928
+
+
+📄 TIME ANALYSIS:
+------------------------------------------------------------
+{
+  "vanilla_time": 1.2817018032073975,
+  "regularized_time": 4.240928411483765,
+  "speedup": 0.3022219851051367,
+  "posthoc_time": 0.7125866413116455,
+  "total_posthoc_time": 1.994288444519043,
+  "speedup_vs_posthoc": 0.47024808037759486
+}
+
+📄 SYSTEM AUDIT:
+------------------------------------------------------------
+{
+  "timestamp": "2025-11-25T01:55:37.418726",
+  "system": {
+    "platform": "Linux-6.17.4-76061704-generic-x86_64-with-glibc2.39",
+    "system": "Linux",
+    "release": "6.17.4-76061704-generic",
+    "version": "#202510191616~1761932270~24.04~b3a306c SMP PREEMPT_DYNAMIC Fri O",
+    "machine": "x86_64",
+    "processor": "x86_64"
+  },
+  "hardware": {
+    "cpu_count_physical": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+      "current": 3722.6879375,
+      "min": 1100.9799999999998,
+      "max": 5137.904
+    },
+    "memory_total_gb": 14.808773040771484,
+    "memory_available_gb": 4.756336212158203,
+    "disk_usage": {
+      "total_gb": 459.5223274230957,
+      "used_gb": 332.84603118896484,
+      "free_gb": 103.2637825012207
+    }
+  },
+  "python": {
+    "version": "3.12.3 (main, Aug 14 2025, 17:47:21) [GCC 13.3.0]",
+    "version_info": {
+      "major": 3,
+      "minor": 12,
+      "micro": 3
+    },
+    "executable": "/home/lebedeffson/venv/bin/python"
+  },
+  "libraries": {
+    "numpy": "1.26.0",
+    "pandas": "2.1.3",
+    "scikit-learn": "not installed",
+    "matplotlib": "3.10.5",
+    "seaborn": "0.13.2",
+    "torch": "2.8.0+cu128",
+    "shap": "0.48.0",
+    "PyYAML": "not installed"
+  },
+  "gpu": {
+    "available": true,
+    "count": 1,
+    "devices": [
+      {
+        "device_id": 0,
+        "name": "NVIDIA GeForce RTX 4060 Laptop GPU",
+        "memory_total_gb": 7.62261962890625,
+        "compute_capability": "8.9"
+      }
+    ]
+  },
+  "memory": {
+    "total_gb": 14.808773040771484,
+    "available_gb": 4.709541320800781,
+    "used_gb": 10.099231719970703,
+    "percent": 68.2,
+    "free_gb": 2.572673797607422
+  },
+  "cpu": {
+    "usage_percent": 12.0,
+    "per_cpu_usage": [
+      11.2,
+      1.0,
+      11.0,
+      1.0,
+      13.1,
+      6.0,
+      15.2,
+      84.0,
+      18.4,
+      4.0,
+      32.7,
+      14.9,
+      20.2,
+      7.0,
+      14.1,
+      3.0
+    ],
+    "load_average": [
+      9.857421875,
+      5.26025390625,
+      3.14306640625
+    ]
+  }
+}
+
+📄 POSTHOC PARAMETERS:
+------------------------------------------------------------
+{
+  "vanilla": {
+    "sample_size": 80,
+    "explainer_type": "KernelExplainer",
+    "background_size": 80,
+    "analysis_time": 0.7125866413116455
+  },
+  "regularized": {
+    "sample_size": 80,
+    "explainer_type": "KernelExplainer",
+    "background_size": 80,
+    "analysis_time": 0.7705285549163818
+  }
+}
+
+📈 ГРАФИКИ:
+------------------------------------------------------------
+Найдено графиков: 20
+  ✅ 01_training_metrics_comparison.png (805.7 KB)
+  ✅ 02_loss_comparison.png (308.6 KB)
+  ✅ 03_predictions_comparison.png (1106.4 KB)
+  ✅ 04_roc_comparison.png (303.1 KB)
+  ✅ 05_metrics_bar_comparison.png (203.5 KB)
+  ✅ 06_feature_importance_comparison.png (555.1 KB)
+  ✅ 07_rules_comparison_detailed.png (954.6 KB)
+  ✅ 08_training_time_comparison.png (187.7 KB)
+  ✅ rules_comparison.png (529.8 KB)
+  ✅ shap_methods_comparison.png (831.7 KB)
+  ✅ shap_regularization_analysis.png (1420.7 KB)
+  ✅ training_plots.png (950.9 KB)
+  ✅ vanilla_anfis_analysis.png (880.9 KB)
+  ✅ vanilla_calibration_curve.png (171.3 KB)
+  ✅ vanilla_confusion_matrix.png (93.6 KB)
+  ✅ vanilla_error_distribution.png (90.4 KB)
+  ✅ vanilla_feature_importance.png (174.6 KB)
+  ✅ vanilla_pr_curve.png (144.7 KB)
+  ✅ vanilla_prediction_distribution.png (116.7 KB)
+  ✅ vanilla_roc_curve.png (162.0 KB)
+
+============================================================
+ДЕТАЛЬНЫЙ АНАЛИЗ МЕТРИК
+============================================================
+
+🔵 VANILLA ANFIS:
+  accuracy: 0.447917
+  precision: 0.383234
+  recall: 0.955224
+  f1_score: 0.547009
+  roc_auc: 0.771463
+  Training_Time: 1.281702
+
+🟢 SHAP-РЕГУЛЯРИЗОВАННАЯ ANFIS:
+  accuracy: 0.671875
+  precision: 0.541667
+  recall: 0.388060
+  f1_score: 0.452174
+  roc_auc: 0.714866
+  Training_Time: 4.240928
+
+📊 УЛУЧШЕНИЯ:
+------------------------------------------------------------
+  accuracy: +0.223958 (+50.00%) ⬆️
+  precision: +0.158433 (+41.34%) ⬆️
+  recall: -0.567164 (-59.37%) ⬇️
+  f1_score: -0.094835 (-17.34%) ⬇️
+  roc_auc: -0.056597 (-7.34%) ⬇️
+
+⏱️ ВРЕМЯ ОБУЧЕНИЯ:
+------------------------------------------------------------
+  Vanilla: 1.28 сек
+  Regularized: 4.24 сек
+  Отношение: 0.30x
+
+✅ ПРОВЕРКА КАЧЕСТВА:
+------------------------------------------------------------
+  ✅ Accuracy улучшена: 0.4479 → 0.6719
+  ⚠️ ROC-AUC снизился: 0.7715 → 0.7149
+  ⚠️ F1-Score снизился: 0.5470 → 0.4522
+  ✅ Precision улучшен: 0.3832 → 0.5417
+  ⚠️ Recall снизился: 0.9552 → 0.3881
+
+============================================================
+ПРОВЕРКА ЗАВЕРШЕНА
+============================================================
