@@ -32,10 +32,15 @@ def main():
                         help='Какой эксперимент запустить')
     parser.add_argument('--save-results', action='store_true',
                         help='Сохранить результаты')
+    parser.add_argument('--mode',
+                        choices=['fast', 'article'],
+                        default='fast',
+                        help='Режим конфигурации: fast (по умолчанию) или article')
 
     args = parser.parse_args()
 
     print(f"Запуск экспериментов для: {args.dataset}")
+    print(f"Режим конфигурации: {args.mode}")
     print("=" * 60)
 
     # Аудит системы
@@ -47,12 +52,21 @@ def main():
     auditor.print_audit_report()
 
     # Загрузка конфигурации
-    config_path = project_root / 'configs' / f'{args.dataset}.yaml'
+    config_name = args.dataset if args.mode == 'fast' else f"{args.dataset}_{args.mode}"
+    config_path = project_root / 'configs' / f'{config_name}.yaml'
+    if not config_path.exists():
+        raise FileNotFoundError(
+            f"Конфигурация '{config_name}.yaml' не найдена в папке configs. "
+            f"Создайте её или запустите с --mode fast."
+        )
     with open(config_path, 'r') as f:
         config = yaml.safe_load(f)
 
     # Создание папки для результатов
-    results_dir = project_root / 'results' / args.dataset
+    if args.mode == 'fast':
+        results_dir = project_root / 'results' / args.dataset
+    else:
+        results_dir = project_root / 'results' / args.dataset / args.mode
     results_dir.mkdir(parents=True, exist_ok=True)
 
     # Сохранение аудита системы
@@ -176,7 +190,7 @@ def main():
                 'recall': recall_score(y_test, y_pred_bin, zero_division=0),
                 'f1_score': f1_score(y_test, y_pred_bin, zero_division=0),
                 'roc_auc': roc_auc_score(y_test, y_pred) if len(np.unique(y_test)) > 1 else 0.0
-            }
+                }
 
             results['regularized'] = {
                 'trainer': trainer,
@@ -468,6 +482,8 @@ def main():
                 'speedup': speedup,
                 'posthoc_time': results.get('posthoc_vanilla', {}).get('analysis_time', 0),
                 'total_posthoc_time': vanilla_time + results.get('posthoc_vanilla', {}).get('analysis_time', 0),
+                'posthoc_regularized_time': results.get('posthoc_regularized', {}).get('analysis_time', 0),
+                'total_posthoc_regularized_time': regularized_time + results.get('posthoc_regularized', {}).get('analysis_time', 0),
                 'speedup_vs_posthoc': speedup_vs_posthoc if 'posthoc_vanilla' in results else 0
             }
             time_file = results_dir / 'time_analysis.json'

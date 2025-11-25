@@ -1,14 +1,14 @@
 {
   "vanilla": {
-    "sample_size": 80,
+    "sample_size": 320,
     "explainer_type": "KernelExplainer",
-    "background_size": 80,
-    "analysis_time": 14.918195724487305
+    "background_size": 320,
+    "analysis_time": 124.08447122573853
   },
   "regularized": {
-    "sample_size": 80,
+    "sample_size": 320,
     "explainer_type": "KernelExplainer",
-    "background_size": 80,
-    "analysis_time": 13.977115154266357
+    "background_size": 320,
+    "analysis_time": 128.99446058273315
   }
 }

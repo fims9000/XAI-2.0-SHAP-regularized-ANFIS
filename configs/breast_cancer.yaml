@@ -1,4 +1,5 @@
-# Конфигурация для Breast Cancer Wisconsin Dataset
+# Конфигурация Breast Cancer — режим "article"
+# Повторяет параметры из статьи, чтобы время обучения совпадало по порядку
 dataset:
   name: "Breast Cancer Wisconsin (Diagnostic)"
   source_type: "url"
@@ -6,7 +7,6 @@ dataset:
   description: "569 образцов опухолей молочной железы с 30 признаками"
   task_type: "classification"
 
-  # Специальная обработка для этого датасета
   special_preprocessing:
     type: "breast_cancer"
     has_header: false
@@ -20,7 +20,7 @@ dataset:
       "compactness_worst", "concavity_worst", "concave_points_worst", "symmetry_worst", "fractal_dimension_worst"
     ]
     target_column: "Diagnosis"
-    feature_start_col: 2  # начинаем с 3-й колонки (индекс 2)
+    feature_start_col: 2
     target_mapping: {"M": 1, "B": 0}
 
 preprocessing:
@@ -30,25 +30,27 @@ preprocessing:
   stratify: true
 
 model:
-  num_rules: 5
+  num_rules: 15
   mf_class: "GBell"
   optim: "OriginalPSO"
   optim_params:
-    epoch: 20
-    pop_size: 30
+    epoch: 120        # значительно увеличено для повторения времени из статьи
+    pop_size: 80
+    c1: 2.05
+    c2: 2.05
+    w: 0.4
     verbose: true
   reg_lambda: 0.1
   seed: 42
 
 shap:
-  # Фиксированная gamma без подбора
   gamma: 0.5
-  training_epochs: 25
-  batch_size: 32
-  learning_rate: 0.005
-  sample_size: 80  # для post-hoc SHAP
-  early_stopping_patience: 10  # Ранняя остановка после 5 эпох без улучшения
-  early_stopping_min_delta: 0.001  # Минимальное улучшение для сохранения модели
+  training_epochs: 75
+  batch_size: 16
+  learning_rate: 0.0025
+  sample_size: 320
+  early_stopping_patience: 15
+  early_stopping_min_delta: 0.0005
 
 visualization:
   figure_size: [20, 16]
@@ -56,3 +58,4 @@ visualization:
   save_plots: true
   plot_format: "png"
   dpi: 300
+
