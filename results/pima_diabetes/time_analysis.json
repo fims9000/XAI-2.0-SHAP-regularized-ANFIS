@@ -1,8 +1,10 @@
 {
-  "vanilla_time": 1.2614421844482422,
-  "regularized_time": 4.120842933654785,
-  "speedup": 0.3061126582006042,
-  "posthoc_time": 0.7362744808197021,
-  "total_posthoc_time": 1.9977166652679443,
-  "speedup_vs_posthoc": 0.48478350119890756
+  "vanilla_time": 1.0451264381408691,
+  "regularized_time": 3.9665701389312744,
+  "speedup": 0.2634836651148846,
+  "posthoc_time": 0.6200344562530518,
+  "total_posthoc_time": 1.665160894393921,
+  "posthoc_regularized_time": 0.6917519569396973,
+  "total_posthoc_regularized_time": 4.658322095870972,
+  "speedup_vs_posthoc": 0.4197986764561714
 }

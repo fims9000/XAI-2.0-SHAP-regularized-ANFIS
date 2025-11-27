@@ -1,0 +1,673 @@
+2025/11/27 12:11:31 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: OriginalPSO(epoch=120, pop_size=80, c1=2.05, c2=2.05, w=0.4)
+2025/11/27 12:11:32 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 1, Current best: 0.7836512983571806, Global best: 0.7836512983571806, Runtime: 0.57822 seconds
+2025/11/27 12:11:33 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 2, Current best: 0.7836512983571806, Global best: 0.7836512983571806, Runtime: 0.63402 seconds
+2025/11/27 12:11:33 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 3, Current best: 0.7996647247257216, Global best: 0.7996647247257216, Runtime: 0.68640 seconds
+2025/11/27 12:11:34 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 4, Current best: 0.8157275953859804, Global best: 0.8157275953859804, Runtime: 0.61422 seconds
+2025/11/27 12:11:35 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 5, Current best: 0.8433997994875795, Global best: 0.8433997994875795, Runtime: 0.71062 seconds
+2025/11/27 12:11:35 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 6, Current best: 0.8639290337403545, Global best: 0.8639290337403545, Runtime: 0.61670 seconds
+2025/11/27 12:11:36 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 7, Current best: 0.8639290337403545, Global best: 0.8639290337403545, Runtime: 0.57838 seconds
+2025/11/27 12:11:37 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 8, Current best: 0.8639290337403545, Global best: 0.8639290337403545, Runtime: 0.70451 seconds
+2025/11/27 12:11:37 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 9, Current best: 0.8639290337403545, Global best: 0.8639290337403545, Runtime: 0.69373 seconds
+2025/11/27 12:11:38 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 10, Current best: 0.8663978494623656, Global best: 0.8663978494623656, Runtime: 0.56589 seconds
+2025/11/27 12:11:39 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 11, Current best: 0.8663978494623656, Global best: 0.8663978494623656, Runtime: 0.78716 seconds
+2025/11/27 12:11:39 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 12, Current best: 0.8777755899974685, Global best: 0.8777755899974685, Runtime: 0.72887 seconds
+2025/11/27 12:11:40 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 13, Current best: 0.8777755899974685, Global best: 0.8777755899974685, Runtime: 0.68749 seconds
+2025/11/27 12:11:41 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 14, Current best: 0.8777755899974685, Global best: 0.8777755899974685, Runtime: 0.60460 seconds
+2025/11/27 12:11:41 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 15, Current best: 0.8777755899974685, Global best: 0.8777755899974685, Runtime: 0.56350 seconds
+2025/11/27 12:11:42 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 16, Current best: 0.8777755899974685, Global best: 0.8777755899974685, Runtime: 0.72863 seconds
+2025/11/27 12:11:43 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 17, Current best: 0.8847220656218289, Global best: 0.8847220656218289, Runtime: 0.75935 seconds
+2025/11/27 12:11:43 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 18, Current best: 0.8847220656218289, Global best: 0.8847220656218289, Runtime: 0.72475 seconds
+2025/11/27 12:11:44 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 19, Current best: 0.8893631436314363, Global best: 0.8893631436314363, Runtime: 0.69641 seconds
+2025/11/27 12:11:45 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 20, Current best: 0.8893631436314363, Global best: 0.8893631436314363, Runtime: 0.65263 seconds
+2025/11/27 12:11:45 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 21, Current best: 0.8893631436314363, Global best: 0.8893631436314363, Runtime: 0.68881 seconds
+2025/11/27 12:11:46 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 22, Current best: 0.8893631436314363, Global best: 0.8893631436314363, Runtime: 0.82243 seconds
+2025/11/27 12:11:47 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 23, Current best: 0.8893631436314363, Global best: 0.8893631436314363, Runtime: 0.78693 seconds
+2025/11/27 12:11:48 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 24, Current best: 0.8893631436314363, Global best: 0.8893631436314363, Runtime: 0.71453 seconds
+2025/11/27 12:11:49 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 25, Current best: 0.8893631436314363, Global best: 0.8893631436314363, Runtime: 0.71869 seconds
+2025/11/27 12:11:49 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 26, Current best: 0.8893631436314363, Global best: 0.8893631436314363, Runtime: 0.69349 seconds
+2025/11/27 12:11:50 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 27, Current best: 0.8893631436314363, Global best: 0.8893631436314363, Runtime: 0.71612 seconds
+2025/11/27 12:11:51 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 28, Current best: 0.8893631436314363, Global best: 0.8893631436314363, Runtime: 0.71675 seconds
+2025/11/27 12:11:51 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 29, Current best: 0.8893631436314363, Global best: 0.8893631436314363, Runtime: 0.71383 seconds
+2025/11/27 12:11:52 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 30, Current best: 0.8893631436314363, Global best: 0.8893631436314363, Runtime: 0.73231 seconds
+2025/11/27 12:11:53 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 31, Current best: 0.8893631436314363, Global best: 0.8893631436314363, Runtime: 0.69719 seconds
+2025/11/27 12:11:54 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 32, Current best: 0.8893631436314363, Global best: 0.8893631436314363, Runtime: 0.78335 seconds
+2025/11/27 12:11:54 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 33, Current best: 0.8893631436314363, Global best: 0.8893631436314363, Runtime: 0.77737 seconds
+2025/11/27 12:11:55 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 34, Current best: 0.8893631436314363, Global best: 0.8893631436314363, Runtime: 0.83917 seconds
+2025/11/27 12:11:56 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 35, Current best: 0.8893631436314363, Global best: 0.8893631436314363, Runtime: 0.80500 seconds
+2025/11/27 12:11:57 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 36, Current best: 0.8893631436314363, Global best: 0.8893631436314363, Runtime: 0.72002 seconds
+2025/11/27 12:11:57 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 37, Current best: 0.8893631436314363, Global best: 0.8893631436314363, Runtime: 0.75057 seconds
+2025/11/27 12:11:58 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 38, Current best: 0.8893631436314363, Global best: 0.8893631436314363, Runtime: 0.70320 seconds
+2025/11/27 12:11:59 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 39, Current best: 0.8893631436314363, Global best: 0.8893631436314363, Runtime: 0.74258 seconds
+2025/11/27 12:12:00 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 40, Current best: 0.8893631436314363, Global best: 0.8893631436314363, Runtime: 0.75189 seconds
+2025/11/27 12:12:00 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 41, Current best: 0.8893631436314363, Global best: 0.8893631436314363, Runtime: 0.77317 seconds
+2025/11/27 12:12:01 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 42, Current best: 0.8893631436314363, Global best: 0.8893631436314363, Runtime: 0.68068 seconds
+2025/11/27 12:12:02 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 43, Current best: 0.8893631436314363, Global best: 0.8893631436314363, Runtime: 0.77623 seconds
+2025/11/27 12:12:03 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 44, Current best: 0.8893631436314363, Global best: 0.8893631436314363, Runtime: 0.75892 seconds
+2025/11/27 12:12:03 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 45, Current best: 0.9008441812804079, Global best: 0.9008441812804079, Runtime: 0.76437 seconds
+2025/11/27 12:12:04 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 46, Current best: 0.9008441812804079, Global best: 0.9008441812804079, Runtime: 0.63813 seconds
+2025/11/27 12:12:05 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 47, Current best: 0.9008441812804079, Global best: 0.9008441812804079, Runtime: 0.70301 seconds
+2025/11/27 12:12:05 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 48, Current best: 0.9030165054069437, Global best: 0.9030165054069437, Runtime: 0.64563 seconds
+2025/11/27 12:12:06 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 49, Current best: 0.9030165054069437, Global best: 0.9030165054069437, Runtime: 0.64059 seconds
+2025/11/27 12:12:07 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 50, Current best: 0.9030165054069437, Global best: 0.9030165054069437, Runtime: 0.69585 seconds
+2025/11/27 12:12:08 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 51, Current best: 0.9030165054069437, Global best: 0.9030165054069437, Runtime: 0.73379 seconds
+2025/11/27 12:12:08 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 52, Current best: 0.9030165054069437, Global best: 0.9030165054069437, Runtime: 0.69108 seconds
+2025/11/27 12:12:09 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 53, Current best: 0.9030165054069437, Global best: 0.9030165054069437, Runtime: 0.61331 seconds
+2025/11/27 12:12:10 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 54, Current best: 0.9030165054069437, Global best: 0.9030165054069437, Runtime: 0.73933 seconds
+2025/11/27 12:12:10 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 55, Current best: 0.9030165054069437, Global best: 0.9030165054069437, Runtime: 0.63846 seconds
+2025/11/27 12:12:11 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 56, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.74434 seconds
+2025/11/27 12:12:12 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 57, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.73126 seconds
+2025/11/27 12:12:12 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 58, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.65804 seconds
+2025/11/27 12:12:13 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 59, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.62295 seconds
+2025/11/27 12:12:14 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 60, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.65031 seconds
+2025/11/27 12:12:14 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 61, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.67183 seconds
+2025/11/27 12:12:15 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 62, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.61083 seconds
+2025/11/27 12:12:16 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 63, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.69505 seconds
+2025/11/27 12:12:16 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 64, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.68321 seconds
+2025/11/27 12:12:17 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 65, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.79427 seconds
+2025/11/27 12:12:18 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 66, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.63945 seconds
+2025/11/27 12:12:18 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 67, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.69864 seconds
+2025/11/27 12:12:19 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 68, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.59505 seconds
+2025/11/27 12:12:20 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 69, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.63301 seconds
+2025/11/27 12:12:20 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 70, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.63814 seconds
+2025/11/27 12:12:21 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 71, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.58955 seconds
+2025/11/27 12:12:22 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 72, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.70765 seconds
+2025/11/27 12:12:22 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 73, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.57695 seconds
+2025/11/27 12:12:23 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 74, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.66186 seconds
+2025/11/27 12:12:24 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 75, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.66325 seconds
+2025/11/27 12:12:24 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 76, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.75486 seconds
+2025/11/27 12:12:25 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 77, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.64391 seconds
+2025/11/27 12:12:26 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 78, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.74486 seconds
+2025/11/27 12:12:26 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 79, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.64807 seconds
+2025/11/27 12:12:27 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 80, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.58925 seconds
+2025/11/27 12:12:28 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 81, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.68516 seconds
+2025/11/27 12:12:28 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 82, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.59774 seconds
+2025/11/27 12:12:29 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 83, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.66647 seconds
+2025/11/27 12:12:29 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 84, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.63400 seconds
+2025/11/27 12:12:30 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 85, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.67258 seconds
+2025/11/27 12:12:31 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 86, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.68376 seconds
+2025/11/27 12:12:31 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 87, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.60894 seconds
+2025/11/27 12:12:32 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 88, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.71480 seconds
+2025/11/27 12:12:33 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 89, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.60479 seconds
+2025/11/27 12:12:33 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 90, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.68725 seconds
+2025/11/27 12:12:34 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 91, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.62463 seconds
+2025/11/27 12:12:35 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 92, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.66720 seconds
+2025/11/27 12:12:35 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 93, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.63338 seconds
+2025/11/27 12:12:36 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 94, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.63659 seconds
+2025/11/27 12:12:37 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 95, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.68705 seconds
+2025/11/27 12:12:37 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 96, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.58087 seconds
+2025/11/27 12:12:38 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 97, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.72005 seconds
+2025/11/27 12:12:39 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 98, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.62152 seconds
+2025/11/27 12:12:39 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 99, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.66754 seconds
+2025/11/27 12:12:40 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 100, Current best: 0.9056810504862416, Global best: 0.9056810504862416, Runtime: 0.62635 seconds
+2025/11/27 12:12:41 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 101, Current best: 0.9100522155961994, Global best: 0.9100522155961994, Runtime: 0.61494 seconds
+2025/11/27 12:12:41 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 102, Current best: 0.9100522155961994, Global best: 0.9100522155961994, Runtime: 0.68486 seconds
+2025/11/27 12:12:42 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 103, Current best: 0.9100522155961994, Global best: 0.9100522155961994, Runtime: 0.59345 seconds
+2025/11/27 12:12:43 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 104, Current best: 0.9171168284197033, Global best: 0.9171168284197033, Runtime: 0.68265 seconds
+2025/11/27 12:12:43 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 105, Current best: 0.9171168284197033, Global best: 0.9171168284197033, Runtime: 0.58865 seconds
+2025/11/27 12:12:44 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 106, Current best: 0.9171168284197033, Global best: 0.9171168284197033, Runtime: 0.65666 seconds
+2025/11/27 12:12:44 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 107, Current best: 0.9171168284197033, Global best: 0.9171168284197033, Runtime: 0.62550 seconds
+2025/11/27 12:12:45 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 108, Current best: 0.9171168284197033, Global best: 0.9171168284197033, Runtime: 0.61503 seconds
+2025/11/27 12:12:46 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 109, Current best: 0.9171168284197033, Global best: 0.9171168284197033, Runtime: 0.67745 seconds
+2025/11/27 12:12:46 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 110, Current best: 0.9171168284197033, Global best: 0.9171168284197033, Runtime: 0.58736 seconds
+2025/11/27 12:12:47 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 111, Current best: 0.9171168284197033, Global best: 0.9171168284197033, Runtime: 0.76616 seconds
+2025/11/27 12:12:48 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 112, Current best: 0.9171168284197033, Global best: 0.9171168284197033, Runtime: 0.70036 seconds
+2025/11/27 12:12:48 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 113, Current best: 0.9171168284197033, Global best: 0.9171168284197033, Runtime: 0.70554 seconds
+2025/11/27 12:12:49 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 114, Current best: 0.9171168284197033, Global best: 0.9171168284197033, Runtime: 0.75154 seconds
+2025/11/27 12:12:50 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 115, Current best: 0.9171168284197033, Global best: 0.9171168284197033, Runtime: 0.72766 seconds
+2025/11/27 12:12:51 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 116, Current best: 0.9171168284197033, Global best: 0.9171168284197033, Runtime: 0.61212 seconds
+2025/11/27 12:12:51 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 117, Current best: 0.9171168284197033, Global best: 0.9171168284197033, Runtime: 0.72103 seconds
+2025/11/27 12:12:52 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 118, Current best: 0.9171168284197033, Global best: 0.9171168284197033, Runtime: 0.61173 seconds
+2025/11/27 12:12:53 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 119, Current best: 0.9171168284197033, Global best: 0.9171168284197033, Runtime: 0.60960 seconds
+2025/11/27 12:12:53 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 120, Current best: 0.9171168284197033, Global best: 0.9171168284197033, Runtime: 0.67824 seconds
+Using 143 background data samples could cause slower run times. Consider using shap.sample(data, K) or shap.kmeans(data, K) to summarize the background as K samples.
+Запуск экспериментов для: breast_cancer
+Режим конфигурации: fast
+============================================================
+
+========================================
+АУДИТ СИСТЕМЫ
+========================================
+[INFO] Запуск аудита системы...
+
+============================================================
+ОТЧЕТ ОБ АУДИТЕ СИСТЕМЫ
+============================================================
+
+📅 Время аудита: 2025-11-27T00:11:27.872243
+
+[INFO] СИСТЕМА:
+   Платформа: Linux-6.17.4-76061704-generic-x86_64-with-glibc2.39
+   Система: Linux 6.17.4-76061704-generic
+   Процессор: x86_64
+
+[ЖЕЛЕЗО]
+   CPU (физических/логических): 8/16
+   Частота CPU: 2092.54 MHz
+   Память: 14.81 GB (доступно: 3.11 GB)
+   Диск: 459.52 GB (свободно: 102.56 GB)
+
+[PYTHON]
+   Версия: 3.12.3
+   Исполняемый файл: /home/lebedeffson/venv/bin/python
+
+[БИБЛИОТЕКИ]
+   numpy: 1.26.0
+   pandas: 2.1.3
+   scikit-learn: not installed
+   matplotlib: 3.10.5
+   seaborn: 0.13.2
+   torch: 2.8.0+cu128
+   shap: 0.48.0
+   PyYAML: not installed
+
+[GPU]
+   Доступен: Да
+   Количество устройств: 1
+   Устройство 0: NVIDIA GeForce RTX 4060 Laptop GPU
+      Память: 7.62 GB
+      Compute Capability: 8.9
+
+[ПАМЯТЬ] Текущее состояние:
+   Использовано: 11.74 GB (79.3%)
+   Свободно: 0.87 GB
+
+[INFO] CPU (текущее состояние):
+   Использование: 4.7%
+============================================================
+
+[OK] Отчет сохранен в: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/system_audit.json
+[INFO] Загрузка датасета: Breast Cancer Wisconsin (Diagnostic)
+[OK] Загружено: 569 образцов, 32 колонок
+[INFO] Колонки: ['ID', 'Diagnosis', 'radius_mean', 'texture_mean', 'perimeter_mean', 'area_mean', 'smoothness_mean', 'compactness_mean', 'concavity_mean', 'concave_points_mean', 'symmetry_mean', 'fractal_dimension_mean', 'radius_se', 'texture_se', 'perimeter_se', 'area_se', 'smoothness_se', 'compactness_se', 'concavity_se', 'concave_points_se', 'symmetry_se', 'fractal_dimension_se', 'radius_worst', 'texture_worst', 'perimeter_worst', 'area_worst', 'smoothness_worst', 'compactness_worst', 'concavity_worst', 'concave_points_worst', 'symmetry_worst', 'fractal_dimension_worst']
+
+[INFO] Распределение классов для 'Diagnosis':
+   Класс 0: 357 образцов (62.7%)
+   Класс 1: 212 образцов (37.3%)
+[INFO] Подготовлено:
+   Целевая переменная: 'Diagnosis' (2 уникальных значений)
+   Признаков: 30
+   Названия признаков: ['radius_mean', 'texture_mean', 'perimeter_mean', 'area_mean', 'smoothness_mean']...
+[OK] Предобработка завершена:
+   Train: 426 объектов
+   Test: (143, 30) объектов
+   Признаков: 30
+
+========================================
+ЭКСПЕРИМЕНТ 1: Vanilla ANFIS
+========================================
+[INFO] Обучение Vanilla ANFIS (Классификация)...
+
+[OK] Vanilla ANFIS (Классификация) обучен успешно!
+   Accuracy: 0.9161
+   Precision: 0.8254
+   Recall: 0.9811
+   F1-Score: 0.8966
+   ROC AUC: 0.9759
+   Время: 82.43 сек
+
+========================================
+ЭКСПЕРИМЕНТ 2: Post-hoc SHAP (Vanilla ANFIS)
+========================================
+[INFO] Post-hoc SHAP анализ (классификации)...
+  0%|          | 0/143 [00:00<?, ?it/s]  1%|          | 1/143 [00:00<02:09,  1.09it/s]  1%|▏         | 2/143 [00:01<02:04,  1.13it/s]  2%|▏         | 3/143 [00:02<02:03,  1.13it/s]  3%|▎         | 4/143 [00:03<02:03,  1.13it/s]  3%|▎         | 5/143 [00:04<02:02,  1.12it/s]  4%|▍         | 6/143 [00:05<02:03,  1.11it/s]  5%|▍         | 7/143 [00:06<02:02,  1.11it/s]  6%|▌         | 8/143 [00:07<02:02,  1.10it/s]  6%|▋         | 9/143 [00:08<02:00,  1.11it/s]  7%|▋         | 10/143 [00:08<01:59,  1.11it/s]  8%|▊         | 11/143 [00:09<02:00,  1.10it/s]  8%|▊         | 12/143 [00:10<01:59,  1.09it/s]  9%|▉         | 13/143 [00:11<01:58,  1.10it/s] 10%|▉         | 14/143 [00:12<01:59,  1.08it/s] 10%|█         | 15/143 [00:13<01:57,  1.09it/s] 11%|█         | 16/143 [00:14<01:59,  1.06it/s] 12%|█▏        | 17/143 [00:15<01:58,  1.07it/s] 13%|█▎        | 18/143 [00:16<01:57,  1.06it/s] 13%|█▎        | 19/143 [00:17<01:54,  1.08it/s] 14%|█▍        | 20/143 [00:18<01:53,  1.09it/s] 15%|█▍        | 21/143 [00:19<01:51,  1.09it/s] 15%|█▌        | 22/143 [00:20<01:50,  1.10it/s] 16%|█▌        | 23/143 [00:20<01:48,  1.10it/s] 17%|█▋        | 24/143 [00:21<01:48,  1.10it/s] 17%|█▋        | 25/143 [00:22<01:46,  1.11it/s] 18%|█▊        | 26/143 [00:23<01:46,  1.10it/s] 19%|█▉        | 27/143 [00:24<01:44,  1.11it/s] 20%|█▉        | 28/143 [00:25<01:44,  1.10it/s] 20%|██        | 29/143 [00:26<01:43,  1.11it/s] 21%|██        | 30/143 [00:27<01:43,  1.10it/s] 22%|██▏       | 31/143 [00:28<01:42,  1.09it/s] 22%|██▏       | 32/143 [00:29<01:40,  1.10it/s] 23%|██▎       | 33/143 [00:30<01:41,  1.09it/s] 24%|██▍       | 34/143 [00:31<01:40,  1.08it/s] 24%|██▍       | 35/143 [00:32<01:41,  1.06it/s] 25%|██▌       | 36/143 [00:32<01:39,  1.07it/s] 26%|██▌       | 37/143 [00:33<01:38,  1.08it/s] 27%|██▋       | 38/143 [00:34<01:37,  1.07it/s] 27%|██▋       | 39/143 [00:35<01:37,  1.07it/s] 28%|██▊       | 40/143 [00:36<01:36,  1.07it/s] 29%|██▊       | 41/143 [00:37<01:35,  1.07it/s] 29%|██▉       | 42/143 [00:38<01:34,  1.07it/s] 30%|███       | 43/143 [00:39<01:35,  1.05it/s] 31%|███       | 44/143 [00:40<01:33,  1.06it/s] 31%|███▏      | 45/143 [00:41<01:33,  1.04it/s] 32%|███▏      | 46/143 [00:42<01:31,  1.06it/s] 33%|███▎      | 47/143 [00:43<01:30,  1.06it/s] 34%|███▎      | 48/143 [00:44<01:27,  1.09it/s] 34%|███▍      | 49/143 [00:45<01:25,  1.09it/s] 35%|███▍      | 50/143 [00:46<01:26,  1.07it/s] 36%|███▌      | 51/143 [00:46<01:25,  1.08it/s] 36%|███▋      | 52/143 [00:47<01:25,  1.06it/s] 37%|███▋      | 53/143 [00:48<01:23,  1.07it/s] 38%|███▊      | 54/143 [00:49<01:23,  1.07it/s] 38%|███▊      | 55/143 [00:50<01:22,  1.07it/s] 39%|███▉      | 56/143 [00:51<01:20,  1.08it/s] 40%|███▉      | 57/143 [00:52<01:19,  1.08it/s] 41%|████      | 58/143 [00:53<01:19,  1.07it/s] 41%|████▏     | 59/143 [00:54<01:17,  1.08it/s] 42%|████▏     | 60/143 [00:55<01:17,  1.07it/s] 43%|████▎     | 61/143 [00:56<01:17,  1.06it/s] 43%|████▎     | 62/143 [00:57<01:16,  1.06it/s] 44%|████▍     | 63/143 [00:58<01:14,  1.07it/s] 45%|████▍     | 64/143 [00:59<01:12,  1.09it/s] 45%|████▌     | 65/143 [00:59<01:11,  1.10it/s] 46%|████▌     | 66/143 [01:00<01:10,  1.10it/s] 47%|████▋     | 67/143 [01:01<01:09,  1.09it/s] 48%|████▊     | 68/143 [01:02<01:08,  1.09it/s] 48%|████▊     | 69/143 [01:03<01:07,  1.10it/s] 49%|████▉     | 70/143 [01:04<01:06,  1.10it/s] 50%|████▉     | 71/143 [01:05<01:05,  1.10it/s] 50%|█████     | 72/143 [01:06<01:05,  1.09it/s] 51%|█████     | 73/143 [01:07<01:04,  1.08it/s] 52%|█████▏    | 74/143 [01:08<01:03,  1.09it/s] 52%|█████▏    | 75/143 [01:09<01:02,  1.09it/s] 53%|█████▎    | 76/143 [01:10<01:01,  1.09it/s] 54%|█████▍    | 77/143 [01:10<01:01,  1.07it/s] 55%|█████▍    | 78/143 [01:11<01:00,  1.07it/s] 55%|█████▌    | 79/143 [01:12<00:59,  1.08it/s] 56%|█████▌    | 80/143 [01:13<00:59,  1.06it/s] 57%|█████▋    | 81/143 [01:14<01:00,  1.03it/s] 57%|█████▋    | 82/143 [01:15<01:01,  1.00s/it] 58%|█████▊    | 83/143 [01:16<01:01,  1.02s/it] 59%|█████▊    | 84/143 [01:18<01:00,  1.02s/it] 59%|█████▉    | 85/143 [01:19<00:59,  1.03s/it] 60%|██████    | 86/143 [01:20<00:58,  1.03s/it] 61%|██████    | 87/143 [01:21<00:57,  1.03s/it] 62%|██████▏   | 88/143 [01:22<00:56,  1.03s/it] 62%|██████▏   | 89/143 [01:23<00:55,  1.03s/it] 63%|██████▎   | 90/143 [01:24<00:55,  1.04s/it] 64%|██████▎   | 91/143 [01:25<00:54,  1.04s/it] 64%|██████▍   | 92/143 [01:26<00:53,  1.05s/it] 65%|██████▌   | 93/143 [01:27<00:52,  1.05s/it] 66%|██████▌   | 94/143 [01:28<00:51,  1.06s/it] 66%|██████▋   | 95/143 [01:29<00:50,  1.06s/it] 67%|██████▋   | 96/143 [01:30<00:50,  1.07s/it] 68%|██████▊   | 97/143 [01:31<00:49,  1.08s/it] 69%|██████▊   | 98/143 [01:32<00:47,  1.06s/it] 69%|██████▉   | 99/143 [01:33<00:45,  1.04s/it] 70%|██████▉   | 100/143 [01:34<00:44,  1.03s/it] 71%|███████   | 101/143 [01:35<00:43,  1.04s/it] 71%|███████▏  | 102/143 [01:36<00:42,  1.04s/it] 72%|███████▏  | 103/143 [01:37<00:41,  1.03s/it] 73%|███████▎  | 104/143 [01:38<00:40,  1.04s/it] 73%|███████▎  | 105/143 [01:40<00:39,  1.04s/it] 74%|███████▍  | 106/143 [01:41<00:39,  1.06s/it] 75%|███████▍  | 107/143 [01:42<00:37,  1.04s/it] 76%|███████▌  | 108/143 [01:43<00:35,  1.01s/it] 76%|███████▌  | 109/143 [01:44<00:34,  1.00s/it] 77%|███████▋  | 110/143 [01:45<00:33,  1.01s/it] 78%|███████▊  | 111/143 [01:46<00:32,  1.01s/it] 78%|███████▊  | 112/143 [01:47<00:32,  1.04s/it] 79%|███████▉  | 113/143 [01:48<00:31,  1.04s/it] 80%|███████▉  | 114/143 [01:49<00:30,  1.04s/it] 80%|████████  | 115/143 [01:50<00:28,  1.03s/it] 81%|████████  | 116/143 [01:51<00:27,  1.03s/it] 82%|████████▏ | 117/143 [01:52<00:26,  1.01s/it] 83%|████████▎ | 118/143 [01:53<00:24,  1.00it/s] 83%|████████▎ | 119/143 [01:54<00:24,  1.00s/it] 84%|████████▍ | 120/143 [01:55<00:23,  1.00s/it] 85%|████████▍ | 121/143 [01:56<00:21,  1.01it/s] 85%|████████▌ | 122/143 [01:57<00:20,  1.02it/s] 86%|████████▌ | 123/143 [01:58<00:19,  1.00it/s] 87%|████████▋ | 124/143 [01:59<00:19,  1.02s/it] 87%|████████▋ | 125/143 [02:00<00:18,  1.03s/it] 88%|████████▊ | 126/143 [02:01<00:17,  1.02s/it] 89%|████████▉ | 127/143 [02:02<00:15,  1.00it/s] 90%|████████▉ | 128/143 [02:03<00:14,  1.01it/s] 90%|█████████ | 129/143 [02:04<00:13,  1.02it/s] 91%|█████████ | 130/143 [02:05<00:12,  1.01it/s] 92%|█████████▏| 131/143 [02:06<00:12,  1.00s/it] 92%|█████████▏| 132/143 [02:07<00:10,  1.01it/s] 93%|█████████▎| 133/143 [02:08<00:10,  1.03s/it] 94%|█████████▎| 134/143 [02:09<00:09,  1.03s/it] 94%|█████████▍| 135/143 [02:10<00:08,  1.03s/it] 95%|█████████▌| 136/143 [02:11<00:07,  1.02s/it] 96%|█████████▌| 137/143 [02:12<00:06,  1.03s/it] 97%|█████████▋| 138/143 [02:13<00:05,  1.01s/it] 97%|█████████▋| 139/143 [02:14<00:03,  1.02it/s] 98%|█████████▊| 140/143 [02:15<00:02,  1.00it/s] 99%|█████████▊| 141/143 [02:16<00:01,  1.00it/s] 99%|█████████▉| 142/143 [02:17<00:00,  1.01it/s]100%|██████████| 143/143 [02:18<00:00,  1.02it/s]100%|██████████| 143/143 [02:18<00:00,  1.03it/s]
+2025/11/27 12:15:11 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: OriginalPSO(epoch=120, pop_size=80, c1=2.05, c2=2.05, w=0.4)
+2025/11/27 12:15:12 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 1, Current best: 0.908452853219408, Global best: 0.908452853219408, Runtime: 0.29270 seconds
+2025/11/27 12:15:12 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 2, Current best: 0.908452853219408, Global best: 0.908452853219408, Runtime: 0.27801 seconds
+2025/11/27 12:15:13 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 3, Current best: 0.908452853219408, Global best: 0.908452853219408, Runtime: 0.27510 seconds
+2025/11/27 12:15:13 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 4, Current best: 0.908452853219408, Global best: 0.908452853219408, Runtime: 0.25650 seconds
+2025/11/27 12:15:13 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 5, Current best: 0.908452853219408, Global best: 0.908452853219408, Runtime: 0.30093 seconds
+2025/11/27 12:15:14 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 6, Current best: 0.9088976617066504, Global best: 0.9088976617066504, Runtime: 0.30408 seconds
+2025/11/27 12:15:14 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 7, Current best: 0.9388004895960833, Global best: 0.9388004895960833, Runtime: 0.27239 seconds
+2025/11/27 12:15:14 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 8, Current best: 0.9388004895960833, Global best: 0.9388004895960833, Runtime: 0.25124 seconds
+2025/11/27 12:15:14 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 9, Current best: 0.9388004895960833, Global best: 0.9388004895960833, Runtime: 0.25281 seconds
+2025/11/27 12:15:15 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 10, Current best: 0.9388004895960833, Global best: 0.9388004895960833, Runtime: 0.23417 seconds
+2025/11/27 12:15:15 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 11, Current best: 0.9388004895960833, Global best: 0.9388004895960833, Runtime: 0.23007 seconds
+2025/11/27 12:15:15 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 12, Current best: 0.9388004895960833, Global best: 0.9388004895960833, Runtime: 0.25818 seconds
+2025/11/27 12:15:15 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 13, Current best: 0.9388004895960833, Global best: 0.9388004895960833, Runtime: 0.27592 seconds
+2025/11/27 12:15:16 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 14, Current best: 0.9388004895960833, Global best: 0.9388004895960833, Runtime: 0.27042 seconds
+2025/11/27 12:15:16 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 15, Current best: 0.9388004895960833, Global best: 0.9388004895960833, Runtime: 0.29676 seconds
+2025/11/27 12:15:16 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 16, Current best: 0.9388004895960833, Global best: 0.9388004895960833, Runtime: 0.25042 seconds
+2025/11/27 12:15:16 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 17, Current best: 0.9388004895960833, Global best: 0.9388004895960833, Runtime: 0.28964 seconds
+2025/11/27 12:15:17 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 18, Current best: 0.9388004895960833, Global best: 0.9388004895960833, Runtime: 0.26537 seconds
+2025/11/27 12:15:17 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 19, Current best: 0.9388004895960833, Global best: 0.9388004895960833, Runtime: 0.25903 seconds
+2025/11/27 12:15:17 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 20, Current best: 0.9388004895960833, Global best: 0.9388004895960833, Runtime: 0.24777 seconds
+2025/11/27 12:15:17 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 21, Current best: 0.9388004895960833, Global best: 0.9388004895960833, Runtime: 0.23024 seconds
+2025/11/27 12:15:18 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 22, Current best: 0.9388004895960833, Global best: 0.9388004895960833, Runtime: 0.21701 seconds
+2025/11/27 12:15:18 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 23, Current best: 0.9388004895960833, Global best: 0.9388004895960833, Runtime: 0.23082 seconds
+2025/11/27 12:15:18 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 24, Current best: 0.9388004895960833, Global best: 0.9388004895960833, Runtime: 0.26576 seconds
+2025/11/27 12:15:18 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 25, Current best: 0.9388004895960833, Global best: 0.9388004895960833, Runtime: 0.27726 seconds
+2025/11/27 12:15:19 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 26, Current best: 0.9388004895960833, Global best: 0.9388004895960833, Runtime: 0.23054 seconds
+2025/11/27 12:15:19 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 27, Current best: 0.9388004895960833, Global best: 0.9388004895960833, Runtime: 0.23168 seconds
+2025/11/27 12:15:19 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 28, Current best: 0.948849104859335, Global best: 0.948849104859335, Runtime: 0.22736 seconds
+2025/11/27 12:15:19 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 29, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.22139 seconds
+2025/11/27 12:15:20 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 30, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.25733 seconds
+2025/11/27 12:15:20 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 31, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.26874 seconds
+2025/11/27 12:15:20 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 32, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.22865 seconds
+2025/11/27 12:15:20 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 33, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.23499 seconds
+2025/11/27 12:15:21 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 34, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.20577 seconds
+2025/11/27 12:15:21 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 35, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.25544 seconds
+2025/11/27 12:15:21 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 36, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.25764 seconds
+2025/11/27 12:15:21 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 37, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.28843 seconds
+2025/11/27 12:15:22 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 38, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.25977 seconds
+2025/11/27 12:15:22 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 39, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.23613 seconds
+2025/11/27 12:15:22 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 40, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.22429 seconds
+2025/11/27 12:15:22 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 41, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.23312 seconds
+2025/11/27 12:15:23 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 42, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.26745 seconds
+2025/11/27 12:15:23 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 43, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.30039 seconds
+2025/11/27 12:15:23 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 44, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.27021 seconds
+2025/11/27 12:15:23 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 45, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.25716 seconds
+2025/11/27 12:15:24 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 46, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.22543 seconds
+2025/11/27 12:15:24 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 47, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.26332 seconds
+2025/11/27 12:15:24 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 48, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.26551 seconds
+2025/11/27 12:15:24 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 49, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.26637 seconds
+2025/11/27 12:15:25 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 50, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.21991 seconds
+2025/11/27 12:15:25 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 51, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.23410 seconds
+2025/11/27 12:15:25 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 52, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.23071 seconds
+2025/11/27 12:15:25 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 53, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.23017 seconds
+2025/11/27 12:15:26 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 54, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.27052 seconds
+2025/11/27 12:15:26 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 55, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.26897 seconds
+2025/11/27 12:15:26 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 56, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.21866 seconds
+2025/11/27 12:15:26 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 57, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.24090 seconds
+2025/11/27 12:15:27 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 58, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.25494 seconds
+2025/11/27 12:15:27 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 59, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.22853 seconds
+2025/11/27 12:15:27 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 60, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.26090 seconds
+2025/11/27 12:15:27 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 61, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.28209 seconds
+2025/11/27 12:15:28 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 62, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.22750 seconds
+2025/11/27 12:15:28 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 63, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.22298 seconds
+2025/11/27 12:15:28 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 64, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.23041 seconds
+2025/11/27 12:15:28 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 65, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.23005 seconds
+2025/11/27 12:15:29 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 66, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.25424 seconds
+2025/11/27 12:15:29 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 67, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.29761 seconds
+2025/11/27 12:15:29 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 68, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.25605 seconds
+2025/11/27 12:15:29 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 69, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.24313 seconds
+2025/11/27 12:15:30 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 70, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.25301 seconds
+2025/11/27 12:15:30 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 71, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.25285 seconds
+2025/11/27 12:15:30 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 72, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.27069 seconds
+2025/11/27 12:15:30 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 73, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.26980 seconds
+2025/11/27 12:15:31 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 74, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.23947 seconds
+2025/11/27 12:15:31 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 75, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.23311 seconds
+2025/11/27 12:15:31 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 76, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.23092 seconds
+2025/11/27 12:15:31 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 77, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.24554 seconds
+2025/11/27 12:15:32 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 78, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.27258 seconds
+2025/11/27 12:15:32 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 79, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.26085 seconds
+2025/11/27 12:15:32 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 80, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.26457 seconds
+2025/11/27 12:15:33 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 81, Current best: 0.9589490968801313, Global best: 0.9589490968801313, Runtime: 0.26557 seconds
+2025/11/27 12:15:33 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 82, Current best: 0.9691071980228607, Global best: 0.9691071980228607, Runtime: 0.25788 seconds
+2025/11/27 12:15:33 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 83, Current best: 0.9691071980228607, Global best: 0.9691071980228607, Runtime: 0.23168 seconds
+2025/11/27 12:15:33 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 84, Current best: 0.9691071980228607, Global best: 0.9691071980228607, Runtime: 0.27814 seconds
+2025/11/27 12:15:34 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 85, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.28669 seconds
+2025/11/27 12:15:34 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 86, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.23553 seconds
+2025/11/27 12:15:34 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 87, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.24384 seconds
+2025/11/27 12:15:34 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 88, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.22123 seconds
+2025/11/27 12:15:35 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 89, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.24765 seconds
+2025/11/27 12:15:35 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 90, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.25690 seconds
+2025/11/27 12:15:35 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 91, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.25246 seconds
+2025/11/27 12:15:35 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 92, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.21819 seconds
+2025/11/27 12:15:35 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 93, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.23518 seconds
+2025/11/27 12:15:36 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 94, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.25826 seconds
+2025/11/27 12:15:36 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 95, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.23871 seconds
+2025/11/27 12:15:36 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 96, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.27770 seconds
+2025/11/27 12:15:37 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 97, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.28480 seconds
+2025/11/27 12:15:37 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 98, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.27060 seconds
+2025/11/27 12:15:37 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 99, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.23332 seconds
+2025/11/27 12:15:37 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 100, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.23574 seconds
+2025/11/27 12:15:38 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 101, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.26488 seconds
+2025/11/27 12:15:38 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 102, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.26992 seconds
+2025/11/27 12:15:38 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 103, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.27381 seconds
+2025/11/27 12:15:38 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 104, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.27296 seconds
+2025/11/27 12:15:39 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 105, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.31899 seconds
+2025/11/27 12:15:39 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 106, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.23879 seconds
+2025/11/27 12:15:39 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 107, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.27476 seconds
+2025/11/27 12:15:40 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 108, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.26639 seconds
+2025/11/27 12:15:40 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 109, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.23123 seconds
+2025/11/27 12:15:40 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 110, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.22030 seconds
+2025/11/27 12:15:40 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 111, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.22768 seconds
+2025/11/27 12:15:40 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 112, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.24457 seconds
+2025/11/27 12:15:41 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 113, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.27661 seconds
+2025/11/27 12:15:41 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 114, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.30014 seconds
+2025/11/27 12:15:41 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 115, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.22196 seconds
+2025/11/27 12:15:41 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 116, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.22473 seconds
+2025/11/27 12:15:42 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 117, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.21064 seconds
+2025/11/27 12:15:42 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 118, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.21195 seconds
+2025/11/27 12:15:42 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 119, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.28632 seconds
+2025/11/27 12:15:43 AM, INFO, mealpy.swarm_based.PSO.OriginalPSO: >>>Problem: P, Epoch: 120, Current best: 0.9793303017775941, Global best: 0.9793303017775941, Runtime: 0.31866 seconds
+Using 143 background data samples could cause slower run times. Consider using shap.sample(data, K) or shap.kmeans(data, K) to summarize the background as K samples.
+[OK] SHAP анализ завершен за 138.26 сек
+
+========================================
+ЭКСПЕРИМЕНТ 3: Baseline-Masked Feature Sensitivity Regularization
+========================================
+[INFO] Начинаю обучение ANFIS с Baseline-Masked Feature Sensitivity Regularization (оценка чувствительности признаков) (классификации)...
+   Эпоха 5/75: Total: 1.0785, Main: 0.7190, SHAP: 0.0001, Train Acc: 0.8588, F1: 0.8367, ROC: 0.9548 | Val Acc: 0.8605, F1: 0.8333, Время: 1.40с
+   Эпоха 10/75: Total: 1.0253, Main: 0.6835, SHAP: 0.0001, Train Acc: 0.9118, F1: 0.8905, ROC: 0.9687 | Val Acc: 0.8721, F1: 0.8406, Время: 1.47с
+   Эпоха 15/75: Total: 0.9880, Main: 0.6586, SHAP: 0.0001, Train Acc: 0.9118, F1: 0.8897, ROC: 0.9716 | Val Acc: 0.8837, F1: 0.8529, Время: 1.42с
+   Эпоха 20/75: Total: 0.9816, Main: 0.6544, SHAP: 0.0001, Train Acc: 0.9088, F1: 0.8856, ROC: 0.9754 | Val Acc: 0.8837, F1: 0.8529, Время: 1.45с
+   Эпоха 25/75: Total: 0.9957, Main: 0.6638, SHAP: 0.0001, Train Acc: 0.9147, F1: 0.8914, ROC: 0.9755 | Val Acc: 0.9070, F1: 0.8788, Время: 1.45с
+   Эпоха 30/75: Total: 0.9852, Main: 0.6568, SHAP: 0.0000, Train Acc: 0.9176, F1: 0.8947, ROC: 0.9782 | Val Acc: 0.8837, F1: 0.8485, Время: 1.44с
+   Эпоха 35/75: Total: 0.9681, Main: 0.6454, SHAP: 0.0001, Train Acc: 0.9147, F1: 0.8914, ROC: 0.9788 | Val Acc: 0.9070, F1: 0.8750, Время: 1.45с
+   [WARNING] Ранняя остановка на эпохе 40 (лучшая эпоха: 25)
+[OK] Обучение завершено за 60.65 сек
+[OK] Baseline-Masked Feature Sensitivity Regularization (оценка чувствительности признаков) завершена:
+   accuracy: 0.9510
+   precision: 0.9107
+   recall: 0.9623
+   f1_score: 0.9358
+   roc_auc: 0.9836
+   Время: 60.65 сек
+
+========================================
+ЭКСПЕРИМЕНТ 4: Post-hoc SHAP (Baseline-Masked Feature Sensitivity Regularization (оценка чувствительности признаков))
+========================================
+[INFO] Post-hoc SHAP анализ (классификации)...
+  0%|          | 0/143 [00:00<?, ?it/s]  1%|          | 1/143 [00:00<02:08,  1.10it/s]  1%|▏         | 2/143 [00:01<02:11,  1.08it/s]  2%|▏         | 3/143 [00:02<02:07,  1.10it/s]  3%|▎         | 4/143 [00:03<02:09,  1.08it/s]  3%|▎         | 5/143 [00:04<02:10,  1.06it/s]  4%|▍         | 6/143 [00:05<02:10,  1.05it/s]  5%|▍         | 7/143 [00:06<02:06,  1.08it/s]  6%|▌         | 8/143 [00:07<02:05,  1.08it/s]  6%|▋         | 9/143 [00:08<02:02,  1.09it/s]  7%|▋         | 10/143 [00:09<02:01,  1.10it/s]  8%|▊         | 11/143 [00:10<02:02,  1.08it/s]  8%|▊         | 12/143 [00:11<02:02,  1.07it/s]  9%|▉         | 13/143 [00:12<02:03,  1.05it/s] 10%|▉         | 14/143 [00:13<02:04,  1.04it/s] 10%|█         | 15/143 [00:14<02:04,  1.03it/s] 11%|█         | 16/143 [00:15<02:03,  1.03it/s] 12%|█▏        | 17/143 [00:16<02:02,  1.03it/s] 13%|█▎        | 18/143 [00:17<02:03,  1.01it/s] 13%|█▎        | 19/143 [00:18<02:04,  1.01s/it] 14%|█▍        | 20/143 [00:19<02:07,  1.04s/it] 15%|█▍        | 21/143 [00:20<02:04,  1.02s/it] 15%|█▌        | 22/143 [00:21<02:05,  1.04s/it] 16%|█▌        | 23/143 [00:22<02:05,  1.05s/it] 17%|█▋        | 24/143 [00:23<02:06,  1.06s/it] 17%|█▋        | 25/143 [00:24<02:03,  1.05s/it] 18%|█▊        | 26/143 [00:25<02:01,  1.04s/it] 19%|█▉        | 27/143 [00:26<02:00,  1.04s/it] 20%|█▉        | 28/143 [00:27<01:58,  1.03s/it] 20%|██        | 29/143 [00:28<01:58,  1.04s/it] 21%|██        | 30/143 [00:29<01:56,  1.03s/it] 22%|██▏       | 31/143 [00:30<01:55,  1.03s/it] 22%|██▏       | 32/143 [00:31<01:56,  1.05s/it] 23%|██▎       | 33/143 [00:32<01:55,  1.05s/it] 24%|██▍       | 34/143 [00:33<01:53,  1.04s/it] 24%|██▍       | 35/143 [00:34<01:49,  1.02s/it] 25%|██▌       | 36/143 [00:35<01:49,  1.03s/it] 26%|██▌       | 37/143 [00:36<01:49,  1.03s/it] 27%|██▋       | 38/143 [00:37<01:48,  1.03s/it] 27%|██▋       | 39/143 [00:38<01:46,  1.03s/it] 28%|██▊       | 40/143 [00:39<01:46,  1.03s/it] 29%|██▊       | 41/143 [00:40<01:45,  1.03s/it] 29%|██▉       | 42/143 [00:42<01:45,  1.05s/it] 30%|███       | 43/143 [00:43<01:43,  1.04s/it] 31%|███       | 44/143 [00:44<01:42,  1.03s/it] 31%|███▏      | 45/143 [00:45<01:40,  1.03s/it] 32%|███▏      | 46/143 [00:46<01:39,  1.02s/it] 33%|███▎      | 47/143 [00:47<01:37,  1.01s/it] 34%|███▎      | 48/143 [00:48<01:36,  1.02s/it] 34%|███▍      | 49/143 [00:49<01:35,  1.02s/it] 35%|███▍      | 50/143 [00:50<01:35,  1.02s/it] 36%|███▌      | 51/143 [00:51<01:34,  1.03s/it] 36%|███▋      | 52/143 [00:52<01:33,  1.02s/it] 37%|███▋      | 53/143 [00:53<01:31,  1.02s/it] 38%|███▊      | 54/143 [00:54<01:27,  1.01it/s] 38%|███▊      | 55/143 [00:55<01:26,  1.02it/s] 39%|███▉      | 56/143 [00:56<01:23,  1.04it/s] 40%|███▉      | 57/143 [00:56<01:20,  1.06it/s] 41%|████      | 58/143 [00:57<01:20,  1.06it/s] 41%|████▏     | 59/143 [00:58<01:18,  1.06it/s] 42%|████▏     | 60/143 [00:59<01:18,  1.06it/s] 43%|████▎     | 61/143 [01:00<01:16,  1.07it/s] 43%|████▎     | 62/143 [01:01<01:15,  1.08it/s] 44%|████▍     | 63/143 [01:02<01:14,  1.07it/s] 45%|████▍     | 64/143 [01:03<01:13,  1.07it/s] 45%|████▌     | 65/143 [01:04<01:13,  1.07it/s] 46%|████▌     | 66/143 [01:05<01:13,  1.05it/s] 47%|████▋     | 67/143 [01:06<01:11,  1.07it/s] 48%|████▊     | 68/143 [01:07<01:10,  1.06it/s] 48%|████▊     | 69/143 [01:08<01:08,  1.08it/s] 49%|████▉     | 70/143 [01:09<01:07,  1.08it/s] 50%|████▉     | 71/143 [01:10<01:08,  1.06it/s] 50%|█████     | 72/143 [01:11<01:06,  1.06it/s] 51%|█████     | 73/143 [01:11<01:05,  1.07it/s] 52%|█████▏    | 74/143 [01:12<01:04,  1.08it/s] 52%|█████▏    | 75/143 [01:13<01:03,  1.08it/s] 53%|█████▎    | 76/143 [01:14<01:03,  1.06it/s] 54%|█████▍    | 77/143 [01:15<01:02,  1.05it/s] 55%|█████▍    | 78/143 [01:16<01:01,  1.06it/s] 55%|█████▌    | 79/143 [01:17<01:01,  1.05it/s] 56%|█████▌    | 80/143 [01:18<00:59,  1.06it/s] 57%|█████▋    | 81/143 [01:19<00:58,  1.05it/s] 57%|█████▋    | 82/143 [01:20<00:58,  1.04it/s] 58%|█████▊    | 83/143 [01:21<00:57,  1.05it/s] 59%|█████▊    | 84/143 [01:22<00:56,  1.04it/s] 59%|█████▉    | 85/143 [01:23<00:55,  1.04it/s] 60%|██████    | 86/143 [01:24<00:53,  1.06it/s] 61%|██████    | 87/143 [01:25<00:52,  1.06it/s] 62%|██████▏   | 88/143 [01:26<00:52,  1.05it/s] 62%|██████▏   | 89/143 [01:27<00:51,  1.06it/s] 63%|██████▎   | 90/143 [01:28<00:49,  1.06it/s] 64%|██████▎   | 91/143 [01:29<00:49,  1.06it/s] 64%|██████▍   | 92/143 [01:30<00:48,  1.04it/s] 65%|██████▌   | 93/143 [01:31<00:48,  1.02it/s] 66%|██████▌   | 94/143 [01:31<00:47,  1.03it/s] 66%|██████▋   | 95/143 [01:32<00:46,  1.03it/s] 67%|██████▋   | 96/143 [01:33<00:46,  1.02it/s] 68%|██████▊   | 97/143 [01:35<00:45,  1.00it/s] 69%|██████▊   | 98/143 [01:35<00:44,  1.01it/s] 69%|██████▉   | 99/143 [01:36<00:42,  1.03it/s] 70%|██████▉   | 100/143 [01:37<00:41,  1.04it/s] 71%|███████   | 101/143 [01:38<00:41,  1.01it/s] 71%|███████▏  | 102/143 [01:39<00:41,  1.01s/it] 72%|███████▏  | 103/143 [01:40<00:40,  1.00s/it] 73%|███████▎  | 104/143 [01:41<00:38,  1.02it/s] 73%|███████▎  | 105/143 [01:42<00:37,  1.02it/s] 74%|███████▍  | 106/143 [01:43<00:35,  1.04it/s] 75%|███████▍  | 107/143 [01:44<00:34,  1.04it/s] 76%|███████▌  | 108/143 [01:45<00:33,  1.04it/s] 76%|███████▌  | 109/143 [01:46<00:32,  1.04it/s] 77%|███████▋  | 110/143 [01:47<00:31,  1.04it/s] 78%|███████▊  | 111/143 [01:48<00:30,  1.05it/s] 78%|███████▊  | 112/143 [01:49<00:29,  1.04it/s] 79%|███████▉  | 113/143 [01:50<00:28,  1.04it/s] 80%|███████▉  | 114/143 [01:51<00:27,  1.04it/s] 80%|████████  | 115/143 [01:52<00:26,  1.04it/s] 81%|████████  | 116/143 [01:53<00:25,  1.04it/s] 82%|████████▏ | 117/143 [01:54<00:24,  1.05it/s] 83%|████████▎ | 118/143 [01:55<00:23,  1.04it/s] 83%|████████▎ | 119/143 [01:56<00:23,  1.03it/s] 84%|████████▍ | 120/143 [01:57<00:22,  1.00it/s] 85%|████████▍ | 121/143 [01:58<00:22,  1.00s/it] 85%|████████▌ | 122/143 [01:59<00:21,  1.02s/it] 86%|████████▌ | 123/143 [02:00<00:20,  1.04s/it] 87%|████████▋ | 124/143 [02:01<00:20,  1.06s/it] 87%|████████▋ | 125/143 [02:02<00:18,  1.05s/it] 88%|████████▊ | 126/143 [02:03<00:17,  1.04s/it] 89%|████████▉ | 127/143 [02:04<00:16,  1.04s/it] 90%|████████▉ | 128/143 [02:05<00:15,  1.05s/it] 90%|█████████ | 129/143 [02:06<00:14,  1.03s/it] 91%|█████████ | 130/143 [02:07<00:13,  1.02s/it] 92%|█████████▏| 131/143 [02:08<00:12,  1.02s/it] 92%|█████████▏| 132/143 [02:09<00:11,  1.03s/it] 93%|█████████▎| 133/143 [02:10<00:10,  1.04s/it] 94%|█████████▎| 134/143 [02:11<00:09,  1.04s/it] 94%|█████████▍| 135/143 [02:12<00:08,  1.04s/it] 95%|█████████▌| 136/143 [02:14<00:07,  1.05s/it] 96%|█████████▌| 137/143 [02:15<00:06,  1.06s/it] 97%|█████████▋| 138/143 [02:16<00:05,  1.07s/it] 97%|█████████▋| 139/143 [02:17<00:04,  1.05s/it] 98%|█████████▊| 140/143 [02:18<00:03,  1.05s/it] 99%|█████████▊| 141/143 [02:19<00:02,  1.06s/it] 99%|█████████▉| 142/143 [02:20<00:01,  1.08s/it]100%|██████████| 143/143 [02:21<00:00,  1.08s/it]100%|██████████| 143/143 [02:21<00:00,  1.01it/s]
+/home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/src/visualization/presentation_plots.py:260: UserWarning: set_ticklabels() should only be used with a fixed number of ticks, i.e. after set_ticks() or using a FixedLocator.
+  ax.set_xticklabels(methods, fontsize=13, color='#212121')
+[OK] SHAP анализ завершен за 141.55 сек
+[OK] Параметры post-hoc сохранены: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/posthoc_parameters.json
+[OK] SHAP данные сохранены: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/shap_data.json
+
+========================================
+СРАВНЕНИЕ ПРАВИЛ ANFIS
+========================================
+[WARNING] Несоответствие размерностей: ожидалось 30 признаков, найдено 45
+[WARNING] Несоответствие размерностей: ожидалось 30 признаков, найдено 45
+[OK] Правила извлечены и сравнены:
+   Среднее сходство: 0.5492
+   Среднее различие коэффициентов: 0.2805
+   Среднее различие ФП: 0.5532
+
+========================================
+СРАВНИТЕЛЬНЫЙ АНАЛИЗ
+========================================
+
+VANILLA:
+  accuracy: 0.9161
+  precision: 0.8254
+  recall: 0.9811
+  f1_score: 0.8966
+  roc_auc: 0.9759
+  Время обучения: 82.43 сек
+
+REGULARIZED:
+  accuracy: 0.9510
+  precision: 0.9107
+  recall: 0.9623
+  f1_score: 0.9358
+  roc_auc: 0.9836
+  Время обучения: 60.65 сек
+
+[OK] Все эксперименты завершены успешно!
+
+========================================
+СОЗДАНИЕ ВИЗУАЛИЗАЦИИ
+========================================
+
+========================================
+СОЗДАНИЕ ОТДЕЛЬНЫХ ГРАФИКОВ ВЫСОКОГО КАЧЕСТВА
+========================================
+Создание отдельных графиков для Vanilla ANFIS...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/vanilla_confusion_matrix.png
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/vanilla_roc_curve.png
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/vanilla_feature_importance.png
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/vanilla_prediction_distribution.png
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/vanilla_pr_curve.png
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/vanilla_calibration_curve.png
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/vanilla_error_distribution.png
+[OK] Все отдельные графики Vanilla созданы
+Создание комплексной визуализации...
+Сравнительная таблица сохранена: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/comparison_results.csv
+Визуализация создана и сохранена!
+
+Создание графиков обучения...
+[INFO] Графики обучения сохранены: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/training_plots.png
+
+Создание графиков сравнения правил...
+[INFO] График сравнения правил сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/rules_comparison.png
+
+Создание графиков сравнения SHAP методов...
+[INFO] График сравнения SHAP методов сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/shap_methods_comparison.png
+
+Создание графиков сравнения post-hoc SHAP...
+[INFO] График сравнения SHAP методов сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/shap_methods_comparison.png
+
+========================================
+СОЗДАНИЕ ОТДЕЛЬНЫХ ГРАФИКОВ ДЛЯ ПРЕЗЕНТАЦИИ
+========================================
+
+[INFO] Создание графика сравнения метрик обучения...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/01_training_metrics_comparison.png
+[INFO] Создание графика сравнения предсказаний и важности признаков...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/03_predictions_comparison.png
+[INFO] Создание графика сравнения ROC кривых...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/04_roc_comparison.png
+[INFO] Создание графика сравнения метрик...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/05_metrics_bar_comparison.png
+[INFO] Создание графика сравнения важности признаков...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/06_feature_importance_comparison.png
+[INFO] Создание детального графика сравнения правил...
+[INFO] График сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/07_rules_comparison_detailed.png
+[INFO] Создание графика сравнения времени обучения...
+[INFO] График времени обучения сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/08_training_time_comparison.png
+[INFO] Создание отдельного графика Post-hoc SHAP сравнения...
+[INFO] График Post-hoc SHAP сравнения сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/09_posthoc_shap_comparison.png
+
+========================================
+АНАЛИЗ ВРЕМЕНИ ОБУЧЕНИЯ
+========================================
+Vanilla ANFIS: 82.43 сек
+Baseline-Masked Feature Sensitivity Regularization (оценка чувствительности признаков): 60.65 сек
+Ускорение: 1.36x
+
+Vanilla + Post-hoc SHAP: 220.69 сек
+Ускорение относительно post-hoc: 3.64x
+[OK] Анализ времени сохранен: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer/time_analysis.json
+
+[INFO] Результаты сохранены в: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/breast_cancer
+
+============================================================
+АВТОМАТИЧЕСКАЯ ПРОВЕРКА МЕТРИК
+============================================================
+============================================================
+ПРОВЕРКА МЕТРИК ПОСЛЕ ОБУЧЕНИЯ
+============================================================
+
+📊 МЕТРИКИ ИЗ CSV:
+------------------------------------------------------------
+     Method  accuracy  precision   recall  f1_score  roc_auc  Training_Time
+    Vanilla  0.916084   0.825397 0.981132  0.896552 0.975891      82.428487
+Regularized  0.951049   0.910714 0.962264  0.935780 0.983648      60.645534
+
+
+📄 TIME ANALYSIS:
+------------------------------------------------------------
+{
+  "vanilla_time": 82.42848706245422,
+  "regularized_time": 60.64553380012512,
+  "speedup": 1.3591847890088842,
+  "posthoc_time": 138.25949668884277,
+  "total_posthoc_time": 220.687983751297,
+  "posthoc_regularized_time": 141.55441856384277,
+  "total_posthoc_regularized_time": 202.1999523639679,
+  "speedup_vs_posthoc": 3.638981635129769
+}
+
+📄 SYSTEM AUDIT:
+------------------------------------------------------------
+{
+  "timestamp": "2025-11-27T00:11:27.872243",
+  "system": {
+    "platform": "Linux-6.17.4-76061704-generic-x86_64-with-glibc2.39",
+    "system": "Linux",
+    "release": "6.17.4-76061704-generic",
+    "version": "#202510191616~1761932270~24.04~b3a306c SMP PREEMPT_DYNAMIC Fri O",
+    "machine": "x86_64",
+    "processor": "x86_64"
+  },
+  "hardware": {
+    "cpu_count_physical": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+      "current": 2092.5442500000004,
+      "min": 1100.9799999999998,
+      "max": 5137.904
+    },
+    "memory_total_gb": 14.80877685546875,
+    "memory_available_gb": 3.1125755310058594,
+    "disk_usage": {
+      "total_gb": 459.5223274230957,
+      "used_gb": 333.5512924194336,
+      "free_gb": 102.55852127075195
+    }
+  },
+  "python": {
+    "version": "3.12.3 (main, Aug 14 2025, 17:47:21) [GCC 13.3.0]",
+    "version_info": {
+      "major": 3,
+      "minor": 12,
+      "micro": 3
+    },
+    "executable": "/home/lebedeffson/venv/bin/python"
+  },
+  "libraries": {
+    "numpy": "1.26.0",
+    "pandas": "2.1.3",
+    "scikit-learn": "not installed",
+    "matplotlib": "3.10.5",
+    "seaborn": "0.13.2",
+    "torch": "2.8.0+cu128",
+    "shap": "0.48.0",
+    "PyYAML": "not installed"
+  },
+  "gpu": {
+    "available": true,
+    "count": 1,
+    "devices": [
+      {
+        "device_id": 0,
+        "name": "NVIDIA GeForce RTX 4060 Laptop GPU",
+        "memory_total_gb": 7.62261962890625,
+        "compute_capability": "8.9"
+      }
+    ]
+  },
+  "memory": {
+    "total_gb": 14.80877685546875,
+    "available_gb": 3.0696182250976562,
+    "used_gb": 11.739158630371094,
+    "percent": 79.3,
+    "free_gb": 0.8742408752441406
+  },
+  "cpu": {
+    "usage_percent": 4.7,
+    "per_cpu_usage": [
+      6.1,
+      3.0,
+      5.0,
+      0.0,
+      4.1,
+      3.0,
+      18.8,
+      3.0,
+      18.2,
+      2.0,
+      9.2,
+      19.0,
+      11.0,
+      1.0,
+      3.1,
+      0.0
+    ],
+    "load_average": [
+      9.142578125,
+      5.4658203125,
+      3.05078125
+    ]
+  }
+}
+
+📄 POSTHOC PARAMETERS:
+------------------------------------------------------------
+{
+  "vanilla": {
+    "sample_size": 320,
+    "explainer_type": "KernelExplainer",
+    "background_size": 320,
+    "analysis_time": 138.25949668884277
+  },
+  "regularized": {
+    "sample_size": 320,
+    "explainer_type": "KernelExplainer",
+    "background_size": 320,
+    "analysis_time": 141.55441856384277
+  }
+}
+
+📈 ГРАФИКИ:
+------------------------------------------------------------
+Найдено графиков: 20
+  ✅ 01_training_metrics_comparison.png (627.0 KB)
+  ✅ 03_predictions_comparison.png (1100.6 KB)
+  ✅ 04_roc_comparison.png (359.1 KB)
+  ✅ 05_metrics_bar_comparison.png (173.0 KB)
+  ✅ 06_feature_importance_comparison.png (756.9 KB)
+  ✅ 07_rules_comparison_detailed.png (921.4 KB)
+  ✅ 08_training_time_comparison.png (172.1 KB)
+  ✅ 09_posthoc_shap_comparison.png (395.2 KB)
+  ✅ rules_comparison.png (518.7 KB)
+  ✅ shap_methods_comparison.png (1082.8 KB)
+  ✅ shap_regularization_analysis.png (1371.2 KB)
+  ✅ training_plots.png (1004.7 KB)
+  ✅ vanilla_anfis_analysis.png (935.2 KB)
+  ✅ vanilla_calibration_curve.png (178.3 KB)
+  ✅ vanilla_confusion_matrix.png (92.2 KB)
+  ✅ vanilla_error_distribution.png (100.0 KB)
+  ✅ vanilla_feature_importance.png (249.0 KB)
+  ✅ vanilla_pr_curve.png (115.2 KB)
+  ✅ vanilla_prediction_distribution.png (118.3 KB)
+  ✅ vanilla_roc_curve.png (158.4 KB)
+
+============================================================
+ДЕТАЛЬНЫЙ АНАЛИЗ МЕТРИК
+============================================================
+
+🔵 VANILLA ANFIS:
+  accuracy: 0.916084
+  precision: 0.825397
+  recall: 0.981132
+  f1_score: 0.896552
+  roc_auc: 0.975891
+  Training_Time: 82.428487
+
+🟢 SHAP-РЕГУЛЯРИЗОВАННАЯ ANFIS:
+  accuracy: 0.951049
+  precision: 0.910714
+  recall: 0.962264
+  f1_score: 0.935780
+  roc_auc: 0.983648
+  Training_Time: 60.645534
+
+📊 УЛУЧШЕНИЯ:
+------------------------------------------------------------
+  accuracy: +0.034965 (+3.82%) ⬆️
+  precision: +0.085317 (+10.34%) ⬆️
+  recall: -0.018868 (-1.92%) ⬇️
+  f1_score: +0.039228 (+4.38%) ⬆️
+  roc_auc: +0.007757 (+0.79%) ⬆️
+
+⏱️ ВРЕМЯ ОБУЧЕНИЯ:
+------------------------------------------------------------
+  Vanilla: 82.43 сек
+  Regularized: 60.65 сек
+  Отношение: 1.36x
+
+✅ ПРОВЕРКА КАЧЕСТВА:
+------------------------------------------------------------
+  ✅ Accuracy улучшена: 0.9161 → 0.9510
+  ✅ ROC-AUC улучшен: 0.9759 → 0.9836
+  ✅ F1-Score улучшен: 0.8966 → 0.9358
+  ✅ Precision улучшен: 0.8254 → 0.9107
+  ⚠️ Recall снизился: 0.9811 → 0.9623
+
+============================================================
+ПРОВЕРКА ЗАВЕРШЕНА
+============================================================

@@ -3,12 +3,12 @@
     "sample_size": 80,
     "explainer_type": "KernelExplainer",
     "background_size": 80,
-    "analysis_time": 0.7362744808197021
+    "analysis_time": 0.6200344562530518
   },
   "regularized": {
     "sample_size": 80,
     "explainer_type": "KernelExplainer",
     "background_size": 80,
-    "analysis_time": 0.720008134841919
+    "analysis_time": 0.6917519569396973
   }
 }

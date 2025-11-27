@@ -913,6 +913,52 @@ class PresentationPlotter:
             print(f"[INFO] График сохранен: {save_path}")
         plt.close()
     
+    def create_posthoc_shap_comparison(self, posthoc_vanilla_shap, posthoc_reg_shap, 
+                                        feature_names, save_name='09_posthoc_shap_comparison.png'):
+        """Отдельный график сравнения Post-hoc SHAP важности (Vanilla vs BMFSR)"""
+        # Нормализация
+        posthoc_v_norm = posthoc_vanilla_shap / (np.sum(np.abs(posthoc_vanilla_shap)) + 1e-8)
+        posthoc_r_norm = posthoc_reg_shap / (np.sum(np.abs(posthoc_reg_shap)) + 1e-8)
+        
+        # Берем ВСЕ признаки
+        n_features = len(feature_names)
+        
+        # Сортируем по суммарному вкладу (от большего к меньшему)
+        total_importance = np.abs(posthoc_v_norm) + np.abs(posthoc_r_norm)
+        sorted_idx = np.argsort(total_importance)[::-1]  # От большего к меньшему
+        
+        # Размер фигуры - широкая для вертикальных столбцов
+        fig_width = max(14, n_features * 0.5)
+        fig, ax = plt.subplots(figsize=(fig_width, 8))
+        fig.patch.set_facecolor('white')
+        
+        x_pos = np.arange(n_features)
+        width = 0.35
+        
+        # Вертикальные столбцы (bar вместо barh)
+        bars1 = ax.bar(x_pos - width/2, [posthoc_v_norm[i] for i in sorted_idx], width,
+                       alpha=0.9)
+        bars2 = ax.bar(x_pos + width/2, [posthoc_r_norm[i] for i in sorted_idx], width,
+                       alpha=0.9)
+        
+        ax.set_ylabel('Нормализованная важность', fontsize=14, fontweight='bold')
+        ax.set_xlabel('Признаки', fontsize=14, fontweight='bold')
+        ax.set_title('Post-hoc SHAP: сравнение важности признаков', fontsize=16, fontweight='bold', pad=15)
+        ax.set_xticks(x_pos)
+        ax.set_xticklabels([feature_names[i] for i in sorted_idx], fontsize=9, rotation=45, ha='right')
+        ax.grid(True, alpha=0.3, linestyle='--', linewidth=1, axis='y')
+        ax.spines['top'].set_visible(False)
+        ax.spines['right'].set_visible(False)
+        
+        plt.tight_layout(pad=2.0)
+        
+        if self.save_dir:
+            save_path = self.save_dir / save_name
+            plt.savefig(save_path, dpi=self.config['visualization']['dpi'], bbox_inches='tight',
+                       facecolor='white', edgecolor='none')
+            print(f"[INFO] График Post-hoc SHAP сравнения сохранен: {save_path}")
+        plt.close()
+    
     def create_training_time_comparison(self, save_name='08_training_time_comparison.png'):
         """Сравнение времени обучения и post-hoc анализа в одном столбце для каждой модели"""
         import json

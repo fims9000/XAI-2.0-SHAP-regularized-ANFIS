@@ -251,6 +251,19 @@ def main():
             with open(posthoc_params_file, 'w', encoding='utf-8') as f:
                 json.dump(posthoc_params, f, indent=2, ensure_ascii=False)
             print(f"[OK] Параметры post-hoc сохранены: {posthoc_params_file}")
+            
+            # Сохранение SHAP данных для повторной генерации графиков
+            shap_data = {
+                'feature_names': list(feature_names),
+                'vanilla_importance': results['vanilla']['feature_importance'].tolist() if 'vanilla' in results else None,
+                'regularized_importance': results['regularized']['feature_importance'].tolist(),
+                'posthoc_vanilla': results['posthoc_vanilla']['global_importance'].tolist() if 'posthoc_vanilla' in results else None,
+                'posthoc_regularized': results['posthoc_regularized']['global_importance'].tolist(),
+            }
+            shap_data_file = results_dir / 'shap_data.json'
+            with open(shap_data_file, 'w', encoding='utf-8') as f:
+                json.dump(shap_data, f, indent=2, ensure_ascii=False)
+            print(f"[OK] SHAP данные сохранены: {shap_data_file}")
 
     # Извлечение и сравнение правил
     if 'vanilla' in results and 'regularized' in results:
@@ -453,6 +466,16 @@ def main():
         presentation_plotter.create_training_time_comparison(
             save_name='08_training_time_comparison.png'
         )
+        
+        # 8. Отдельный график сравнения Post-hoc SHAP важности
+        if 'posthoc_vanilla' in results and 'posthoc_regularized' in results:
+            print("[INFO] Создание отдельного графика Post-hoc SHAP сравнения...")
+            posthoc_vanilla_shap = results['posthoc_vanilla']['global_importance']
+            posthoc_reg_shap = results['posthoc_regularized']['global_importance']
+            presentation_plotter.create_posthoc_shap_comparison(
+                posthoc_vanilla_shap, posthoc_reg_shap, feature_names,
+                save_name='09_posthoc_shap_comparison.png'
+            )
 
     # Анализ времени обучения
     if 'vanilla' in results and 'regularized' in results:

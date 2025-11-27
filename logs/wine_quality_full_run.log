@@ -1,0 +1,375 @@
+2025/11/27 03:04:15 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: BaseGA(epoch=100, pop_size=30, pc=0.95, pm=0.025)
+2025/11/27 03:04:15 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 1, Current best: 0.29592803052100386, Global best: 0.2945163071982873, Runtime: 0.21606 seconds
+2025/11/27 03:04:15 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 2, Current best: 0.29615843404746134, Global best: 0.2945163071982873, Runtime: 0.21368 seconds
+2025/11/27 03:04:16 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 3, Current best: 0.29411549124576375, Global best: 0.29411549124576375, Runtime: 0.21328 seconds
+2025/11/27 03:04:16 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 4, Current best: 0.2924302838346276, Global best: 0.2924302838346276, Runtime: 0.25977 seconds
+2025/11/27 03:04:16 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 5, Current best: 0.2910382155659799, Global best: 0.2910382155659799, Runtime: 0.26783 seconds
+2025/11/27 03:04:16 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 6, Current best: 0.28638583566810716, Global best: 0.28638583566810716, Runtime: 0.19582 seconds
+2025/11/27 03:04:16 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 7, Current best: 0.2891153502172663, Global best: 0.28638583566810716, Runtime: 0.19135 seconds
+2025/11/27 03:04:17 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 8, Current best: 0.28943545241307195, Global best: 0.28638583566810716, Runtime: 0.19909 seconds
+2025/11/27 03:04:17 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 9, Current best: 0.28664269263289743, Global best: 0.28638583566810716, Runtime: 0.19377 seconds
+2025/11/27 03:04:17 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 10, Current best: 0.28540882784579585, Global best: 0.28540882784579585, Runtime: 0.20844 seconds
+2025/11/27 03:04:17 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 11, Current best: 0.288476843944779, Global best: 0.28540882784579585, Runtime: 0.20237 seconds
+2025/11/27 03:04:17 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 12, Current best: 0.28784462489196916, Global best: 0.28540882784579585, Runtime: 0.19016 seconds
+2025/11/27 03:04:18 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 13, Current best: 0.2852722877145638, Global best: 0.2852722877145638, Runtime: 0.19083 seconds
+2025/11/27 03:04:18 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 14, Current best: 0.2827276575640516, Global best: 0.2827276575640516, Runtime: 0.28531 seconds
+2025/11/27 03:04:18 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 15, Current best: 0.2819852650735425, Global best: 0.2819852650735425, Runtime: 0.25421 seconds
+2025/11/27 03:04:18 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 16, Current best: 0.28520386577954643, Global best: 0.2819852650735425, Runtime: 0.20327 seconds
+2025/11/27 03:04:19 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 17, Current best: 0.28306875448761676, Global best: 0.2819852650735425, Runtime: 0.19428 seconds
+2025/11/27 03:04:19 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 18, Current best: 0.28277729736880997, Global best: 0.2819852650735425, Runtime: 0.20433 seconds
+2025/11/27 03:04:19 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 19, Current best: 0.2812807101594852, Global best: 0.2812807101594852, Runtime: 0.20685 seconds
+2025/11/27 03:04:19 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 20, Current best: 0.28238266934467127, Global best: 0.2812807101594852, Runtime: 0.21035 seconds
+2025/11/27 03:04:19 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 21, Current best: 0.2810431568577546, Global best: 0.2810431568577546, Runtime: 0.19708 seconds
+2025/11/27 03:04:20 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 22, Current best: 0.28508446866634163, Global best: 0.2810431568577546, Runtime: 0.20545 seconds
+2025/11/27 03:04:20 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 23, Current best: 0.28180881262493207, Global best: 0.2810431568577546, Runtime: 0.27389 seconds
+2025/11/27 03:04:20 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 24, Current best: 0.2807364700514369, Global best: 0.2807364700514369, Runtime: 0.20107 seconds
+2025/11/27 03:04:20 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 25, Current best: 0.2791887262785658, Global best: 0.2791887262785658, Runtime: 0.19993 seconds
+2025/11/27 03:04:20 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 26, Current best: 0.2815751182967797, Global best: 0.2791887262785658, Runtime: 0.19288 seconds
+2025/11/27 03:04:21 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 27, Current best: 0.2772108222040053, Global best: 0.2772108222040053, Runtime: 0.20536 seconds
+2025/11/27 03:04:21 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 28, Current best: 0.2744771574526377, Global best: 0.2744771574526377, Runtime: 0.19509 seconds
+2025/11/27 03:04:21 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 29, Current best: 0.27762493970839924, Global best: 0.2744771574526377, Runtime: 0.20870 seconds
+2025/11/27 03:04:21 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 30, Current best: 0.2766392507328725, Global best: 0.2744771574526377, Runtime: 0.20795 seconds
+2025/11/27 03:04:21 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 31, Current best: 0.2753323058388412, Global best: 0.2744771574526377, Runtime: 0.21387 seconds
+2025/11/27 03:04:22 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 32, Current best: 0.27597122406113767, Global best: 0.2744771574526377, Runtime: 0.19960 seconds
+2025/11/27 03:04:22 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 33, Current best: 0.2770682068430914, Global best: 0.2744771574526377, Runtime: 0.19862 seconds
+2025/11/27 03:04:22 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 34, Current best: 0.27499031297756854, Global best: 0.2744771574526377, Runtime: 0.19732 seconds
+2025/11/27 03:04:22 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 35, Current best: 0.2753813125510486, Global best: 0.2744771574526377, Runtime: 0.19389 seconds
+2025/11/27 03:04:22 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 36, Current best: 0.27744690186362775, Global best: 0.2744771574526377, Runtime: 0.18691 seconds
+2025/11/27 03:04:23 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 37, Current best: 0.27648889104841234, Global best: 0.2744771574526377, Runtime: 0.19758 seconds
+2025/11/27 03:04:23 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 38, Current best: 0.27578176657525594, Global best: 0.2744771574526377, Runtime: 0.18682 seconds
+2025/11/27 03:04:23 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 39, Current best: 0.2777189754084228, Global best: 0.2744771574526377, Runtime: 0.19628 seconds
+2025/11/27 03:04:23 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 40, Current best: 0.276544256492013, Global best: 0.2744771574526377, Runtime: 0.19444 seconds
+2025/11/27 03:04:23 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 41, Current best: 0.27363888967623845, Global best: 0.27363888967623845, Runtime: 0.19118 seconds
+2025/11/27 03:04:24 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 42, Current best: 0.2736715027653643, Global best: 0.27363888967623845, Runtime: 0.18955 seconds
+2025/11/27 03:04:24 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 43, Current best: 0.275198972628443, Global best: 0.27363888967623845, Runtime: 0.19135 seconds
+2025/11/27 03:04:24 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 44, Current best: 0.2739528424715958, Global best: 0.27363888967623845, Runtime: 0.20027 seconds
+2025/11/27 03:04:24 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 45, Current best: 0.274702409998657, Global best: 0.27363888967623845, Runtime: 0.19404 seconds
+2025/11/27 03:04:25 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 46, Current best: 0.27532360887960106, Global best: 0.27363888967623845, Runtime: 0.30731 seconds
+2025/11/27 03:04:25 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 47, Current best: 0.27643949521496664, Global best: 0.27363888967623845, Runtime: 0.20058 seconds
+2025/11/27 03:04:25 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 48, Current best: 0.2762301356555903, Global best: 0.27363888967623845, Runtime: 0.20659 seconds
+2025/11/27 03:04:25 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 49, Current best: 0.2757010108262229, Global best: 0.27363888967623845, Runtime: 0.19903 seconds
+2025/11/27 03:04:25 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 50, Current best: 0.274950894022466, Global best: 0.27363888967623845, Runtime: 0.20104 seconds
+2025/11/27 03:04:26 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 51, Current best: 0.27490669112865995, Global best: 0.27363888967623845, Runtime: 0.21376 seconds
+2025/11/27 03:04:26 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 52, Current best: 0.27501816204554924, Global best: 0.27363888967623845, Runtime: 0.21255 seconds
+2025/11/27 03:04:26 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 53, Current best: 0.27371948806401303, Global best: 0.27363888967623845, Runtime: 0.20629 seconds
+2025/11/27 03:04:26 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 54, Current best: 0.2732102943472967, Global best: 0.2732102943472967, Runtime: 0.19766 seconds
+2025/11/27 03:04:26 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 55, Current best: 0.27290042924771474, Global best: 0.27290042924771474, Runtime: 0.21169 seconds
+2025/11/27 03:04:27 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 56, Current best: 0.27145615745814544, Global best: 0.27145615745814544, Runtime: 0.20169 seconds
+2025/11/27 03:04:27 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 57, Current best: 0.27285995047626055, Global best: 0.27145615745814544, Runtime: 0.19943 seconds
+2025/11/27 03:04:27 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 58, Current best: 0.2731278587466072, Global best: 0.27145615745814544, Runtime: 0.18207 seconds
+2025/11/27 03:04:27 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 59, Current best: 0.26874136039273105, Global best: 0.26874136039273105, Runtime: 0.20325 seconds
+2025/11/27 03:04:27 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 60, Current best: 0.2721719093593503, Global best: 0.26874136039273105, Runtime: 0.18930 seconds
+2025/11/27 03:04:28 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 61, Current best: 0.2727726999220313, Global best: 0.26874136039273105, Runtime: 0.19933 seconds
+2025/11/27 03:04:28 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 62, Current best: 0.2714408155123099, Global best: 0.26874136039273105, Runtime: 0.19984 seconds
+2025/11/27 03:04:28 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 63, Current best: 0.26953127544302025, Global best: 0.26874136039273105, Runtime: 0.18858 seconds
+2025/11/27 03:04:28 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 64, Current best: 0.2699282267322054, Global best: 0.26874136039273105, Runtime: 0.18622 seconds
+2025/11/27 03:04:28 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 65, Current best: 0.27272275224424747, Global best: 0.26874136039273105, Runtime: 0.20113 seconds
+2025/11/27 03:04:29 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 66, Current best: 0.2696302801366895, Global best: 0.26874136039273105, Runtime: 0.19734 seconds
+2025/11/27 03:04:29 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 67, Current best: 0.2728836893672427, Global best: 0.26874136039273105, Runtime: 0.19042 seconds
+2025/11/27 03:04:29 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 68, Current best: 0.2745749896302923, Global best: 0.26874136039273105, Runtime: 0.19726 seconds
+2025/11/27 03:04:29 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 69, Current best: 0.27554245884140477, Global best: 0.26874136039273105, Runtime: 0.19316 seconds
+2025/11/27 03:04:29 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 70, Current best: 0.27493352427871237, Global best: 0.26874136039273105, Runtime: 0.22203 seconds
+2025/11/27 03:04:30 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 71, Current best: 0.27398063459526484, Global best: 0.26874136039273105, Runtime: 0.20873 seconds
+2025/11/27 03:04:30 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 72, Current best: 0.2738448222737931, Global best: 0.26874136039273105, Runtime: 0.19405 seconds
+2025/11/27 03:04:30 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 73, Current best: 0.27346156208413325, Global best: 0.26874136039273105, Runtime: 0.20653 seconds
+2025/11/27 03:04:30 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 74, Current best: 0.27378583056688455, Global best: 0.26874136039273105, Runtime: 0.19137 seconds
+2025/11/27 03:04:30 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 75, Current best: 0.27055990997881796, Global best: 0.26874136039273105, Runtime: 0.18646 seconds
+2025/11/27 03:04:31 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 76, Current best: 0.2718401019283039, Global best: 0.26874136039273105, Runtime: 0.19660 seconds
+2025/11/27 03:04:31 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 77, Current best: 0.271036027326796, Global best: 0.26874136039273105, Runtime: 0.18229 seconds
+2025/11/27 03:04:31 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 78, Current best: 0.2701265382686628, Global best: 0.26874136039273105, Runtime: 0.20971 seconds
+2025/11/27 03:04:31 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 79, Current best: 0.2706893877642681, Global best: 0.26874136039273105, Runtime: 0.19303 seconds
+2025/11/27 03:04:31 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 80, Current best: 0.2702055348282331, Global best: 0.26874136039273105, Runtime: 0.19302 seconds
+2025/11/27 03:04:31 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 81, Current best: 0.2718717779698842, Global best: 0.26874136039273105, Runtime: 0.20152 seconds
+2025/11/27 03:04:32 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 82, Current best: 0.26753253411792294, Global best: 0.26753253411792294, Runtime: 0.19967 seconds
+2025/11/27 03:04:32 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 83, Current best: 0.2649193960879698, Global best: 0.2649193960879698, Runtime: 0.19874 seconds
+2025/11/27 03:04:32 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 84, Current best: 0.270592061547648, Global best: 0.2649193960879698, Runtime: 0.18560 seconds
+2025/11/27 03:04:32 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 85, Current best: 0.26982344406785236, Global best: 0.2649193960879698, Runtime: 0.18949 seconds
+2025/11/27 03:04:32 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 86, Current best: 0.2709436323652491, Global best: 0.2649193960879698, Runtime: 0.19885 seconds
+2025/11/27 03:04:33 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 87, Current best: 0.2722014503595594, Global best: 0.2649193960879698, Runtime: 0.19825 seconds
+2025/11/27 03:04:33 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 88, Current best: 0.2694216450453869, Global best: 0.2649193960879698, Runtime: 0.19760 seconds
+2025/11/27 03:04:33 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 89, Current best: 0.2719930034011068, Global best: 0.2649193960879698, Runtime: 0.19512 seconds
+2025/11/27 03:04:33 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 90, Current best: 0.27029084450226076, Global best: 0.2649193960879698, Runtime: 0.18129 seconds
+2025/11/27 03:04:33 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 91, Current best: 0.27225435622288224, Global best: 0.2649193960879698, Runtime: 0.19743 seconds
+2025/11/27 03:04:34 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 92, Current best: 0.2721489859245669, Global best: 0.2649193960879698, Runtime: 0.20221 seconds
+2025/11/27 03:04:34 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 93, Current best: 0.26846993650237433, Global best: 0.2649193960879698, Runtime: 0.19444 seconds
+2025/11/27 03:04:34 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 94, Current best: 0.2717459050801547, Global best: 0.2649193960879698, Runtime: 0.18670 seconds
+2025/11/27 03:04:34 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 95, Current best: 0.2723991847871121, Global best: 0.2649193960879698, Runtime: 0.18196 seconds
+2025/11/27 03:04:34 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 96, Current best: 0.270824655777586, Global best: 0.2649193960879698, Runtime: 0.18177 seconds
+2025/11/27 03:04:35 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 97, Current best: 0.2699795390242934, Global best: 0.2649193960879698, Runtime: 0.19819 seconds
+2025/11/27 03:04:35 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 98, Current best: 0.2689810828578651, Global best: 0.2649193960879698, Runtime: 0.20474 seconds
+2025/11/27 03:04:35 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 99, Current best: 0.26894230425662163, Global best: 0.2649193960879698, Runtime: 0.20586 seconds
+2025/11/27 03:04:35 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 100, Current best: 0.27128478278582696, Global best: 0.2649193960879698, Runtime: 0.18825 seconds
+Запуск экспериментов для: wine_quality
+Режим конфигурации: fast
+============================================================
+
+========================================
+АУДИТ СИСТЕМЫ
+========================================
+[INFO] Запуск аудита системы...
+
+============================================================
+ОТЧЕТ ОБ АУДИТЕ СИСТЕМЫ
+============================================================
+
+📅 Время аудита: 2025-11-27T03:04:12.943305
+
+[INFO] СИСТЕМА:
+   Платформа: Linux-6.17.4-76061704-generic-x86_64-with-glibc2.39
+   Система: Linux 6.17.4-76061704-generic
+   Процессор: x86_64
+
+[ЖЕЛЕЗО]
+   CPU (физических/логических): 8/16
+   Частота CPU: 3853.91 MHz
+   Память: 14.81 GB (доступно: 6.81 GB)
+   Диск: 459.52 GB (свободно: 102.56 GB)
+
+[PYTHON]
+   Версия: 3.12.3
+   Исполняемый файл: /home/lebedeffson/venv/bin/python
+
+[БИБЛИОТЕКИ]
+   numpy: 1.26.0
+   pandas: 2.1.3
+   scikit-learn: not installed
+   matplotlib: 3.10.5
+   seaborn: 0.13.2
+   torch: 2.8.0+cu128
+   shap: 0.48.0
+   PyYAML: not installed
+
+[GPU]
+   Доступен: Да
+   Количество устройств: 1
+   Устройство 0: NVIDIA GeForce RTX 4060 Laptop GPU
+      Память: 7.62 GB
+      Compute Capability: 8.9
+
+[ПАМЯТЬ] Текущее состояние:
+   Использовано: 8.01 GB (54.1%)
+   Свободно: 5.50 GB
+
+[INFO] CPU (текущее состояние):
+   Использование: 8.4%
+============================================================
+
+[OK] Отчет сохранен в: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/wine_quality/system_audit.json
+[INFO] Загрузка датасета: Red Wine Quality
+[OK] Загружено: 1599 образцов, 12 колонок
+[INFO] Колонки: ['fixed acidity', 'volatile acidity', 'citric acid', 'residual sugar', 'chlorides', 'free sulfur dioxide', 'total sulfur dioxide', 'density', 'pH', 'sulphates', 'alcohol', 'quality']
+[WARNING] Target колонка не определена автоматически. Используется последняя колонка: 'quality'
+
+[INFO] Распределение классов для 'quality':
+   Класс 3: 10 образцов (0.6%)
+   Класс 4: 53 образцов (3.3%)
+   Класс 5: 681 образцов (42.6%)
+   Класс 6: 638 образцов (39.9%)
+   Класс 7: 199 образцов (12.4%)
+   Класс 8: 18 образцов (1.1%)
+[INFO] Подготовлено:
+   Целевая переменная: 'quality' (6 уникальных значений)
+   Признаков: 11
+   Названия признаков: ['fixed acidity', 'volatile acidity', 'citric acid', 'residual sugar', 'chlorides']...
+[OK] Предобработка завершена:
+   Train: 1199 объектов
+   Test: (400, 11) объектов
+   Признаков: 11
+
+========================================
+ЭКСПЕРИМЕНТ 1: Vanilla ANFIS
+========================================
+[INFO] Обучение Vanilla ANFIS (Регрессия)...
+
+[OK] Vanilla ANFIS (Регрессия) обучен успешно!
+   RMSE: 0.6571
+   MAE: 0.4983
+   R²: 0.3346
+   Время: 20.56 сек
+
+========================================
+ЭКСПЕРИМЕНТ 2: Post-hoc SHAP (Vanilla ANFIS)
+========================================
+[INFO] Post-hoc SHAP анализ (регрессии)...
+  0%|          | 0/100 [00:00<?, ?it/s]  1%|          | 1/100 [00:00<00:32,  3.01it/s]  2%|▏         | 2/100 [00:00<00:31,  3.10it/s]  3%|▎         | 3/100 [00:01<00:33,  2.90it/s]  4%|▍         | 4/100 [00:01<00:33,  2.88it/s]  5%|▌         | 5/100 [00:01<00:32,  2.89it/s]  6%|▌         | 6/100 [00:02<00:31,  3.00it/s]  7%|▋         | 7/100 [00:02<00:31,  2.99it/s]  8%|▊         | 8/100 [00:02<00:30,  3.05it/s]  9%|▉         | 9/100 [00:03<00:30,  2.94it/s] 10%|█         | 10/100 [00:03<00:29,  3.00it/s] 11%|█         | 11/100 [00:03<00:29,  3.04it/s] 12%|█▏        | 12/100 [00:03<00:28,  3.11it/s] 13%|█▎        | 13/100 [00:04<00:28,  3.02it/s] 14%|█▍        | 14/100 [00:04<00:28,  3.00it/s] 15%|█▌        | 15/100 [00:05<00:29,  2.88it/s] 16%|█▌        | 16/100 [00:05<00:28,  2.92it/s] 17%|█▋        | 17/100 [00:05<00:28,  2.87it/s] 18%|█▊        | 18/100 [00:06<00:28,  2.92it/s] 19%|█▉        | 19/100 [00:06<00:28,  2.81it/s] 20%|██        | 20/100 [00:06<00:28,  2.85it/s] 21%|██        | 21/100 [00:07<00:28,  2.78it/s] 22%|██▏       | 22/100 [00:07<00:28,  2.71it/s] 23%|██▎       | 23/100 [00:07<00:29,  2.63it/s] 24%|██▍       | 24/100 [00:08<00:28,  2.66it/s] 25%|██▌       | 25/100 [00:08<00:27,  2.73it/s] 26%|██▌       | 26/100 [00:09<00:26,  2.84it/s] 27%|██▋       | 27/100 [00:09<00:26,  2.77it/s] 28%|██▊       | 28/100 [00:09<00:24,  2.91it/s] 29%|██▉       | 29/100 [00:10<00:24,  2.86it/s] 30%|███       | 30/100 [00:10<00:23,  3.01it/s] 31%|███       | 31/100 [00:10<00:23,  2.99it/s] 32%|███▏      | 32/100 [00:11<00:22,  3.03it/s] 33%|███▎      | 33/100 [00:11<00:22,  2.92it/s] 34%|███▍      | 34/100 [00:11<00:22,  2.92it/s] 35%|███▌      | 35/100 [00:12<00:22,  2.83it/s] 36%|███▌      | 36/100 [00:12<00:21,  2.91it/s] 37%|███▋      | 37/100 [00:12<00:21,  2.88it/s] 38%|███▊      | 38/100 [00:13<00:20,  2.99it/s] 39%|███▉      | 39/100 [00:13<00:20,  2.98it/s] 40%|████      | 40/100 [00:13<00:19,  3.10it/s] 41%|████      | 41/100 [00:14<00:19,  2.95it/s] 42%|████▏     | 42/100 [00:14<00:19,  3.03it/s] 43%|████▎     | 43/100 [00:14<00:19,  2.98it/s] 44%|████▍     | 44/100 [00:15<00:18,  2.99it/s] 45%|████▌     | 45/100 [00:15<00:19,  2.85it/s] 46%|████▌     | 46/100 [00:15<00:18,  2.91it/s] 47%|████▋     | 47/100 [00:16<00:18,  2.86it/s] 48%|████▊     | 48/100 [00:16<00:17,  2.94it/s] 49%|████▉     | 49/100 [00:16<00:17,  2.84it/s] 50%|█████     | 50/100 [00:17<00:19,  2.62it/s] 51%|█████     | 51/100 [00:17<00:18,  2.64it/s] 52%|█████▏    | 52/100 [00:17<00:17,  2.77it/s] 53%|█████▎    | 53/100 [00:18<00:16,  2.84it/s] 54%|█████▍    | 54/100 [00:18<00:16,  2.84it/s] 55%|█████▌    | 55/100 [00:19<00:16,  2.79it/s] 56%|█████▌    | 56/100 [00:19<00:15,  2.91it/s] 57%|█████▋    | 57/100 [00:19<00:14,  2.90it/s] 58%|█████▊    | 58/100 [00:20<00:14,  2.98it/s] 59%|█████▉    | 59/100 [00:20<00:13,  2.99it/s] 60%|██████    | 60/100 [00:20<00:13,  3.06it/s] 61%|██████    | 61/100 [00:21<00:13,  2.95it/s] 62%|██████▏   | 62/100 [00:21<00:12,  2.95it/s] 63%|██████▎   | 63/100 [00:21<00:12,  2.98it/s] 64%|██████▍   | 64/100 [00:21<00:11,  3.10it/s] 65%|██████▌   | 65/100 [00:22<00:11,  3.09it/s] 66%|██████▌   | 66/100 [00:22<00:10,  3.15it/s] 67%|██████▋   | 67/100 [00:22<00:11,  2.97it/s] 68%|██████▊   | 68/100 [00:23<00:10,  2.95it/s] 69%|██████▉   | 69/100 [00:23<00:10,  2.88it/s] 70%|███████   | 70/100 [00:24<00:10,  2.94it/s] 71%|███████   | 71/100 [00:24<00:10,  2.87it/s] 72%|███████▏  | 72/100 [00:24<00:10,  2.77it/s] 73%|███████▎  | 73/100 [00:25<00:09,  2.73it/s] 74%|███████▍  | 74/100 [00:25<00:09,  2.79it/s] 75%|███████▌  | 75/100 [00:25<00:09,  2.69it/s] 76%|███████▌  | 76/100 [00:26<00:08,  2.77it/s] 77%|███████▋  | 77/100 [00:26<00:08,  2.73it/s] 78%|███████▊  | 78/100 [00:26<00:07,  2.78it/s] 79%|███████▉  | 79/100 [00:27<00:07,  2.74it/s] 80%|████████  | 80/100 [00:27<00:07,  2.84it/s] 81%|████████  | 81/100 [00:28<00:06,  2.80it/s] 82%|████████▏ | 82/100 [00:28<00:06,  2.59it/s] 83%|████████▎ | 83/100 [00:28<00:06,  2.57it/s] 84%|████████▍ | 84/100 [00:29<00:06,  2.44it/s] 85%|████████▌ | 85/100 [00:29<00:05,  2.51it/s] 86%|████████▌ | 86/100 [00:30<00:05,  2.61it/s] 87%|████████▋ | 87/100 [00:30<00:04,  2.62it/s] 88%|████████▊ | 88/100 [00:30<00:04,  2.65it/s] 89%|████████▉ | 89/100 [00:31<00:04,  2.68it/s] 90%|█████████ | 90/100 [00:31<00:03,  2.77it/s] 91%|█████████ | 91/100 [00:31<00:03,  2.80it/s] 92%|█████████▏| 92/100 [00:32<00:02,  2.86it/s] 93%|█████████▎| 93/100 [00:32<00:02,  2.92it/s] 94%|█████████▍| 94/100 [00:32<00:02,  2.92it/s] 95%|█████████▌| 95/100 [00:33<00:01,  2.90it/s] 96%|█████████▌| 96/100 [00:33<00:01,  2.87it/s] 97%|█████████▋| 97/100 [00:33<00:01,  2.87it/s] 98%|█████████▊| 98/100 [00:34<00:00,  2.86it/s] 99%|█████████▉| 99/100 [00:34<00:00,  2.85it/s]100%|██████████| 100/100 [00:34<00:00,  2.82it/s]100%|██████████| 100/100 [00:34<00:00,  2.86it/s]
+2025/11/27 03:05:10 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: BaseGA(epoch=100, pop_size=30, pc=0.95, pm=0.025)
+2025/11/27 03:05:10 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 1, Current best: 0.1688814975519432, Global best: 0.1688814975519432, Runtime: 0.10469 seconds
+2025/11/27 03:05:11 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 2, Current best: 0.1700935301086315, Global best: 0.1688814975519432, Runtime: 0.09309 seconds
+2025/11/27 03:05:11 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 3, Current best: 0.17503913234390667, Global best: 0.1688814975519432, Runtime: 0.08608 seconds
+2025/11/27 03:05:11 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 4, Current best: 0.17498332658416588, Global best: 0.1688814975519432, Runtime: 0.08891 seconds
+2025/11/27 03:05:11 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 5, Current best: 0.16504221686923815, Global best: 0.16504221686923815, Runtime: 0.08082 seconds
+2025/11/27 03:05:11 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 6, Current best: 0.16997522761411346, Global best: 0.16504221686923815, Runtime: 0.08288 seconds
+2025/11/27 03:05:11 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 7, Current best: 0.1629971120177953, Global best: 0.1629971120177953, Runtime: 0.08328 seconds
+2025/11/27 03:05:11 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 8, Current best: 0.15990854994812764, Global best: 0.15990854994812764, Runtime: 0.08251 seconds
+2025/11/27 03:05:11 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 9, Current best: 0.14947189645677383, Global best: 0.14947189645677383, Runtime: 0.08318 seconds
+2025/11/27 03:05:11 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 10, Current best: 0.15579059094191053, Global best: 0.14947189645677383, Runtime: 0.08705 seconds
+2025/11/27 03:05:11 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 11, Current best: 0.1517057129899814, Global best: 0.14947189645677383, Runtime: 0.08070 seconds
+2025/11/27 03:05:11 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 12, Current best: 0.149081176140117, Global best: 0.149081176140117, Runtime: 0.07983 seconds
+2025/11/27 03:05:11 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 13, Current best: 0.1409932795890478, Global best: 0.1409932795890478, Runtime: 0.08505 seconds
+2025/11/27 03:05:12 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 14, Current best: 0.144959424118627, Global best: 0.1409932795890478, Runtime: 0.08852 seconds
+2025/11/27 03:05:12 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 15, Current best: 0.14125330303639658, Global best: 0.1409932795890478, Runtime: 0.07937 seconds
+2025/11/27 03:05:12 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 16, Current best: 0.13928058227645182, Global best: 0.13928058227645182, Runtime: 0.08632 seconds
+2025/11/27 03:05:12 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 17, Current best: 0.13634178345943382, Global best: 0.13634178345943382, Runtime: 0.09029 seconds
+2025/11/27 03:05:12 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 18, Current best: 0.13677589929197892, Global best: 0.13634178345943382, Runtime: 0.07985 seconds
+2025/11/27 03:05:12 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 19, Current best: 0.13761289425331882, Global best: 0.13634178345943382, Runtime: 0.08276 seconds
+2025/11/27 03:05:12 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 20, Current best: 0.12961305975500237, Global best: 0.12961305975500237, Runtime: 0.08161 seconds
+2025/11/27 03:05:12 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 21, Current best: 0.13169104724119107, Global best: 0.12961305975500237, Runtime: 0.08035 seconds
+2025/11/27 03:05:12 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 22, Current best: 0.12984287159523092, Global best: 0.12961305975500237, Runtime: 0.08526 seconds
+2025/11/27 03:05:12 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 23, Current best: 0.12620714746801753, Global best: 0.12620714746801753, Runtime: 0.07903 seconds
+2025/11/27 03:05:12 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 24, Current best: 0.13144956893283563, Global best: 0.12620714746801753, Runtime: 0.07758 seconds
+2025/11/27 03:05:12 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 25, Current best: 0.13116189450136345, Global best: 0.12620714746801753, Runtime: 0.07969 seconds
+2025/11/27 03:05:13 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 26, Current best: 0.13188197850717018, Global best: 0.12620714746801753, Runtime: 0.08354 seconds
+2025/11/27 03:05:13 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 27, Current best: 0.1319178158246683, Global best: 0.12620714746801753, Runtime: 0.08504 seconds
+2025/11/27 03:05:13 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 28, Current best: 0.12873855494796316, Global best: 0.12620714746801753, Runtime: 0.08763 seconds
+2025/11/27 03:05:13 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 29, Current best: 0.1288720592901518, Global best: 0.12620714746801753, Runtime: 0.11184 seconds
+2025/11/27 03:05:13 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 30, Current best: 0.1267947892957659, Global best: 0.12620714746801753, Runtime: 0.11772 seconds
+2025/11/27 03:05:13 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 31, Current best: 0.12564872373175207, Global best: 0.12564872373175207, Runtime: 0.07661 seconds
+2025/11/27 03:05:13 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 32, Current best: 0.12752130510211374, Global best: 0.12564872373175207, Runtime: 0.08317 seconds
+2025/11/27 03:05:13 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 33, Current best: 0.12835939657085704, Global best: 0.12564872373175207, Runtime: 0.08694 seconds
+2025/11/27 03:05:13 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 34, Current best: 0.1242575903337547, Global best: 0.1242575903337547, Runtime: 0.07965 seconds
+2025/11/27 03:05:13 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 35, Current best: 0.12325710620358678, Global best: 0.12325710620358678, Runtime: 0.08010 seconds
+2025/11/27 03:05:13 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 36, Current best: 0.1241789298856861, Global best: 0.12325710620358678, Runtime: 0.08396 seconds
+2025/11/27 03:05:14 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 37, Current best: 0.12416026863927812, Global best: 0.12325710620358678, Runtime: 0.07991 seconds
+2025/11/27 03:05:14 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 38, Current best: 0.11739657377734147, Global best: 0.11739657377734147, Runtime: 0.08757 seconds
+2025/11/27 03:05:14 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 39, Current best: 0.11785132436038395, Global best: 0.11739657377734147, Runtime: 0.08679 seconds
+2025/11/27 03:05:14 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 40, Current best: 0.12040238436029767, Global best: 0.11739657377734147, Runtime: 0.08179 seconds
+2025/11/27 03:05:14 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 41, Current best: 0.11155886886301687, Global best: 0.11155886886301687, Runtime: 0.08040 seconds
+2025/11/27 03:05:14 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 42, Current best: 0.1185480588473871, Global best: 0.11155886886301687, Runtime: 0.08221 seconds
+2025/11/27 03:05:14 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 43, Current best: 0.11335076942291891, Global best: 0.11155886886301687, Runtime: 0.07810 seconds
+2025/11/27 03:05:14 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 44, Current best: 0.11510940891835901, Global best: 0.11155886886301687, Runtime: 0.08155 seconds
+2025/11/27 03:05:14 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 45, Current best: 0.11254871863993741, Global best: 0.11155886886301687, Runtime: 0.08185 seconds
+2025/11/27 03:05:14 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 46, Current best: 0.11374384845512055, Global best: 0.11155886886301687, Runtime: 0.08653 seconds
+2025/11/27 03:05:14 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 47, Current best: 0.11308380458605143, Global best: 0.11155886886301687, Runtime: 0.09489 seconds
+2025/11/27 03:05:14 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 48, Current best: 0.11721755051988168, Global best: 0.11155886886301687, Runtime: 0.08814 seconds
+2025/11/27 03:05:15 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 49, Current best: 0.1154971250302765, Global best: 0.11155886886301687, Runtime: 0.08038 seconds
+2025/11/27 03:05:15 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 50, Current best: 0.10500417977181825, Global best: 0.10500417977181825, Runtime: 0.08400 seconds
+2025/11/27 03:05:15 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 51, Current best: 0.10905022425884227, Global best: 0.10500417977181825, Runtime: 0.08336 seconds
+2025/11/27 03:05:15 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 52, Current best: 0.10396868951489069, Global best: 0.10396868951489069, Runtime: 0.08122 seconds
+2025/11/27 03:05:15 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 53, Current best: 0.11000397526874622, Global best: 0.10396868951489069, Runtime: 0.08292 seconds
+2025/11/27 03:05:15 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 54, Current best: 0.10739993550527345, Global best: 0.10396868951489069, Runtime: 0.08426 seconds
+2025/11/27 03:05:15 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 55, Current best: 0.10474179048167116, Global best: 0.10396868951489069, Runtime: 0.08051 seconds
+2025/11/27 03:05:15 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 56, Current best: 0.10629021311955057, Global best: 0.10396868951489069, Runtime: 0.08880 seconds
+2025/11/27 03:05:15 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 57, Current best: 0.10143882697978654, Global best: 0.10143882697978654, Runtime: 0.09041 seconds
+2025/11/27 03:05:15 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 58, Current best: 0.1021818334991309, Global best: 0.10143882697978654, Runtime: 0.09056 seconds
+2025/11/27 03:05:15 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 59, Current best: 0.10270483195676207, Global best: 0.10143882697978654, Runtime: 0.08303 seconds
+2025/11/27 03:05:16 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 60, Current best: 0.10737121148003155, Global best: 0.10143882697978654, Runtime: 0.09690 seconds
+2025/11/27 03:05:16 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 61, Current best: 0.1041411856636887, Global best: 0.10143882697978654, Runtime: 0.10264 seconds
+2025/11/27 03:05:16 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 62, Current best: 0.1069442479900681, Global best: 0.10143882697978654, Runtime: 0.08846 seconds
+2025/11/27 03:05:16 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 63, Current best: 0.10500242323020814, Global best: 0.10143882697978654, Runtime: 0.08232 seconds
+2025/11/27 03:05:16 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 64, Current best: 0.10719495216040059, Global best: 0.10143882697978654, Runtime: 0.08317 seconds
+2025/11/27 03:05:16 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 65, Current best: 0.10588092283933122, Global best: 0.10143882697978654, Runtime: 0.08099 seconds
+2025/11/27 03:05:16 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 66, Current best: 0.10553944905571826, Global best: 0.10143882697978654, Runtime: 0.11761 seconds
+2025/11/27 03:05:16 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 67, Current best: 0.09986981206241183, Global best: 0.09986981206241183, Runtime: 0.08167 seconds
+2025/11/27 03:05:16 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 68, Current best: 0.10374383560741364, Global best: 0.09986981206241183, Runtime: 0.11791 seconds
+2025/11/27 03:05:16 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 69, Current best: 0.10120252763323151, Global best: 0.09986981206241183, Runtime: 0.09205 seconds
+2025/11/27 03:05:16 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 70, Current best: 0.10666819656815107, Global best: 0.09986981206241183, Runtime: 0.08010 seconds
+2025/11/27 03:05:17 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 71, Current best: 0.10028028009684703, Global best: 0.09986981206241183, Runtime: 0.07783 seconds
+2025/11/27 03:05:17 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 72, Current best: 0.10090861342411302, Global best: 0.09986981206241183, Runtime: 0.08037 seconds
+2025/11/27 03:05:17 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 73, Current best: 0.10199434363710908, Global best: 0.09986981206241183, Runtime: 0.08375 seconds
+2025/11/27 03:05:17 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 74, Current best: 0.10349132520799287, Global best: 0.09986981206241183, Runtime: 0.08244 seconds
+2025/11/27 03:05:17 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 75, Current best: 0.10349325799155223, Global best: 0.09986981206241183, Runtime: 0.08706 seconds
+2025/11/27 03:05:17 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 76, Current best: 0.10167117238976062, Global best: 0.09986981206241183, Runtime: 0.08409 seconds
+2025/11/27 03:05:17 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 77, Current best: 0.10291696147766799, Global best: 0.09986981206241183, Runtime: 0.08486 seconds
+2025/11/27 03:05:17 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 78, Current best: 0.10260110381856577, Global best: 0.09986981206241183, Runtime: 0.08802 seconds
+2025/11/27 03:05:17 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 79, Current best: 0.10180813139196118, Global best: 0.09986981206241183, Runtime: 0.08384 seconds
+2025/11/27 03:05:17 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 80, Current best: 0.0980782127801632, Global best: 0.0980782127801632, Runtime: 0.08652 seconds
+2025/11/27 03:05:17 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 81, Current best: 0.0975952698935771, Global best: 0.0975952698935771, Runtime: 0.08531 seconds
+2025/11/27 03:05:17 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 82, Current best: 0.09981277255929001, Global best: 0.0975952698935771, Runtime: 0.08435 seconds
+2025/11/27 03:05:18 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 83, Current best: 0.10123324848712684, Global best: 0.0975952698935771, Runtime: 0.08595 seconds
+2025/11/27 03:05:18 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 84, Current best: 0.10112145129059172, Global best: 0.0975952698935771, Runtime: 0.08557 seconds
+2025/11/27 03:05:18 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 85, Current best: 0.09399580760963318, Global best: 0.09399580760963318, Runtime: 0.08352 seconds
+2025/11/27 03:05:18 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 86, Current best: 0.09454472825779021, Global best: 0.09399580760963318, Runtime: 0.07894 seconds
+2025/11/27 03:05:18 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 87, Current best: 0.09828954953313826, Global best: 0.09399580760963318, Runtime: 0.08053 seconds
+2025/11/27 03:05:18 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 88, Current best: 0.09923545001233663, Global best: 0.09399580760963318, Runtime: 0.08205 seconds
+2025/11/27 03:05:18 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 89, Current best: 0.1020443180105849, Global best: 0.09399580760963318, Runtime: 0.08591 seconds
+2025/11/27 03:05:18 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 90, Current best: 0.1012263073967722, Global best: 0.09399580760963318, Runtime: 0.08756 seconds
+2025/11/27 03:05:18 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 91, Current best: 0.10165131432708904, Global best: 0.09399580760963318, Runtime: 0.10400 seconds
+2025/11/27 03:05:18 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 92, Current best: 0.09949772564211116, Global best: 0.09399580760963318, Runtime: 0.13386 seconds
+2025/11/27 03:05:18 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 93, Current best: 0.09764775764781235, Global best: 0.09399580760963318, Runtime: 0.09858 seconds
+2025/11/27 03:05:19 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 94, Current best: 0.10425118367574043, Global best: 0.09399580760963318, Runtime: 0.08374 seconds
+2025/11/27 03:05:19 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 95, Current best: 0.1021329920358886, Global best: 0.09399580760963318, Runtime: 0.08132 seconds
+2025/11/27 03:05:19 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 96, Current best: 0.10317891001727104, Global best: 0.09399580760963318, Runtime: 0.07933 seconds
+2025/11/27 03:05:19 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 97, Current best: 0.10368075739824917, Global best: 0.09399580760963318, Runtime: 0.08153 seconds
+2025/11/27 03:05:19 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 98, Current best: 0.09698597825729906, Global best: 0.09399580760963318, Runtime: 0.08572 seconds
+2025/11/27 03:05:19 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 99, Current best: 0.0994567105864894, Global best: 0.09399580760963318, Runtime: 0.08526 seconds
+2025/11/27 03:05:19 AM, INFO, mealpy.evolutionary_based.GA.BaseGA: >>>Problem: P, Epoch: 100, Current best: 0.09832755199681742, Global best: 0.09399580760963318, Runtime: 0.08436 seconds
+[OK] SHAP анализ завершен за 34.99 сек
+
+========================================
+ЭКСПЕРИМЕНТ 3: Baseline-Masked Feature Sensitivity Regularization
+========================================
+[INFO] Начинаю обучение ANFIS с Baseline-Masked Feature Sensitivity Regularization (оценка чувствительности признаков) (регрессии)...
+   Эпоха 5/25: Total: 0.8017, Main: 0.5345, SHAP: 0.0003, Train RMSE: 0.7189, R²: 0.2157 | Val RMSE: 0.7772, R²: 0.0366, Время: 1.03с
+   Эпоха 10/25: Total: 0.7226, Main: 0.4817, SHAP: 0.0003, Train RMSE: 0.6896, R²: 0.2784 | Val RMSE: 0.7487, R²: 0.1061, Время: 1.00с
+   [WARNING] Ранняя остановка на эпохе 11 (лучшая эпоха: 1)
+[OK] Обучение завершено за 13.04 сек
+[OK] Baseline-Masked Feature Sensitivity Regularization (оценка чувствительности признаков) завершена:
+   rmse: 0.8514
+   mae: 0.6324
+   r2: -0.1169
+   Время: 13.04 сек
+
+========================================
+ЭКСПЕРИМЕНТ 4: Post-hoc SHAP (Baseline-Masked Feature Sensitivity Regularization (оценка чувствительности признаков))
+========================================
+[INFO] Post-hoc SHAP анализ (регрессии)...
+  0%|          | 0/100 [00:00<?, ?it/s]  1%|          | 1/100 [00:00<00:26,  3.75it/s]  2%|▏         | 2/100 [00:00<00:28,  3.42it/s]  3%|▎         | 3/100 [00:00<00:28,  3.38it/s]  4%|▍         | 4/100 [00:01<00:30,  3.18it/s]  5%|▌         | 5/100 [00:01<00:29,  3.24it/s]  6%|▌         | 6/100 [00:01<00:29,  3.14it/s]  7%|▋         | 7/100 [00:02<00:29,  3.15it/s]  8%|▊         | 8/100 [00:02<00:30,  3.04it/s]  9%|▉         | 9/100 [00:02<00:29,  3.09it/s] 10%|█         | 10/100 [00:03<00:29,  3.00it/s] 11%|█         | 11/100 [00:03<00:28,  3.07it/s] 12%|█▏        | 12/100 [00:03<00:30,  2.92it/s] 13%|█▎        | 13/100 [00:04<00:29,  2.95it/s] 14%|█▍        | 14/100 [00:04<00:29,  2.88it/s] 15%|█▌        | 15/100 [00:04<00:28,  2.94it/s] 16%|█▌        | 16/100 [00:05<00:28,  2.97it/s] 17%|█▋        | 17/100 [00:05<00:27,  3.05it/s] 18%|█▊        | 18/100 [00:05<00:28,  2.84it/s] 19%|█▉        | 19/100 [00:06<00:27,  2.93it/s] 20%|██        | 20/100 [00:06<00:28,  2.81it/s] 21%|██        | 21/100 [00:06<00:27,  2.84it/s] 22%|██▏       | 22/100 [00:07<00:27,  2.79it/s] 23%|██▎       | 23/100 [00:07<00:26,  2.91it/s] 24%|██▍       | 24/100 [00:08<00:26,  2.88it/s] 25%|██▌       | 25/100 [00:08<00:25,  2.98it/s] 26%|██▌       | 26/100 [00:08<00:23,  3.09it/s] 27%|██▋       | 27/100 [00:08<00:22,  3.19it/s] 28%|██▊       | 28/100 [00:09<00:22,  3.18it/s] 29%|██▉       | 29/100 [00:09<00:22,  3.16it/s] 30%|███       | 30/100 [00:09<00:22,  3.10it/s] 31%|███       | 31/100 [00:10<00:23,  2.90it/s] 32%|███▏      | 32/100 [00:10<00:23,  2.86it/s] 33%|███▎      | 33/100 [00:11<00:23,  2.83it/s] 34%|███▍      | 34/100 [00:11<00:23,  2.83it/s] 35%|███▌      | 35/100 [00:11<00:23,  2.75it/s] 36%|███▌      | 36/100 [00:12<00:23,  2.72it/s] 37%|███▋      | 37/100 [00:12<00:23,  2.73it/s] 38%|███▊      | 38/100 [00:12<00:22,  2.70it/s] 39%|███▉      | 39/100 [00:13<00:22,  2.69it/s] 40%|████      | 40/100 [00:13<00:22,  2.66it/s] 41%|████      | 41/100 [00:14<00:22,  2.64it/s] 42%|████▏     | 42/100 [00:14<00:21,  2.64it/s] 43%|████▎     | 43/100 [00:14<00:21,  2.70it/s] 44%|████▍     | 44/100 [00:15<00:19,  2.85it/s] 45%|████▌     | 45/100 [00:15<00:18,  3.00it/s] 46%|████▌     | 46/100 [00:15<00:16,  3.18it/s] 47%|████▋     | 47/100 [00:15<00:16,  3.26it/s] 48%|████▊     | 48/100 [00:16<00:15,  3.33it/s] 49%|████▉     | 49/100 [00:16<00:15,  3.38it/s] 50%|█████     | 50/100 [00:16<00:14,  3.40it/s] 51%|█████     | 51/100 [00:17<00:14,  3.44it/s] 52%|█████▏    | 52/100 [00:17<00:14,  3.33it/s] 53%|█████▎    | 53/100 [00:17<00:14,  3.14it/s] 54%|█████▍    | 54/100 [00:18<00:15,  3.04it/s] 55%|█████▌    | 55/100 [00:18<00:16,  2.80it/s] 56%|█████▌    | 56/100 [00:18<00:15,  2.79it/s] 57%|█████▋    | 57/100 [00:19<00:15,  2.85it/s] 58%|█████▊    | 58/100 [00:19<00:14,  2.86it/s] 59%|█████▉    | 59/100 [00:19<00:14,  2.87it/s] 60%|██████    | 60/100 [00:20<00:13,  2.90it/s] 61%|██████    | 61/100 [00:20<00:13,  2.88it/s] 62%|██████▏   | 62/100 [00:21<00:13,  2.74it/s] 63%|██████▎   | 63/100 [00:21<00:13,  2.75it/s] 64%|██████▍   | 64/100 [00:21<00:12,  2.81it/s] 65%|██████▌   | 65/100 [00:22<00:12,  2.77it/s] 66%|██████▌   | 66/100 [00:22<00:12,  2.68it/s] 67%|██████▋   | 67/100 [00:22<00:12,  2.69it/s] 68%|██████▊   | 68/100 [00:23<00:11,  2.73it/s] 69%|██████▉   | 69/100 [00:23<00:10,  2.82it/s] 70%|███████   | 70/100 [00:23<00:10,  2.87it/s] 71%|███████   | 71/100 [00:24<00:09,  2.94it/s] 72%|███████▏  | 72/100 [00:24<00:09,  2.91it/s] 73%|███████▎  | 73/100 [00:24<00:09,  2.86it/s] 74%|███████▍  | 74/100 [00:25<00:09,  2.84it/s] 75%|███████▌  | 75/100 [00:25<00:08,  2.88it/s] 76%|███████▌  | 76/100 [00:25<00:08,  2.93it/s] 77%|███████▋  | 77/100 [00:26<00:07,  2.99it/s] 78%|███████▊  | 78/100 [00:26<00:07,  2.98it/s] 79%|███████▉  | 79/100 [00:26<00:07,  2.89it/s] 80%|████████  | 80/100 [00:27<00:06,  2.90it/s] 81%|████████  | 81/100 [00:27<00:06,  2.79it/s] 82%|████████▏ | 82/100 [00:28<00:06,  2.86it/s] 83%|████████▎ | 83/100 [00:28<00:06,  2.83it/s] 84%|████████▍ | 84/100 [00:28<00:05,  2.70it/s] 85%|████████▌ | 85/100 [00:29<00:05,  2.70it/s] 86%|████████▌ | 86/100 [00:29<00:05,  2.75it/s] 87%|████████▋ | 87/100 [00:29<00:04,  2.78it/s] 88%|████████▊ | 88/100 [00:30<00:04,  2.82it/s] 89%|████████▉ | 89/100 [00:30<00:03,  2.84it/s] 90%|█████████ | 90/100 [00:30<00:03,  2.89it/s] 91%|█████████ | 91/100 [00:31<00:03,  2.90it/s] 92%|█████████▏| 92/100 [00:31<00:02,  2.92it/s] 93%|█████████▎| 93/100 [00:31<00:02,  2.90it/s] 94%|█████████▍| 94/100 [00:32<00:02,  2.87it/s] 95%|█████████▌| 95/100 [00:32<00:01,  2.80it/s] 96%|█████████▌| 96/100 [00:32<00:01,  2.84it/s] 97%|█████████▋| 97/100 [00:33<00:01,  2.91it/s] 98%|█████████▊| 98/100 [00:33<00:00,  2.89it/s] 99%|█████████▉| 99/100 [00:34<00:00,  2.81it/s]100%|██████████| 100/100 [00:34<00:00,  2.84it/s]100%|██████████| 100/100 [00:34<00:00,  2.91it/s]
+[OK] SHAP анализ завершен за 34.38 сек
+[OK] Параметры post-hoc сохранены: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/wine_quality/posthoc_parameters.json
+[OK] SHAP данные сохранены: /home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/results/wine_quality/shap_data.json
+
+========================================
+СРАВНЕНИЕ ПРАВИЛ ANFIS
+========================================
+[WARNING] Несоответствие размерностей: ожидалось 11 признаков, найдено 66
+[WARNING] Несоответствие размерностей: ожидалось 11 признаков, найдено 66
+[OK] Правила извлечены и сравнены:
+   Среднее сходство: 0.3616
+   Среднее различие коэффициентов: 1.0470
+   Среднее различие ФП: 0.7547
+
+========================================
+СРАВНИТЕЛЬНЫЙ АНАЛИЗ
+========================================
+
+VANILLA:
+  rmse: 0.6571
+  mae: 0.4983
+  r2: 0.3346
+  Время обучения: 20.56 сек
+
+REGULARIZED:
+  rmse: 0.8514
+  mae: 0.6324
+  r2: -0.1169
+  Время обучения: 13.04 сек
+
+[OK] Все эксперименты завершены успешно!
+
+========================================
+СОЗДАНИЕ ВИЗУАЛИЗАЦИИ
+========================================
+
+========================================
+СОЗДАНИЕ ОТДЕЛЬНЫХ ГРАФИКОВ ВЫСОКОГО КАЧЕСТВА
+========================================
+Создание отдельных графиков для Vanilla ANFIS...
+Traceback (most recent call last):
+  File "/home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/experiments/run_experiment.py", line 536, in <module>
+    main()
+  File "/home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/experiments/run_experiment.py", line 336, in main
+    individual_plotter.create_all_vanilla_plots(
+  File "/home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/src/visualization/individual_plots.py", line 224, in create_all_vanilla_plots
+    self.create_confusion_matrix(y_test, y_pred, 'vanilla_confusion_matrix.png')
+  File "/home/lebedeffson/PycharmProjects/шап-рег/XAI-2.0-SHAP-regularized-ANFIS/src/visualization/individual_plots.py", line 76, in create_confusion_matrix
+    cm = confusion_matrix(y_test, y_pred)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lebedeffson/venv/lib/python3.12/site-packages/sklearn/utils/_param_validation.py", line 218, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lebedeffson/venv/lib/python3.12/site-packages/sklearn/metrics/_classification.py", line 467, in confusion_matrix
+    y_type, y_true, y_pred = _check_targets(y_true, y_pred)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lebedeffson/venv/lib/python3.12/site-packages/sklearn/metrics/_classification.py", line 106, in _check_targets
+    raise ValueError(
+ValueError: Classification metrics can't handle a mix of multiclass and continuous targets
