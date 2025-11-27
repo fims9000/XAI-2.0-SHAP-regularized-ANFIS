@@ -923,30 +923,30 @@ class PresentationPlotter:
         # Берем ВСЕ признаки
         n_features = len(feature_names)
         
-        # Сортируем по суммарному вкладу (от большего к меньшему)
+        # Сортируем по суммарному вкладу (от меньшего к большему для горизонтального графика)
         total_importance = np.abs(posthoc_v_norm) + np.abs(posthoc_r_norm)
-        sorted_idx = np.argsort(total_importance)[::-1]  # От большего к меньшему
+        sorted_idx = np.argsort(total_importance)  # От меньшего к большему (сверху вниз будут важные)
         
-        # Размер фигуры - широкая для вертикальных столбцов
-        fig_width = max(14, n_features * 0.5)
-        fig, ax = plt.subplots(figsize=(fig_width, 8))
+        # Портретная ориентация - высокая фигура
+        fig_height = max(8, n_features * 0.5)
+        fig, ax = plt.subplots(figsize=(10, fig_height))
         fig.patch.set_facecolor('white')
         
-        x_pos = np.arange(n_features)
-        width = 0.35
+        y_pos = np.arange(n_features)
+        height = 0.35
         
-        # Вертикальные столбцы (bar вместо barh)
-        bars1 = ax.bar(x_pos - width/2, [posthoc_v_norm[i] for i in sorted_idx], width,
-                       alpha=0.9)
-        bars2 = ax.bar(x_pos + width/2, [posthoc_r_norm[i] for i in sorted_idx], width,
-                       alpha=0.9)
+        # Горизонтальные столбцы (barh)
+        bars1 = ax.barh(y_pos - height/2, [posthoc_v_norm[i] for i in sorted_idx], height,
+                        alpha=0.9, label='Vanilla ANFIS')
+        bars2 = ax.barh(y_pos + height/2, [posthoc_r_norm[i] for i in sorted_idx], height,
+                        alpha=0.9, label='ANFIS + BMFSR')
         
-        ax.set_ylabel('Нормализованная важность', fontsize=14, fontweight='bold')
-        ax.set_xlabel('Признаки', fontsize=14, fontweight='bold')
+        ax.set_xlabel('Нормализованная важность', fontsize=14, fontweight='bold')
+        ax.set_ylabel('Признаки', fontsize=14, fontweight='bold')
         ax.set_title('Post-hoc SHAP: сравнение важности признаков', fontsize=16, fontweight='bold', pad=15)
-        ax.set_xticks(x_pos)
-        ax.set_xticklabels([feature_names[i] for i in sorted_idx], fontsize=9, rotation=45, ha='right')
-        ax.grid(True, alpha=0.3, linestyle='--', linewidth=1, axis='y')
+        ax.set_yticks(y_pos)
+        ax.set_yticklabels([feature_names[i] for i in sorted_idx], fontsize=11)
+        ax.grid(True, alpha=0.3, linestyle='--', linewidth=1, axis='x')
         ax.spines['top'].set_visible(False)
         ax.spines['right'].set_visible(False)
         
